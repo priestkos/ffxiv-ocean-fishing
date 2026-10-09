@@ -1,0 +1,663 @@
+[
+ {
+  "en": "Seafaring Toad",
+  "ja": "オーシャントード",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "3× Beatific Vision"
+  ],
+  "bait": [
+   "Pill Bug"
+  ],
+  "tug": 3,
+  "hookset": "Precision",
+  "spot_en": "Bloodbrine Spectral Current",
+  "spot_ja": "緋汐海沖合：幻海流",
+  "time": [
+   "D"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Cieldalaes Geode",
+  "ja": "シェルダレージオード",
+  "stars": 4,
+  "points": 246,
+  "dur": 60,
+  "req": [
+   "3× Metallic Boxfish"
+  ],
+  "bait": [
+   "Krill"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Cieldalaes Margin",
+  "spot_ja": "シェルダレー諸島沖合",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Hafgufa",
+  "ja": "ハーヴグーヴァ",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "1× Mistbeard's Cup",
+   "2× Jetborne Manta"
+  ],
+  "bait": [
+   "Squid Strip"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Cieldalaes Spectral Current",
+  "spot_ja": "シェルダレー諸島沖合：幻海流",
+  "time": [
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Sothis",
+  "ja": "ソティス",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "2× Heavenskey",
+   "1× Navigator's Print"
+  ],
+  "bait": [
+   "Glowworm"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Galadion Spectral Current",
+  "spot_ja": "ガラディオン湾沖合：幻海流",
+  "time": [
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Mizuhiki",
+  "ja": "水引魚",
+  "stars": 4,
+  "points": 263,
+  "dur": 60,
+  "req": [
+   "2× Silent Shark"
+  ],
+  "bait": [
+   "Ragworm"
+  ],
+  "tug": 3,
+  "hookset": "Precision",
+  "spot_en": "Kugane Coast",
+  "spot_ja": "クガネ沖合",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Glass Dragon",
+  "ja": "瑠璃龍",
+  "stars": 5,
+  "points": 500,
+  "dur": 45,
+  "req": [
+   "2× Shoshitsuki"
+  ],
+  "bait": [],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Kugane Spectral Current",
+  "spot_ja": "クガネ沖合：幻海流",
+  "time": [
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Fishy Shark",
+  "ja": "茂鮫",
+  "stars": 4,
+  "points": 223,
+  "dur": 60,
+  "req": [
+   "3× Catching Carp"
+  ],
+  "bait": [
+   "Plump Worm"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Lower One River",
+  "spot_ja": "無二江下流",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Elasmosaurus",
+  "ja": "エラスモサウルス",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "3× Gugrusaurus"
+  ],
+  "bait": [
+   "Heavy Steel Jig"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Northern Merlthor Spectral Current",
+  "spot_ja": "メルトール海峡北：幻海流",
+  "time": [
+   "D"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Jewel of Plum Spring",
+  "ja": "梅泉宝亀",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "1× Gensui Shrimp",
+   "2× Yanxian Goby"
+  ],
+  "bait": [
+   "Stonefly Nymph"
+  ],
+  "tug": 3,
+  "hookset": "Precision",
+  "spot_en": "One River Spectral Current",
+  "spot_ja": "無二江下流：幻海流",
+  "time": [
+   "D"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Bareface",
+  "ja": "ベアフェイス",
+  "stars": 4,
+  "points": 326,
+  "dur": 60,
+  "req": [
+   "1× Sunken Mask"
+  ],
+  "bait": [
+   "Krill"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Open Bloodbrine Sea",
+  "spot_ja": "緋汐海沖合",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Sabaton",
+  "ja": "シーサバトン",
+  "stars": 4,
+  "points": 204,
+  "dur": 60,
+  "req": [
+   "2× Crimson Monkfish"
+  ],
+  "bait": [
+   "Krill"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Open Rhotano Sea",
+  "spot_ja": "ロータノ海沖合",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Heavensent Shark",
+  "ja": "アメノトラ",
+  "stars": 4,
+  "points": 227,
+  "dur": 60,
+  "req": [
+   "3× Crimson Kelp"
+  ],
+  "bait": [
+   "Krill"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Open Ruby Sea",
+  "spot_ja": "紅玉海沖合",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Dusk Shark",
+  "ja": "ダスキーシャーク",
+  "stars": 4,
+  "points": 263,
+  "dur": 60,
+  "req": [
+   "2× Poet's Pipe"
+  ],
+  "bait": [
+   "Plump Worm"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Open Sirensong Sea",
+  "spot_ja": "セイレーン海沖合",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Drunkfish",
+  "ja": "ドランカードフィッシュ",
+  "stars": 4,
+  "points": 253,
+  "dur": 60,
+  "req": [
+   "3× Galadion Chovy"
+  ],
+  "bait": [
+   "Krill"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Outer Galadion Bay",
+  "spot_ja": "ガラディオン湾沖合",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Ginkgo Fin",
+  "ja": "ギンコフィッシュ",
+  "stars": 4,
+  "points": 238,
+  "dur": 60,
+  "req": [
+   "3× Rothlyt Kelp"
+  ],
+  "bait": [
+   "Ragworm"
+  ],
+  "tug": 3,
+  "hookset": "Precision",
+  "spot_en": "Outer Rothlyt Sound",
+  "spot_ja": "ロズリト湾沖合",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Stonescale",
+  "ja": "ロックスケイル",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "1× Silencer",
+   "1× Deep-sea Eel"
+  ],
+  "bait": [
+   "Rat Tail"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Rhotano Spectral Current",
+  "spot_ja": "ロータノ海沖合：幻海流",
+  "time": [
+   "S"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Placodus",
+  "ja": "プラコドゥス",
+  "stars": 5,
+  "points": 500,
+  "dur": 45,
+  "req": [
+   "1× Trollfish"
+  ],
+  "bait": [],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Rothlyt Spectral Current",
+  "spot_ja": "ロズリト湾沖合：幻海流",
+  "time": [
+   "S"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Hells' Claw",
+  "ja": "獄之蟹",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "2× Fleeting Squid",
+   "1× Flying Squid"
+  ],
+  "bait": [
+   "Squid Strip"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Ruby Spectral Current",
+  "spot_ja": "紅玉海沖合：幻海流",
+  "time": [
+   "S"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Taniwha",
+  "ja": "タニファ",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "3× Sunken Coelacanth"
+  ],
+  "bait": [
+   "Mackerel Strip"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Sirensong Spectral Current",
+  "spot_ja": "セイレーン海沖合：幻海流",
+  "time": [
+   "D"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Coral Manta",
+  "ja": "コーラルマンタ",
+  "stars": 5,
+  "points": 500,
+  "dur": 15,
+  "req": [
+   "2× Great Grandmarlin"
+  ],
+  "bait": [
+   "Shrimp Cage Feeder"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "Southern Merlthor Spectral Current",
+  "spot_ja": "メルトール海峡南：幻海流",
+  "time": [
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Shooting Star",
+  "ja": "海の流星",
+  "stars": 4,
+  "points": 226,
+  "dur": 60,
+  "req": [
+   "1× Elder Dinichthys"
+  ],
+  "bait": [
+   "Ragworm"
+  ],
+  "tug": 3,
+  "hookset": "Precision",
+  "spot_en": "The Northern Strait of Merlthor",
+  "spot_ja": "メルトール海峡北",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ },
+ {
+  "en": "Little Leviathan",
+  "ja": "リトルリヴァイアサン",
+  "stars": 4,
+  "points": 204,
+  "dur": 60,
+  "req": [
+   "1× Gladius"
+  ],
+  "bait": [
+   "Plump Worm"
+  ],
+  "tug": 3,
+  "hookset": "Powerful",
+  "spot_en": "The Southern Strait of Merlthor",
+  "spot_ja": "メルトール海峡南",
+  "time": [
+   "D",
+   "S",
+   "N"
+  ],
+  "dh": [
+   1,
+   1
+  ],
+  "th": [
+   1,
+   1
+  ],
+  "available": null
+ }
+]

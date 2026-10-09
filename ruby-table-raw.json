@@ -1,0 +1,413 @@
+{
+ "route": "ruby",
+ "tz": "America/New_York",
+ "tz_offset_min": 240,
+ "captured_utc": "2026-10-05T17:17:34.933Z",
+ "rows": [
+  [
+   "Time",
+   "Route",
+   "Objectives"
+  ],
+  [
+   "10/05",
+   "2:00 PM",
+   "in 43 minutes",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 PM",
+   "in 3 hours",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "6:00 PM",
+   "in 5 hours",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "8:00 PM",
+   "in 7 hours",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "10:00 PM",
+   "in 9 hours",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "10/06",
+   "12:00 AM",
+   "in 11 hours",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "2:00 AM",
+   "in 13 hours",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 AM",
+   "in 15 hours",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "6:00 AM",
+   "in 17 hours",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "8:00 AM",
+   "in 19 hours",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "10:00 AM",
+   "in 21 hours",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "12:00 PM",
+   "in 23 hours",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "2:00 PM",
+   "in 1 day",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 PM",
+   "in 1 day",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "6:00 PM",
+   "in 1 day",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "8:00 PM",
+   "in 1 day",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "10:00 PM",
+   "in 1 day",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "10/07",
+   "12:00 AM",
+   "in 1 day",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "2:00 AM",
+   "in 2 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 AM",
+   "in 2 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "6:00 AM",
+   "in 2 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "8:00 AM",
+   "in 2 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "10:00 AM",
+   "in 2 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "12:00 PM",
+   "in 2 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "2:00 PM",
+   "in 2 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 PM",
+   "in 2 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "6:00 PM",
+   "in 2 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "8:00 PM",
+   "in 2 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "10:00 PM",
+   "in 2 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "10/08",
+   "12:00 AM",
+   "in 2 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "2:00 AM",
+   "in 3 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 AM",
+   "in 3 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "6:00 AM",
+   "in 3 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "8:00 AM",
+   "in 3 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "10:00 AM",
+   "in 3 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "12:00 PM",
+   "in 3 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "2:00 PM",
+   "in 3 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 PM",
+   "in 3 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "6:00 PM",
+   "in 3 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "8:00 PM",
+   "in 3 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "10:00 PM",
+   "in 3 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "10/09",
+   "12:00 AM",
+   "in 3 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "2:00 AM",
+   "in 4 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 AM",
+   "in 4 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "6:00 AM",
+   "in 4 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "8:00 AM",
+   "in 4 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "10:00 AM",
+   "in 4 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "12:00 PM",
+   "in 4 days",
+   "Ruby Sea",
+   "",
+   ""
+  ],
+  [
+   "",
+   "2:00 PM",
+   "in 4 days",
+   "One River",
+   "",
+   ""
+  ],
+  [
+   "",
+   "4:00 PM",
+   "in 4 days",
+   "Ruby Sea",
+   "",
+   ""
+  ]
+ ]
+}

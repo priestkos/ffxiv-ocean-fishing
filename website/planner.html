@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Planner · Ocean Fishing</title>
+<meta name="description" content="Live Ocean Fishing planner: next voyages and what to catch.">
+<link rel="stylesheet" href="assets/theme.css">
+</head>
+<body>
+<header class="top"><div class="bar">
+  <a class="brand" href="index.html"><span class="mark"></span><span>Ocean Fishing<small>FFXIV reference</small></span></a>
+  <nav class="main"><a href="index.html">Home</a><a href="schedules.html">Schedule</a><a href="fish.html">Fish</a><a href="rewards.html">Rewards</a><a href="planner.html" class='on'>Planner</a><a href="notes.html">Notes</a></nav>
+  <span class="live"><span class="dot"></span><span data-clock>—</span></span>
+</div></header>
+<div class="wrap">
+
+<h1>Planner</h1>
+<p class="muted">The next voyages for both families, with each stop's time of day and the targets worth fishing for. Everything updates live from the same schedule the game uses.</p>
+
+<div class="controls no-print">
+  <span class="chips" id="planfam">
+    <button class="chip on" data-fam="both">Both</button>
+    <button class="chip" data-fam="indigo">Indigo</button>
+    <button class="chip" data-fam="ruby">Ruby</button>
+  </span>
+  <label class="small muted">show
+    <select id="plann">
+      <option>3</option><option selected>6</option><option>9</option><option>15</option>
+    </select> voyages</label>
+</div>
+
+<div id="planner"></div>
+
+<div class="notice sea" style="margin-top:24px"><b>Reading a card:</b> the badge on the left is the route family, the big text is the route, then its local and UTC departure time. Each stop shows the time of day you will fish it and its best targets — <span class="tag intu">INT</span> marks a Fisher's Intuition fish, and the number on the right is its points.</div>
+
+</div>
+<footer><div class="bar">
+  <span>Ocean Fishing reference &amp; planner — private use. Schedule verified against the live tracker; fish data from the community spreadsheet.</span>
+  <span style="margin-left:auto">Next voyage in <b data-next>—</b></span>
+</div></footer>
+<script src="assets/data.js"></script>
+<script src="assets/site.js"></script>
+</body>
+</html>

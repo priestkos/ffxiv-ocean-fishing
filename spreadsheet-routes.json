@@ -1,0 +1,8206 @@
+[
+ {
+  "label": "Shellfish / Shrimp",
+  "stops_desc": "Sirensong Sea at Night, Kugane at Day, One River at Sunset",
+  "stops": [
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Vivid Pink Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5.5 - 8",
+       "Plump Worm": "",
+       "Mackerel Strip": "6 - 7"
+      },
+      "points": 144,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "3.5 - 6",
+       "Krill": "3.5 - 6",
+       "Plump Worm": "3.5 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "5 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Black-jawed Helicoprion",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "5 - 6",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 102,
+      "dh": 4,
+      "th": 7,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Kugane Coast",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Ruby Herring",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "10 - 14 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Whirlpool Turban",
+      "bites": {
+       "Ragworm": "15 - 29",
+       "Krill": "15 - 29",
+       "Plump Worm": "15 - 29",
+       "Versatile Lure": "18 - 32"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Leopard Prawn",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Spear Squid",
+      "bites": {
+       "Ragworm": "18 - 26",
+       "Krill": "17 - 29",
+       "Plump Worm": "12.5 - 24",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 26,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Floating Lantern",
+      "bites": {
+       "Ragworm": "11 - 17",
+       "Krill": "11 - 17",
+       "Plump Worm": "6 - 12",
+       "Versatile Lure": "11 - 17"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rubescent Tatsunoko",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 33,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Hatatate",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "11 - 15",
+       "Plump Worm": "11 - 15",
+       "Versatile Lure": "11 - 15"
+      },
+      "points": 53,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "8 - 12 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Silent Shark",
+      "bites": {
+       "Ragworm": "Mooch only, 6 - 12",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "6 - 11 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Spectral Wrasse",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Mizuhiki",
+      "bites": {
+       "Ragworm": "14 - 26",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Silent Shark (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Kugane Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Snapping Koban"
+    ],
+    "fish": [
+     {
+      "name": "Silkweft Prawn",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Snapping Koban": ""
+      },
+      "points": 58,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Stingfin Trevally",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5.5 - 8",
+       "Plump Worm": "",
+       "Snapping Koban": ""
+      },
+      "points": 191,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Swordtip Squid",
+      "bites": {
+       "Ragworm": "8 - 11",
+       "Krill": "8 - 11",
+       "Plump Worm": "3.5 - 6",
+       "Snapping Koban": ""
+      },
+      "points": 115,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Idaten's Bolt",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 62,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Maelstrom Turban",
+      "bites": {
+       "Ragworm": "4.5 - 8",
+       "Krill": "4.5 - 8",
+       "Plump Worm": "4.5 - 8",
+       "Snapping Koban": ""
+      },
+      "points": 83,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Shoshitsuki",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 92,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Lower One River",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Catching Carp",
+      "bites": {
+       "Ragworm": "6 - 10",
+       "Krill": "6 - 10",
+       "Plump Worm": "6 - 10",
+       "Versatile Lure": "9 - 14"
+      },
+      "points": 10,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Garlean Bluegill",
+      "bites": {
+       "Ragworm": "7 - 12",
+       "Krill": "7 - 12",
+       "Plump Worm": "7 - 12",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Yanxian Softshell",
+      "bites": {
+       "Ragworm": "8 - 15",
+       "Krill": "8 - 15",
+       "Plump Worm": "8 - 15",
+       "Versatile Lure": "10 - 17"
+      },
+      "points": 10,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Princess Salmon",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "10 - 14",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Calligraph",
+      "bites": {
+       "Ragworm": "12 - 18",
+       "Krill": "12 - 18",
+       "Plump Worm": "8 - 14",
+       "Versatile Lure": "12 - 18"
+      },
+      "points": 40,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Singular Shrimp",
+      "bites": {
+       "Ragworm": "13 - 24",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Brocade Carp",
+      "bites": {
+       "Ragworm": "14 - 22",
+       "Krill": "14 - 22",
+       "Plump Worm": "14 - 22",
+       "Versatile Lure": "14 - 22"
+      },
+      "points": 52,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Yanxian Sturgeon",
+      "bites": {
+       "Ragworm": "11 - 16",
+       "Krill": "11 - 16",
+       "Plump Worm": "11 - 16",
+       "Versatile Lure": "11 - 16"
+      },
+      "points": 49,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Kotsu Zetsu",
+      "bites": {
+       "Ragworm": "17 - 28",
+       "Krill": "17 - 28",
+       "Plump Worm": "17 - 28",
+       "Versatile Lure": "18 - 28"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Fishy Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "17 - 28",
+       "Versatile Lure": ""
+      },
+      "points": 223,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x3 Catching Carp (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "One River Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Stonefly Nymph"
+    ],
+    "fish": [
+     {
+      "name": "Gensui Shrimp",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Stonefly Nymph": "3 - 4"
+      },
+      "points": 85,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Yato-no-kami",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Stonefly Nymph": "5 - 6"
+      },
+      "points": 79,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Heron's Eel",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Stonefly Nymph": "3 - 4"
+      },
+      "points": 79,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Crowshadow Mussel",
+      "bites": {
+       "Ragworm": "4.5 - 7",
+       "Krill": "4.5 - 7",
+       "Plump Worm": "4.5 - 7",
+       "Stonefly Nymph": "7 - 11"
+      },
+      "points": 85,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Yanxian Goby",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Stonefly Nymph": "2 - 3"
+      },
+      "points": 85,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Iridescent Trout",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Stonefly Nymph": ""
+      },
+      "points": 184,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Ginrin Goshiki",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Stonefly Nymph": ""
+      },
+      "points": 209,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Shrimp / Hells' Claw",
+  "stops_desc": "Sirensong Sea at Night, Kugane at Day, Ruby Sea at Sunset",
+  "stops": [
+   {
+    "n": "1",
+    "name": "Open Sirensong Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Deepshade Sardine",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Sirensong Mussel",
+      "bites": {
+       "Ragworm": "4 - 7.5",
+       "Krill": "4 - 7.5",
+       "Plump Worm": "4 - 7.5",
+       "Versatile Lure": "8 - 11"
+      },
+      "points": 11,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Arrowhead",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "12 - 22"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pink Shrimp",
+      "bites": {
+       "Ragworm": "13 - 20",
+       "Krill": "8 - 15",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "13 - 20"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sirensong Mullet",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 42,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Selkie Puffer",
+      "bites": {
+       "Ragworm": "11 - 20",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 38,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Poet's Pipe",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "18 - 30",
+       "Plump Worm": "18 - 30",
+       "Versatile Lure": "18 - 30"
+      },
+      "points": 56,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Marine Matanga",
+      "bites": {
+       "Ragworm": "17 - 27",
+       "Krill": "17 - 27",
+       "Plump Worm": "16 - 26",
+       "Versatile Lure": "17 - 27"
+      },
+      "points": 47,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Coelacanth",
+      "bites": {
+       "Ragworm": "15 - 25",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 25"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Dusk Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "12 - 23",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Poet's Pipe (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Vivid Pink Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5.5 - 8",
+       "Plump Worm": "",
+       "Mackerel Strip": "6 - 7"
+      },
+      "points": 144,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "3.5 - 6",
+       "Krill": "3.5 - 6",
+       "Plump Worm": "3.5 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "5 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Black-jawed Helicoprion",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "5 - 6",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 102,
+      "dh": 4,
+      "th": 7,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Kugane Coast",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Ruby Herring",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "10 - 14 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Whirlpool Turban",
+      "bites": {
+       "Ragworm": "15 - 29",
+       "Krill": "15 - 29",
+       "Plump Worm": "15 - 29",
+       "Versatile Lure": "18 - 32"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Leopard Prawn",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Spear Squid",
+      "bites": {
+       "Ragworm": "18 - 26",
+       "Krill": "17 - 29",
+       "Plump Worm": "12.5 - 24",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 26,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Floating Lantern",
+      "bites": {
+       "Ragworm": "11 - 17",
+       "Krill": "11 - 17",
+       "Plump Worm": "6 - 12",
+       "Versatile Lure": "11 - 17"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rubescent Tatsunoko",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 33,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Hatatate",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "11 - 15",
+       "Plump Worm": "11 - 15",
+       "Versatile Lure": "11 - 15"
+      },
+      "points": 53,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "8 - 12 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Silent Shark",
+      "bites": {
+       "Ragworm": "Mooch only, 6 - 12",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "6 - 11 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Spectral Wrasse",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Mizuhiki",
+      "bites": {
+       "Ragworm": "14 - 26",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Silent Shark (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Kugane Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Snapping Koban"
+    ],
+    "fish": [
+     {
+      "name": "Silkweft Prawn",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Snapping Koban": ""
+      },
+      "points": 58,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Stingfin Trevally",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5.5 - 8",
+       "Plump Worm": "",
+       "Snapping Koban": ""
+      },
+      "points": 191,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Swordtip Squid",
+      "bites": {
+       "Ragworm": "8 - 11",
+       "Krill": "8 - 11",
+       "Plump Worm": "3.5 - 6",
+       "Snapping Koban": ""
+      },
+      "points": 115,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Idaten's Bolt",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 62,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Maelstrom Turban",
+      "bites": {
+       "Ragworm": "4.5 - 8",
+       "Krill": "4.5 - 8",
+       "Plump Worm": "4.5 - 8",
+       "Snapping Koban": ""
+      },
+      "points": 83,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Shoshitsuki",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 92,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Open Ruby Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Crimson Kelp",
+      "bites": {
+       "Ragworm": "4 - 7",
+       "Krill": "4 - 7",
+       "Plump Worm": "4 - 7",
+       "Versatile Lure": "7 - 11"
+      },
+      "points": 11,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Reef Squid",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "11 - 21"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pinebark Flounder",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Mantle Moray",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 41,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Barded Lobster",
+      "bites": {
+       "Ragworm": "10 - 18",
+       "Krill": "15 - 23",
+       "Plump Worm": "15 - 23",
+       "Versatile Lure": "15 - 23"
+      },
+      "points": 33,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sanbaso",
+      "bites": {
+       "Ragworm": "19 - 31",
+       "Krill": "19 - 31",
+       "Plump Worm": "14 - 25",
+       "Versatile Lure": "18 - 31"
+      },
+      "points": 38,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Shisui Goby",
+      "bites": {
+       "Ragworm": "19 - 31",
+       "Krill": "19 - 31",
+       "Plump Worm": "19 - 31",
+       "Versatile Lure": "19 - 31"
+      },
+      "points": 57,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Violet Sentry",
+      "bites": {
+       "Ragworm": "14 - 21",
+       "Krill": "14 - 21",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "14 - 21"
+      },
+      "points": 55,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Snake Eel",
+      "bites": {
+       "Ragworm": "15 - 24",
+       "Krill": "15 - 24",
+       "Plump Worm": "15 - 24",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Heavensent Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "15 - 27",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 227,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x3 Crimson Kelp (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Ruby Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Squid Strip"
+    ],
+    "fish": [
+     {
+      "name": "Fleeting Squid",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Squid Strip": "6 - 8"
+      },
+      "points": 81,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Bowbarb Lobster",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Squid Strip": "6 - 8"
+      },
+      "points": 83,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Senbei Octopus",
+      "bites": {
+       "Ragworm": "4.5 - 7.5",
+       "Krill": "4.5 - 7.5",
+       "Plump Worm": "4.5 - 7.5",
+       "Squid Strip": "4.5 - 7.5"
+      },
+      "points": 83,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Tentacle Thresher",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Squid Strip": "5 - 6"
+      },
+      "points": 76,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Flying Squid",
+      "bites": {
+       "Ragworm": "8 - 12",
+       "Krill": "8 - 12",
+       "Plump Worm": "4.5 - 8",
+       "Squid Strip": "8 - 12"
+      },
+      "points": 126,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Hells' Claw",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "",
+       "Squid Strip": "8 - 11"
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: x1 Flying Squid, x2 Fleeting Squid (15s)"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Shellfish / Taniwha",
+  "stops_desc": "Sirensong Sea at Day, Kugane at Sunset, One River at Night",
+  "stops": [
+   {
+    "n": "1",
+    "name": "Open Sirensong Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Deepshade Sardine",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Sirensong Mussel",
+      "bites": {
+       "Ragworm": "4 - 7.5",
+       "Krill": "4 - 7.5",
+       "Plump Worm": "4 - 7.5",
+       "Versatile Lure": "8 - 11"
+      },
+      "points": 11,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Arrowhead",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "12 - 22"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pink Shrimp",
+      "bites": {
+       "Ragworm": "13 - 20",
+       "Krill": "8 - 15",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "13 - 20"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sirensong Mullet",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 42,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Selkie Puffer",
+      "bites": {
+       "Ragworm": "11 - 20",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 38,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Poet's Pipe",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "18 - 30",
+       "Plump Worm": "18 - 30",
+       "Versatile Lure": "18 - 30"
+      },
+      "points": 56,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Marine Matanga",
+      "bites": {
+       "Ragworm": "17 - 27",
+       "Krill": "17 - 27",
+       "Plump Worm": "16 - 26",
+       "Versatile Lure": "17 - 27"
+      },
+      "points": 47,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Coelacanth",
+      "bites": {
+       "Ragworm": "15 - 25",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 25"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Dusk Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "12 - 23",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Poet's Pipe (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Broadhead",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "3 - 4"
+      },
+      "points": 68,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "4 - 6",
+       "Krill": "4 - 6",
+       "Plump Worm": "4 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "4 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Taniwha",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "9 - 12"
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: x3 Sunken Coelacanth (15s)"
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Kugane Coast",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Ruby Herring",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "10 - 14 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Whirlpool Turban",
+      "bites": {
+       "Ragworm": "15 - 29",
+       "Krill": "15 - 29",
+       "Plump Worm": "15 - 29",
+       "Versatile Lure": "18 - 32"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Leopard Prawn",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Spear Squid",
+      "bites": {
+       "Ragworm": "18 - 26",
+       "Krill": "17 - 29",
+       "Plump Worm": "12.5 - 24",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 26,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Floating Lantern",
+      "bites": {
+       "Ragworm": "11 - 17",
+       "Krill": "11 - 17",
+       "Plump Worm": "6 - 12",
+       "Versatile Lure": "11 - 17"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rubescent Tatsunoko",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 33,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Hatatate",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "11 - 15",
+       "Plump Worm": "11 - 15",
+       "Versatile Lure": "11 - 15"
+      },
+      "points": 53,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "8 - 12 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Silent Shark",
+      "bites": {
+       "Ragworm": "Mooch only, 6 - 12",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "6 - 11 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Spectral Wrasse",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Mizuhiki",
+      "bites": {
+       "Ragworm": "14 - 26",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Silent Shark (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Kugane Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Snapping Koban"
+    ],
+    "fish": [
+     {
+      "name": "Silkweft Prawn",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Snapping Koban": ""
+      },
+      "points": 58,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Swordtip Squid",
+      "bites": {
+       "Ragworm": "8 - 11",
+       "Krill": "8 - 11",
+       "Plump Worm": "3.5 - 6",
+       "Snapping Koban": ""
+      },
+      "points": 115,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Mailfish",
+      "bites": {
+       "Ragworm": "7 - 11",
+       "Krill": "",
+       "Plump Worm": "",
+       "Snapping Koban": ""
+      },
+      "points": 198,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Idaten's Bolt",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 62,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Maelstrom Turban",
+      "bites": {
+       "Ragworm": "4.5 - 8",
+       "Krill": "4.5 - 8",
+       "Plump Worm": "4.5 - 8",
+       "Snapping Koban": ""
+      },
+      "points": 83,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Shoshitsuki",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 92,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Spadefish",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "6 - 8",
+       "Plump Worm": "",
+       "Snapping Koban": ""
+      },
+      "points": 191,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Lower One River",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Catching Carp",
+      "bites": {
+       "Ragworm": "6 - 10",
+       "Krill": "6 - 10",
+       "Plump Worm": "6 - 10",
+       "Versatile Lure": "9 - 14"
+      },
+      "points": 10,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Garlean Bluegill",
+      "bites": {
+       "Ragworm": "7 - 12",
+       "Krill": "7 - 12",
+       "Plump Worm": "7 - 12",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Yanxian Softshell",
+      "bites": {
+       "Ragworm": "8 - 15",
+       "Krill": "8 - 15",
+       "Plump Worm": "8 - 15",
+       "Versatile Lure": "10 - 17"
+      },
+      "points": 10,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Princess Salmon",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "10 - 14",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Calligraph",
+      "bites": {
+       "Ragworm": "12 - 18",
+       "Krill": "12 - 18",
+       "Plump Worm": "8 - 14",
+       "Versatile Lure": "12 - 18"
+      },
+      "points": 40,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Singular Shrimp",
+      "bites": {
+       "Ragworm": "13 - 24",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Brocade Carp",
+      "bites": {
+       "Ragworm": "14 - 22",
+       "Krill": "14 - 22",
+       "Plump Worm": "14 - 22",
+       "Versatile Lure": "14 - 22"
+      },
+      "points": 52,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Yanxian Sturgeon",
+      "bites": {
+       "Ragworm": "11 - 16",
+       "Krill": "11 - 16",
+       "Plump Worm": "11 - 16",
+       "Versatile Lure": "11 - 16"
+      },
+      "points": 49,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Kotsu Zetsu",
+      "bites": {
+       "Ragworm": "17 - 28",
+       "Krill": "17 - 28",
+       "Plump Worm": "17 - 28",
+       "Versatile Lure": "18 - 28"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Fishy Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "17 - 28",
+       "Versatile Lure": ""
+      },
+      "points": 223,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x3 Catching Carp (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "One River Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Stonefly Nymph"
+    ],
+    "fish": [
+     {
+      "name": "Gensui Shrimp",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Stonefly Nymph": "3 - 4"
+      },
+      "points": 85,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Yato-no-kami",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Stonefly Nymph": "5 - 6"
+      },
+      "points": 79,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Heron's Eel",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Stonefly Nymph": "3 - 4"
+      },
+      "points": 79,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Crowshadow Mussel",
+      "bites": {
+       "Ragworm": "4.5 - 7",
+       "Krill": "4.5 - 7",
+       "Plump Worm": "4.5 - 7",
+       "Stonefly Nymph": "7 - 11"
+      },
+      "points": 85,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Yanxian Goby",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Stonefly Nymph": "2 - 3"
+      },
+      "points": 85,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Un-Namazu",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Stonefly Nymph": ""
+      },
+      "points": 209,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Gakugyo",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "6 - 8",
+       "Stonefly Nymph": ""
+      },
+      "points": 185,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Squid / Taniwha",
+  "stops_desc": "Sirensong Sea at Day, Kugane at Sunset, Ruby Sea at Night",
+  "stops": [
+   {
+    "n": "1",
+    "name": "Open Sirensong Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Deepshade Sardine",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Sirensong Mussel",
+      "bites": {
+       "Ragworm": "4 - 7.5",
+       "Krill": "4 - 7.5",
+       "Plump Worm": "4 - 7.5",
+       "Versatile Lure": "8 - 11"
+      },
+      "points": 11,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Arrowhead",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "12 - 22"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pink Shrimp",
+      "bites": {
+       "Ragworm": "13 - 20",
+       "Krill": "8 - 15",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "13 - 20"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sirensong Mullet",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 42,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Selkie Puffer",
+      "bites": {
+       "Ragworm": "11 - 20",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 38,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Poet's Pipe",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "18 - 30",
+       "Plump Worm": "18 - 30",
+       "Versatile Lure": "18 - 30"
+      },
+      "points": 56,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Marine Matanga",
+      "bites": {
+       "Ragworm": "17 - 27",
+       "Krill": "17 - 27",
+       "Plump Worm": "16 - 26",
+       "Versatile Lure": "17 - 27"
+      },
+      "points": 47,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Coelacanth",
+      "bites": {
+       "Ragworm": "15 - 25",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 25"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Dusk Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "12 - 23",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Poet's Pipe (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Broadhead",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "3 - 4"
+      },
+      "points": 68,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "4 - 6",
+       "Krill": "4 - 6",
+       "Plump Worm": "4 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "4 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Taniwha",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "9 - 12"
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: x3 Sunken Coelacanth (15s)"
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Kugane Coast",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Ruby Herring",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "10 - 14 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Whirlpool Turban",
+      "bites": {
+       "Ragworm": "15 - 29",
+       "Krill": "15 - 29",
+       "Plump Worm": "15 - 29",
+       "Versatile Lure": "18 - 32"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Leopard Prawn",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Spear Squid",
+      "bites": {
+       "Ragworm": "18 - 26",
+       "Krill": "17 - 29",
+       "Plump Worm": "12.5 - 24",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 26,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Floating Lantern",
+      "bites": {
+       "Ragworm": "11 - 17",
+       "Krill": "11 - 17",
+       "Plump Worm": "6 - 12",
+       "Versatile Lure": "11 - 17"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rubescent Tatsunoko",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 33,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Hatatate",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "11 - 15",
+       "Plump Worm": "11 - 15",
+       "Versatile Lure": "11 - 15"
+      },
+      "points": 53,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "8 - 12 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Silent Shark",
+      "bites": {
+       "Ragworm": "Mooch only, 6 - 12",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "6 - 11 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Spectral Wrasse",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Mizuhiki",
+      "bites": {
+       "Ragworm": "14 - 26",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Silent Shark (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Kugane Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Snapping Koban"
+    ],
+    "fish": [
+     {
+      "name": "Silkweft Prawn",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Snapping Koban": ""
+      },
+      "points": 58,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Swordtip Squid",
+      "bites": {
+       "Ragworm": "8 - 11",
+       "Krill": "8 - 11",
+       "Plump Worm": "3.5 - 6",
+       "Snapping Koban": ""
+      },
+      "points": 115,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Mailfish",
+      "bites": {
+       "Ragworm": "7 - 11",
+       "Krill": "",
+       "Plump Worm": "",
+       "Snapping Koban": ""
+      },
+      "points": 198,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Idaten's Bolt",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 62,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Maelstrom Turban",
+      "bites": {
+       "Ragworm": "4.5 - 8",
+       "Krill": "4.5 - 8",
+       "Plump Worm": "4.5 - 8",
+       "Snapping Koban": ""
+      },
+      "points": 83,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Shoshitsuki",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 92,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Spadefish",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "6 - 8",
+       "Plump Worm": "",
+       "Snapping Koban": ""
+      },
+      "points": 191,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Open Ruby Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Crimson Kelp",
+      "bites": {
+       "Ragworm": "4 - 7",
+       "Krill": "4 - 7",
+       "Plump Worm": "4 - 7",
+       "Versatile Lure": "7 - 11"
+      },
+      "points": 11,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Reef Squid",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "11 - 21"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pinebark Flounder",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Mantle Moray",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 41,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Barded Lobster",
+      "bites": {
+       "Ragworm": "10 - 18",
+       "Krill": "15 - 23",
+       "Plump Worm": "15 - 23",
+       "Versatile Lure": "15 - 23"
+      },
+      "points": 33,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sanbaso",
+      "bites": {
+       "Ragworm": "19 - 31",
+       "Krill": "19 - 31",
+       "Plump Worm": "14 - 25",
+       "Versatile Lure": "18 - 31"
+      },
+      "points": 38,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Shisui Goby",
+      "bites": {
+       "Ragworm": "19 - 31",
+       "Krill": "19 - 31",
+       "Plump Worm": "19 - 31",
+       "Versatile Lure": "19 - 31"
+      },
+      "points": 57,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Violet Sentry",
+      "bites": {
+       "Ragworm": "14 - 21",
+       "Krill": "14 - 21",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "14 - 21"
+      },
+      "points": 55,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Snake Eel",
+      "bites": {
+       "Ragworm": "15 - 24",
+       "Krill": "15 - 24",
+       "Plump Worm": "15 - 24",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Heavensent Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "15 - 27",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 227,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x3 Crimson Kelp (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Ruby Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Squid Strip"
+    ],
+    "fish": [
+     {
+      "name": "Fleeting Squid",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Squid Strip": "6 - 8"
+      },
+      "points": 81,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Bowbarb Lobster",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Squid Strip": "6 - 8"
+      },
+      "points": 83,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Senbei Octopus",
+      "bites": {
+       "Ragworm": "4.5 - 7.5",
+       "Krill": "4.5 - 7.5",
+       "Plump Worm": "4.5 - 7.5",
+       "Squid Strip": "4.5 - 7.5"
+      },
+      "points": 83,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Tentacle Thresher",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Squid Strip": "5 - 6"
+      },
+      "points": 76,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Bekko Rockhugger",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Squid Strip": ""
+      },
+      "points": 187,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Crimson Sentry",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "6 - 8",
+       "Squid Strip": ""
+      },
+      "points": 178,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Flying Squid",
+      "bites": {
+       "Ragworm": "8 - 12",
+       "Krill": "8 - 12",
+       "Plump Worm": "4.5 - 8",
+       "Squid Strip": "8 - 12"
+      },
+      "points": 126,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Squid / Glass Dragon",
+  "stops_desc": "Sirensong Sea at Sunset, Kugane at Night, Ruby Sea at Day",
+  "stops": [
+   {
+    "n": "1",
+    "name": "Open Sirensong Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Deepshade Sardine",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Sirensong Mussel",
+      "bites": {
+       "Ragworm": "4 - 7.5",
+       "Krill": "4 - 7.5",
+       "Plump Worm": "4 - 7.5",
+       "Versatile Lure": "8 - 11"
+      },
+      "points": 11,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Arrowhead",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "12 - 22"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pink Shrimp",
+      "bites": {
+       "Ragworm": "13 - 20",
+       "Krill": "8 - 15",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "13 - 20"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sirensong Mullet",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 42,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Selkie Puffer",
+      "bites": {
+       "Ragworm": "11 - 20",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 38,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Poet's Pipe",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "18 - 30",
+       "Plump Worm": "18 - 30",
+       "Versatile Lure": "18 - 30"
+      },
+      "points": 56,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Marine Matanga",
+      "bites": {
+       "Ragworm": "17 - 27",
+       "Krill": "17 - 27",
+       "Plump Worm": "16 - 26",
+       "Versatile Lure": "17 - 27"
+      },
+      "points": 47,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Coelacanth",
+      "bites": {
+       "Ragworm": "15 - 25",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 25"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Dusk Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "12 - 23",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Poet's Pipe (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Broadhead",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "3 - 4"
+      },
+      "points": 68,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "4 - 6",
+       "Krill": "4 - 6",
+       "Plump Worm": "4 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "4 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Nymeia's Wheel",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "7 - 8",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 289,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Kugane Coast",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Ruby Herring",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "10 - 14 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Whirlpool Turban",
+      "bites": {
+       "Ragworm": "15 - 29",
+       "Krill": "15 - 29",
+       "Plump Worm": "15 - 29",
+       "Versatile Lure": "18 - 32"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Leopard Prawn",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Spear Squid",
+      "bites": {
+       "Ragworm": "18 - 26",
+       "Krill": "17 - 29",
+       "Plump Worm": "12.5 - 24",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 26,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Floating Lantern",
+      "bites": {
+       "Ragworm": "11 - 17",
+       "Krill": "11 - 17",
+       "Plump Worm": "6 - 12",
+       "Versatile Lure": "11 - 17"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rubescent Tatsunoko",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 33,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Hatatate",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "11 - 15",
+       "Plump Worm": "11 - 15",
+       "Versatile Lure": "11 - 15"
+      },
+      "points": 53,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "8 - 12 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Silent Shark",
+      "bites": {
+       "Ragworm": "Mooch only, 6 - 12",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "6 - 11 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Spectral Wrasse",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Mizuhiki",
+      "bites": {
+       "Ragworm": "14 - 26",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Silent Shark (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Kugane Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Snapping Koban"
+    ],
+    "fish": [
+     {
+      "name": "Silkweft Prawn",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Snapping Koban": ""
+      },
+      "points": 58,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Swordtip Squid",
+      "bites": {
+       "Ragworm": "8 - 11",
+       "Krill": "8 - 11",
+       "Plump Worm": "3.5 - 6",
+       "Snapping Koban": ""
+      },
+      "points": 115,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Idaten's Bolt",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 62,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Shoshitsuki",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 92,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Glass Dragon",
+      "bites": {
+       "Ragworm": "Mooch only, 8 - 10",
+       "Krill": "",
+       "Plump Worm": "",
+       "Snapping Koban": ""
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: x2 Shoshitsuki (45s)"
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Open Ruby Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Crimson Kelp",
+      "bites": {
+       "Ragworm": "4 - 7",
+       "Krill": "4 - 7",
+       "Plump Worm": "4 - 7",
+       "Versatile Lure": "7 - 11"
+      },
+      "points": 11,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Reef Squid",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "11 - 21"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pinebark Flounder",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Mantle Moray",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 41,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Barded Lobster",
+      "bites": {
+       "Ragworm": "10 - 18",
+       "Krill": "15 - 23",
+       "Plump Worm": "15 - 23",
+       "Versatile Lure": "15 - 23"
+      },
+      "points": 33,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sanbaso",
+      "bites": {
+       "Ragworm": "19 - 31",
+       "Krill": "19 - 31",
+       "Plump Worm": "14 - 25",
+       "Versatile Lure": "18 - 31"
+      },
+      "points": 38,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Shisui Goby",
+      "bites": {
+       "Ragworm": "19 - 31",
+       "Krill": "19 - 31",
+       "Plump Worm": "19 - 31",
+       "Versatile Lure": "19 - 31"
+      },
+      "points": 57,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Violet Sentry",
+      "bites": {
+       "Ragworm": "14 - 21",
+       "Krill": "14 - 21",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "14 - 21"
+      },
+      "points": 55,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Snake Eel",
+      "bites": {
+       "Ragworm": "15 - 24",
+       "Krill": "15 - 24",
+       "Plump Worm": "15 - 24",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Heavensent Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "15 - 27",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 227,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x3 Crimson Kelp (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Ruby Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Squid Strip"
+    ],
+    "fish": [
+     {
+      "name": "Fleeting Squid",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Squid Strip": "6 - 8"
+      },
+      "points": 81,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Bowbarb Lobster",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Squid Strip": "6 - 8"
+      },
+      "points": 83,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Pitch Pickle",
+      "bites": {
+       "Ragworm": "5 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Squid Strip": ""
+      },
+      "points": 218,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Senbei Octopus",
+      "bites": {
+       "Ragworm": "4.5 - 7.5",
+       "Krill": "4.5 - 7.5",
+       "Plump Worm": "4.5 - 7.5",
+       "Squid Strip": "4.5 - 7.5"
+      },
+      "points": 83,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Tentacle Thresher",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Squid Strip": "5 - 6"
+      },
+      "points": 76,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Yellow Iris",
+      "bites": {
+       "Ragworm": "6 - 8",
+       "Krill": "",
+       "Plump Worm": "",
+       "Squid Strip": ""
+      },
+      "points": 218,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Flying Squid",
+      "bites": {
+       "Ragworm": "8 - 12",
+       "Krill": "8 - 12",
+       "Plump Worm": "4.5 - 8",
+       "Squid Strip": "8 - 12"
+      },
+      "points": 126,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Glass Dragon & Jewel",
+  "stops_desc": "Sirensong Sea at Sunset, Kugane at Night, One River at Day",
+  "stops": [
+   {
+    "n": "1",
+    "name": "Open Sirensong Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Deepshade Sardine",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Sirensong Mussel",
+      "bites": {
+       "Ragworm": "4 - 7.5",
+       "Krill": "4 - 7.5",
+       "Plump Worm": "4 - 7.5",
+       "Versatile Lure": "8 - 11"
+      },
+      "points": 11,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Arrowhead",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "12 - 22"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pink Shrimp",
+      "bites": {
+       "Ragworm": "13 - 20",
+       "Krill": "8 - 15",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "13 - 20"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sirensong Mullet",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 42,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Selkie Puffer",
+      "bites": {
+       "Ragworm": "11 - 20",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 38,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Poet's Pipe",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "18 - 30",
+       "Plump Worm": "18 - 30",
+       "Versatile Lure": "18 - 30"
+      },
+      "points": 56,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Marine Matanga",
+      "bites": {
+       "Ragworm": "17 - 27",
+       "Krill": "17 - 27",
+       "Plump Worm": "16 - 26",
+       "Versatile Lure": "17 - 27"
+      },
+      "points": 47,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Coelacanth",
+      "bites": {
+       "Ragworm": "15 - 25",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 25"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Dusk Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "12 - 23",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Poet's Pipe (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Broadhead",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "3 - 4"
+      },
+      "points": 68,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "4 - 6",
+       "Krill": "4 - 6",
+       "Plump Worm": "4 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "4 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Nymeia's Wheel",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "7 - 8",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 289,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Kugane Coast",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Ruby Herring",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "10 - 14 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Whirlpool Turban",
+      "bites": {
+       "Ragworm": "15 - 29",
+       "Krill": "15 - 29",
+       "Plump Worm": "15 - 29",
+       "Versatile Lure": "18 - 32"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Leopard Prawn",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "7 - 12"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Spear Squid",
+      "bites": {
+       "Ragworm": "18 - 26",
+       "Krill": "17 - 29",
+       "Plump Worm": "12.5 - 24",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 26,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Floating Lantern",
+      "bites": {
+       "Ragworm": "11 - 17",
+       "Krill": "11 - 17",
+       "Plump Worm": "6 - 12",
+       "Versatile Lure": "11 - 17"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rubescent Tatsunoko",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 33,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Hatatate",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "11 - 15",
+       "Plump Worm": "11 - 15",
+       "Versatile Lure": "11 - 15"
+      },
+      "points": 53,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "8 - 12 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Silent Shark",
+      "bites": {
+       "Ragworm": "Mooch only, 6 - 12",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "6 - 11 from Leopard Prawn Mooch"
+     },
+     {
+      "name": "Spectral Wrasse",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Mizuhiki",
+      "bites": {
+       "Ragworm": "14 - 26",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x2 Silent Shark (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Kugane Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Snapping Koban"
+    ],
+    "fish": [
+     {
+      "name": "Silkweft Prawn",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Snapping Koban": ""
+      },
+      "points": 58,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Swordtip Squid",
+      "bites": {
+       "Ragworm": "8 - 11",
+       "Krill": "8 - 11",
+       "Plump Worm": "3.5 - 6",
+       "Snapping Koban": ""
+      },
+      "points": 115,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Idaten's Bolt",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 62,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Shoshitsuki",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "3 - 4",
+       "Snapping Koban": ""
+      },
+      "points": 92,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Glass Dragon",
+      "bites": {
+       "Ragworm": "Mooch only, 8 - 10",
+       "Krill": "",
+       "Plump Worm": "",
+       "Snapping Koban": ""
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: x2 Shoshitsuki (45s)"
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Lower One River",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Catching Carp",
+      "bites": {
+       "Ragworm": "6 - 10",
+       "Krill": "6 - 10",
+       "Plump Worm": "6 - 10",
+       "Versatile Lure": "9 - 14"
+      },
+      "points": 10,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Garlean Bluegill",
+      "bites": {
+       "Ragworm": "7 - 12",
+       "Krill": "7 - 12",
+       "Plump Worm": "7 - 12",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 14,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Yanxian Softshell",
+      "bites": {
+       "Ragworm": "8 - 15",
+       "Krill": "8 - 15",
+       "Plump Worm": "8 - 15",
+       "Versatile Lure": "10 - 17"
+      },
+      "points": 10,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Princess Salmon",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "10 - 14",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 37,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Calligraph",
+      "bites": {
+       "Ragworm": "12 - 18",
+       "Krill": "12 - 18",
+       "Plump Worm": "8 - 14",
+       "Versatile Lure": "12 - 18"
+      },
+      "points": 40,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Singular Shrimp",
+      "bites": {
+       "Ragworm": "13 - 24",
+       "Krill": "17 - 29",
+       "Plump Worm": "17 - 29",
+       "Versatile Lure": "17 - 29"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Brocade Carp",
+      "bites": {
+       "Ragworm": "14 - 22",
+       "Krill": "14 - 22",
+       "Plump Worm": "14 - 22",
+       "Versatile Lure": "14 - 22"
+      },
+      "points": 52,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Yanxian Sturgeon",
+      "bites": {
+       "Ragworm": "11 - 16",
+       "Krill": "11 - 16",
+       "Plump Worm": "11 - 16",
+       "Versatile Lure": "11 - 16"
+      },
+      "points": 49,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Kotsu Zetsu",
+      "bites": {
+       "Ragworm": "17 - 28",
+       "Krill": "17 - 28",
+       "Plump Worm": "17 - 28",
+       "Versatile Lure": "18 - 28"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Fishy Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "17 - 28",
+       "Versatile Lure": ""
+      },
+      "points": 223,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: x3 Catching Carp (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "One River Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Stonefly Nymph"
+    ],
+    "fish": [
+     {
+      "name": "Gensui Shrimp",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Stonefly Nymph": "3 - 4"
+      },
+      "points": 85,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Yato-no-kami",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Stonefly Nymph": "5 - 6"
+      },
+      "points": 79,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Heron's Eel",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Stonefly Nymph": "3 - 4"
+      },
+      "points": 79,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Crowshadow Mussel",
+      "bites": {
+       "Ragworm": "4.5 - 7",
+       "Krill": "4.5 - 7",
+       "Plump Worm": "4.5 - 7",
+       "Stonefly Nymph": "7 - 11"
+      },
+      "points": 85,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Yanxian Goby",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Stonefly Nymph": "2 - 3"
+      },
+      "points": 85,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jewel of Plum Spring",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "",
+       "Stonefly Nymph": "5 - 8"
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: x2 Yanxian Goby, 1x Gensui Shrimp (15s)"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Mantis / Taniwha",
+  "stops_desc": "Unnamed Island at Night, Sirensong Sea at Day, Thavnair at Sunset",
+  "stops": [
+   {
+    "n": "1",
+    "name": "Unnamed Margin",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "First Mate's Finger",
+      "bites": {
+       "Ragworm": "7 - 9",
+       "Krill": "7 - 9",
+       "Plump Worm": "7 - 9",
+       "Versatile Lure": ""
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Specterfish",
+      "bites": {
+       "Ragworm": "6 - 8",
+       "Krill": "6 - 8",
+       "Plump Worm": "6 - 8",
+       "Versatile Lure": ""
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Permit",
+      "bites": {
+       "Ragworm": "10 - 13",
+       "Krill": "10 - 13",
+       "Plump Worm": "10 - 13",
+       "Versatile Lure": ""
+      },
+      "points": 11,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Dahlia",
+      "bites": {
+       "Ragworm": "16 - 19",
+       "Krill": "11 - 14",
+       "Plump Worm": "16 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Lodesmate's Pen",
+      "bites": {
+       "Ragworm": "21 - 25",
+       "Krill": "16 - 20",
+       "Plump Worm": "21 - 25",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Roosterfish",
+      "bites": {
+       "Ragworm": "20 - 24",
+       "Krill": "20 - 24",
+       "Plump Worm": "15 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 40,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rhotanosaurus",
+      "bites": {
+       "Ragworm": "21 - 26",
+       "Krill": "21 - 26",
+       "Plump Worm": "21 - 26",
+       "Versatile Lure": ""
+      },
+      "points": 59,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Royal Handmaiden",
+      "bites": {
+       "Ragworm": "12 - 14",
+       "Krill": "13 - 15",
+       "Plump Worm": "13 - 15",
+       "Versatile Lure": ""
+      },
+      "points": 52,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Starfish",
+      "bites": {
+       "Ragworm": "16 - 19",
+       "Krill": "16 - 19",
+       "Plump Worm": "16 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Frolicsome Fish",
+      "bites": {
+       "Ragworm": "13 - 14",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 236,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 3 Rhotano Dahlia (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Unnamed Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mooch"
+    ],
+    "fish": [
+     {
+      "name": "Captain's Finger",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 86,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Bright Red Coral",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Mooch": ""
+      },
+      "points": 84,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Royal Favorite",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Mooch": ""
+      },
+      "points": 69,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Pirate's Purse",
+      "bites": {
+       "Ragworm": "6 - 7",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 199,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Captain's Pen",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mooch": ""
+      },
+      "points": 58,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Tylosaurus",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mooch": "Either Mooch"
+      },
+      "points": 68,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Captain's Pen & Cieldales Roosterfish mooch; Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Cieldalaes Roosterfish",
+      "bites": {
+       "Ragworm": "Captain's Pen Mooch, 4.5 - 5",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 100,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Open Sirensong Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Deepshade Sardine",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Sirensong Mussel",
+      "bites": {
+       "Ragworm": "4 - 7.5",
+       "Krill": "4 - 7.5",
+       "Plump Worm": "4 - 7.5",
+       "Versatile Lure": "8 - 11"
+      },
+      "points": 11,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Arrowhead",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "12 - 22"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pink Shrimp",
+      "bites": {
+       "Ragworm": "13 - 20",
+       "Krill": "8 - 15",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "13 - 20"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sirensong Mullet",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 42,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Selkie Puffer",
+      "bites": {
+       "Ragworm": "11 - 20",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 38,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Poet's Pipe",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "18 - 30",
+       "Plump Worm": "18 - 30",
+       "Versatile Lure": "18 - 30"
+      },
+      "points": 56,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Marine Matanga",
+      "bites": {
+       "Ragworm": "17 - 27",
+       "Krill": "17 - 27",
+       "Plump Worm": "16 - 26",
+       "Versatile Lure": "17 - 27"
+      },
+      "points": 47,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Coelacanth",
+      "bites": {
+       "Ragworm": "15 - 25",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 25"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Dusk Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "12 - 23",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 2 Poet's Pipe (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Broadhead",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "3 - 4"
+      },
+      "points": 68,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "3.5 - 6",
+       "Krill": "3.5 - 6",
+       "Plump Worm": "3.5 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "5 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Taniwha",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "9 - 12"
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: 3 Sunken Coelacanth (15s); Counts for \"Prehistoric Professionals\""
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Thavnair Margin",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Red Mantis",
+      "bites": {
+       "Ragworm": "7 - 9",
+       "Krill": "7 - 9",
+       "Plump Worm": "7 - 9",
+       "Versatile Lure": ""
+      },
+      "points": 8,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Datli Gwl",
+      "bites": {
+       "Ragworm": "6 - 8",
+       "Krill": "6 - 8",
+       "Plump Worm": "6 - 8",
+       "Versatile Lure": ""
+      },
+      "points": 9,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Agama's Strand",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Versatile Lure": ""
+      },
+      "points": 13,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Palaka's Blade",
+      "bites": {
+       "Ragworm": "12 - 15",
+       "Krill": "17 - 20",
+       "Plump Worm": "17 - 20",
+       "Versatile Lure": ""
+      },
+      "points": 36,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Parjanya Wrasse",
+      "bites": {
+       "Ragworm": "9.5 - 10",
+       "Krill": "4 - 5",
+       "Plump Worm": "9.5 - 10",
+       "Versatile Lure": ""
+      },
+      "points": 31,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Simolestes",
+      "bites": {
+       "Ragworm": "18 - 21",
+       "Krill": "18 - 21",
+       "Plump Worm": "13 - 16",
+       "Versatile Lure": ""
+      },
+      "points": 27,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Thavnasaurus",
+      "bites": {
+       "Ragworm": "17 - 21",
+       "Krill": "17 - 21",
+       "Plump Worm": "17 - 21",
+       "Versatile Lure": ""
+      },
+      "points": 48,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Junior Jinbei",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 -11",
+       "Versatile Lure": ""
+      },
+      "points": 300,
+      "dh": 1,
+      "th": 1,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Minion; Cannot IC"
+     },
+     {
+      "name": "Spectral Grouper",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 - 11",
+       "Versatile Lure": ""
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Silkfin",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "13 - 16",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 210,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 3 Red Mantis (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Thavnair Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Rat Tail"
+    ],
+    "fish": [
+     {
+      "name": "Great Red Mantis",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Rat Tail": "5 - 6"
+      },
+      "points": 75,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Guzel Gwl",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Rat Tail": "3 - 4"
+      },
+      "points": 70,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Silverdart",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Rat Tail": ""
+      },
+      "points": 164,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Satrapsaurus",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Rat Tail": "5.5+"
+      },
+      "points": 70,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Tiger Mantis",
+      "bites": {
+       "Ragworm": "6 - 7",
+       "Krill": "",
+       "Plump Worm": "",
+       "Rat Tail": ""
+      },
+      "points": 150,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Mehi-mahi",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Rat Tail": "4 - 5"
+      },
+      "points": 70,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Junior Jinbei",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 - 11",
+       "Rat Tail": ""
+      },
+      "points": 300,
+      "dh": 1,
+      "th": 1,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Minion; Cannot IC"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Mantis / Manasvin",
+  "stops_desc": "Unnamed Island at Day, Sirensong Sea at Sunset, Thavnair at Night",
+  "stops": [
+   {
+    "n": "1",
+    "name": "Unnamed Margin",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "First Mate's Finger",
+      "bites": {
+       "Ragworm": "7 - 9",
+       "Krill": "7 - 9",
+       "Plump Worm": "7 - 9",
+       "Versatile Lure": ""
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Specterfish",
+      "bites": {
+       "Ragworm": "6 - 8",
+       "Krill": "6 - 8",
+       "Plump Worm": "6 - 8",
+       "Versatile Lure": ""
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Permit",
+      "bites": {
+       "Ragworm": "10 - 13",
+       "Krill": "10 - 13",
+       "Plump Worm": "10 - 13",
+       "Versatile Lure": ""
+      },
+      "points": 11,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Dahlia",
+      "bites": {
+       "Ragworm": "16 - 19",
+       "Krill": "11 - 14",
+       "Plump Worm": "16 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Lodesmate's Pen",
+      "bites": {
+       "Ragworm": "21 - 25",
+       "Krill": "16 - 20",
+       "Plump Worm": "21 - 25",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Roosterfish",
+      "bites": {
+       "Ragworm": "20 - 24",
+       "Krill": "20 - 24",
+       "Plump Worm": "15 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 40,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rhotanosaurus",
+      "bites": {
+       "Ragworm": "21 - 26",
+       "Krill": "21 - 26",
+       "Plump Worm": "21 - 26",
+       "Versatile Lure": ""
+      },
+      "points": 59,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Royal Handmaiden",
+      "bites": {
+       "Ragworm": "12 - 14",
+       "Krill": "13 - 15",
+       "Plump Worm": "13 - 15",
+       "Versatile Lure": ""
+      },
+      "points": 52,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Starfish",
+      "bites": {
+       "Ragworm": "16 - 19",
+       "Krill": "16 - 19",
+       "Plump Worm": "16 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Frolicsome Fish",
+      "bites": {
+       "Ragworm": "13 - 14",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 236,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 3 Rhotano Dahlia (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Unnamed Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mooch"
+    ],
+    "fish": [
+     {
+      "name": "Captain's Finger",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 86,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Bright Red Coral",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Mooch": ""
+      },
+      "points": 84,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Royal Favorite",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Mooch": ""
+      },
+      "points": 69,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Captain's Pen",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mooch": ""
+      },
+      "points": 58,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Tylosaurus",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mooch": "Either Mooch"
+      },
+      "points": 68,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Captain's Pen & Cieldales Roosterfish mooch; Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Cieldalaes Roosterfish",
+      "bites": {
+       "Ragworm": "Captain's Pen Mooch, 4.5 - 5",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 100,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Red Boarfish",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "6 - 7",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 200,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Open Sirensong Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Deepshade Sardine",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Sirensong Mussel",
+      "bites": {
+       "Ragworm": "4 - 7.5",
+       "Krill": "4 - 7.5",
+       "Plump Worm": "4 - 7.5",
+       "Versatile Lure": "8 - 11"
+      },
+      "points": 11,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Arrowhead",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "12 - 22"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pink Shrimp",
+      "bites": {
+       "Ragworm": "13 - 20",
+       "Krill": "8 - 15",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "13 - 20"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sirensong Mullet",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 42,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Selkie Puffer",
+      "bites": {
+       "Ragworm": "11 - 20",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 38,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Poet's Pipe",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "18 - 30",
+       "Plump Worm": "18 - 30",
+       "Versatile Lure": "18 - 30"
+      },
+      "points": 56,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Marine Matanga",
+      "bites": {
+       "Ragworm": "17 - 27",
+       "Krill": "17 - 27",
+       "Plump Worm": "16 - 26",
+       "Versatile Lure": "17 - 27"
+      },
+      "points": 47,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Coelacanth",
+      "bites": {
+       "Ragworm": "15 - 25",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 25"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Dusk Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "12 - 23",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 2 Poet's Pipe (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Broadhead",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "3 - 4"
+      },
+      "points": 68,
+      "dh": 4,
+      "th": 7,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "3.5 - 6",
+       "Krill": "3.5 - 6",
+       "Plump Worm": "3.5 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "5 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Nymeia's Wheel",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "7 - 8",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 289,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Thavnair Margin",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Red Mantis",
+      "bites": {
+       "Ragworm": "7 - 9",
+       "Krill": "7 - 9",
+       "Plump Worm": "7 - 9",
+       "Versatile Lure": ""
+      },
+      "points": 8,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Datli Gwl",
+      "bites": {
+       "Ragworm": "6 - 8",
+       "Krill": "6 - 8",
+       "Plump Worm": "6 - 8",
+       "Versatile Lure": ""
+      },
+      "points": 9,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Agama's Strand",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Versatile Lure": ""
+      },
+      "points": 13,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Palaka's Blade",
+      "bites": {
+       "Ragworm": "12 - 15",
+       "Krill": "17 - 20",
+       "Plump Worm": "17 - 20",
+       "Versatile Lure": ""
+      },
+      "points": 36,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Parjanya Wrasse",
+      "bites": {
+       "Ragworm": "9.5 - 10",
+       "Krill": "4 - 5",
+       "Plump Worm": "9.5 - 10",
+       "Versatile Lure": ""
+      },
+      "points": 31,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Simolestes",
+      "bites": {
+       "Ragworm": "18 - 21",
+       "Krill": "18 - 21",
+       "Plump Worm": "13 - 16",
+       "Versatile Lure": ""
+      },
+      "points": 27,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Thavnasaurus",
+      "bites": {
+       "Ragworm": "17 - 21",
+       "Krill": "17 - 21",
+       "Plump Worm": "17 - 21",
+       "Versatile Lure": ""
+      },
+      "points": 48,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Junior Jinbei",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 -11",
+       "Versatile Lure": ""
+      },
+      "points": 300,
+      "dh": 1,
+      "th": 1,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Minion; Cannot IC"
+     },
+     {
+      "name": "Spectral Grouper",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 - 11",
+       "Versatile Lure": ""
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Silkfin",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "13 - 16",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 210,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 3 Red Mantis (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Thavnair Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Rat Tail"
+    ],
+    "fish": [
+     {
+      "name": "Great Red Mantis",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Rat Tail": "5 - 6"
+      },
+      "points": 75,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Guzel Gwl",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Rat Tail": "3 - 4"
+      },
+      "points": 70,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Satrapsaurus",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Rat Tail": "5.5+"
+      },
+      "points": 70,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Tiger Mantis",
+      "bites": {
+       "Ragworm": "6 - 7",
+       "Krill": "",
+       "Plump Worm": "",
+       "Rat Tail": ""
+      },
+      "points": 150,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Mehi-mahi",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Rat Tail": "4 - 5"
+      },
+      "points": 70,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Junior Jinbei",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 - 11",
+       "Rat Tail": ""
+      },
+      "points": 300,
+      "dh": 1,
+      "th": 1,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Minion; Cannot IC"
+     },
+     {
+      "name": "Manasvin",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "",
+       "Rat Tail": "9 - 12"
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: 3 Satrapsaurus (15s)"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "label": "Prehistoric / Akupara",
+  "stops_desc": "Unnamed Island at Sunset, Sirensong Sea at Night, Thavnair at Day",
+  "stops": [
+   {
+    "n": "1",
+    "name": "Unnamed Margin",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "First Mate's Finger",
+      "bites": {
+       "Ragworm": "7 - 9",
+       "Krill": "7 - 9",
+       "Plump Worm": "7 - 9",
+       "Versatile Lure": ""
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Specterfish",
+      "bites": {
+       "Ragworm": "6 - 8",
+       "Krill": "6 - 8",
+       "Plump Worm": "6 - 8",
+       "Versatile Lure": ""
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Permit",
+      "bites": {
+       "Ragworm": "10 - 13",
+       "Krill": "10 - 13",
+       "Plump Worm": "10 - 13",
+       "Versatile Lure": ""
+      },
+      "points": 11,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Dahlia",
+      "bites": {
+       "Ragworm": "16 - 19",
+       "Krill": "11 - 14",
+       "Plump Worm": "16 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Lodesmate's Pen",
+      "bites": {
+       "Ragworm": "21 - 25",
+       "Krill": "16 - 20",
+       "Plump Worm": "21 - 25",
+       "Versatile Lure": ""
+      },
+      "points": 35,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rhotano Roosterfish",
+      "bites": {
+       "Ragworm": "20 - 24",
+       "Krill": "20 - 24",
+       "Plump Worm": "15 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 40,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Rhotanosaurus",
+      "bites": {
+       "Ragworm": "21 - 26",
+       "Krill": "21 - 26",
+       "Plump Worm": "21 - 26",
+       "Versatile Lure": ""
+      },
+      "points": 59,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Royal Handmaiden",
+      "bites": {
+       "Ragworm": "12 - 14",
+       "Krill": "13 - 15",
+       "Plump Worm": "13 - 15",
+       "Versatile Lure": ""
+      },
+      "points": 52,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Starfish",
+      "bites": {
+       "Ragworm": "16 - 19",
+       "Krill": "16 - 19",
+       "Plump Worm": "16 - 19",
+       "Versatile Lure": ""
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Frolicsome Fish",
+      "bites": {
+       "Ragworm": "13 - 14",
+       "Krill": "",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 236,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 3 Rhotano Dahlia (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Unnamed Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mooch"
+    ],
+    "fish": [
+     {
+      "name": "Captain's Finger",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 86,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Bright Red Coral",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Mooch": ""
+      },
+      "points": 84,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Royal Favorite",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Mooch": ""
+      },
+      "points": 69,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Captain's Pen",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mooch": ""
+      },
+      "points": 58,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Tylosaurus",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mooch": "Either Mooch"
+      },
+      "points": 68,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Captain's Pen & Cieldales Roosterfish mooch; Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Cieldalaes Roosterfish",
+      "bites": {
+       "Ragworm": "Captain's Pen Mooch, 4.5 - 5",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 100,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Renegade Rhotanosaurus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "5 - 6",
+       "Mooch": ""
+      },
+      "points": 160,
+      "dh": 4,
+      "th": 7,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Akupara",
+      "bites": {
+       "Ragworm": "Cieldalaes Roosterfish Mooch, ~6 - 8",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mooch": ""
+      },
+      "points": 500,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 5,
+      "notes": "Intuition: 2 Cieldales Roosterfish (20s) Counts for \"Prehistoric Professionals\""
+     }
+    ]
+   },
+   {
+    "n": "2",
+    "name": "Open Sirensong Sea",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Deepshade Sardine",
+      "bites": {
+       "Ragworm": "5 - 9",
+       "Krill": "5 - 9",
+       "Plump Worm": "5 - 9",
+       "Versatile Lure": "8 - 12"
+      },
+      "points": 15,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Sirensong Mussel",
+      "bites": {
+       "Ragworm": "4 - 7.5",
+       "Krill": "4 - 7.5",
+       "Plump Worm": "4 - 7.5",
+       "Versatile Lure": "8 - 11"
+      },
+      "points": 11,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Arrowhead",
+      "bites": {
+       "Ragworm": "9.5 - 18",
+       "Krill": "9.5 - 18",
+       "Plump Worm": "9.5 - 18",
+       "Versatile Lure": "12 - 22"
+      },
+      "points": 10,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Squid Squadron\""
+     },
+     {
+      "name": "Pink Shrimp",
+      "bites": {
+       "Ragworm": "13 - 20",
+       "Krill": "8 - 15",
+       "Plump Worm": "13 - 20",
+       "Versatile Lure": "13 - 20"
+      },
+      "points": 31,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sirensong Mullet",
+      "bites": {
+       "Ragworm": "10 - 14",
+       "Krill": "5 - 9",
+       "Plump Worm": "10 - 14",
+       "Versatile Lure": "10 - 14"
+      },
+      "points": 42,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Selkie Puffer",
+      "bites": {
+       "Ragworm": "11 - 20",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 24"
+      },
+      "points": 38,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Poet's Pipe",
+      "bites": {
+       "Ragworm": "17 - 29",
+       "Krill": "18 - 30",
+       "Plump Worm": "18 - 30",
+       "Versatile Lure": "18 - 30"
+      },
+      "points": 56,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Marine Matanga",
+      "bites": {
+       "Ragworm": "17 - 27",
+       "Krill": "17 - 27",
+       "Plump Worm": "16 - 26",
+       "Versatile Lure": "17 - 27"
+      },
+      "points": 47,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": ""
+     },
+     {
+      "name": "Spectral Coelacanth",
+      "bites": {
+       "Ragworm": "15 - 25",
+       "Krill": "15 - 25",
+       "Plump Worm": "15 - 25",
+       "Versatile Lure": "15 - 25"
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Dusk Shark",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "12 - 23",
+       "Versatile Lure": ""
+      },
+      "points": 263,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 2 Poet's Pipe (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Sirensong Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Mackerel Strip"
+    ],
+    "fish": [
+     {
+      "name": "Mermaid Scale",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Mackerel Strip": "5 - 8"
+      },
+      "points": 51,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Maximum Mussel\""
+     },
+     {
+      "name": "Vivid Pink Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5.5 - 8",
+       "Plump Worm": "",
+       "Mackerel Strip": "6 - 7"
+      },
+      "points": 144,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Shrimp Smorgasbord\""
+     },
+     {
+      "name": "Sunken Coelacanth",
+      "bites": {
+       "Ragworm": "3.5 - 6",
+       "Krill": "3.5 - 6",
+       "Plump Worm": "3.5 - 6",
+       "Mackerel Strip": "3.5 - 6"
+      },
+      "points": 51,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Siren's Sigh",
+      "bites": {
+       "Ragworm": "5 - 6",
+       "Krill": "",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 101,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Black-jawed Helicoprion",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "5 - 6",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 102,
+      "dh": 4,
+      "th": 7,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Impostopus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "5 - 6",
+       "Plump Worm": "",
+       "Mackerel Strip": "5 - 6"
+      },
+      "points": 144,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Jade Mantis Shrimp",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "3 - 4",
+       "Plump Worm": "",
+       "Mackerel Strip": ""
+      },
+      "points": 72,
+      "dh": 4,
+      "th": 7,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     }
+    ]
+   },
+   {
+    "n": "3",
+    "name": "Thavnair Margin",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Versatile Lure"
+    ],
+    "fish": [
+     {
+      "name": "Red Mantis",
+      "bites": {
+       "Ragworm": "7 - 9",
+       "Krill": "7 - 9",
+       "Plump Worm": "7 - 9",
+       "Versatile Lure": ""
+      },
+      "points": 8,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Datli Gwl",
+      "bites": {
+       "Ragworm": "6 - 8",
+       "Krill": "6 - 8",
+       "Plump Worm": "6 - 8",
+       "Versatile Lure": ""
+      },
+      "points": 9,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Agama's Strand",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Versatile Lure": ""
+      },
+      "points": 13,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 1,
+      "notes": ""
+     },
+     {
+      "name": "Palaka's Blade",
+      "bites": {
+       "Ragworm": "12 - 15",
+       "Krill": "17 - 20",
+       "Plump Worm": "17 - 20",
+       "Versatile Lure": ""
+      },
+      "points": 36,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Parjanya Wrasse",
+      "bites": {
+       "Ragworm": "9.5 - 10",
+       "Krill": "4 - 5",
+       "Plump Worm": "9.5 - 10",
+       "Versatile Lure": ""
+      },
+      "points": 31,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": ""
+     },
+     {
+      "name": "Simolestes",
+      "bites": {
+       "Ragworm": "18 - 21",
+       "Krill": "18 - 21",
+       "Plump Worm": "13 - 16",
+       "Versatile Lure": ""
+      },
+      "points": 27,
+      "dh": 3,
+      "th": 5,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 2,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Thavnasaurus",
+      "bites": {
+       "Ragworm": "17 - 21",
+       "Krill": "17 - 21",
+       "Plump Worm": "17 - 21",
+       "Versatile Lure": ""
+      },
+      "points": 48,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 3,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Junior Jinbei",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 -11",
+       "Versatile Lure": ""
+      },
+      "points": 300,
+      "dh": 1,
+      "th": 1,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Minion; Cannot IC"
+     },
+     {
+      "name": "Spectral Grouper",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 - 11",
+       "Versatile Lure": ""
+      },
+      "points": 100,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Chance of triggering Spectral Current on catch"
+     },
+     {
+      "name": "Silkfin",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "13 - 16",
+       "Plump Worm": "",
+       "Versatile Lure": ""
+      },
+      "points": 210,
+      "dh": 1,
+      "th": 1,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Intuition: 3 Red Mantis (60s)"
+     }
+    ]
+   },
+   {
+    "n": null,
+    "name": "Thavnair Spectral Current",
+    "baits": [
+     "Ragworm",
+     "Krill",
+     "Plump Worm",
+     "Rat Tail"
+    ],
+    "fish": [
+     {
+      "name": "Great Red Mantis",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Rat Tail": "5 - 6"
+      },
+      "points": 75,
+      "dh": 3,
+      "th": 5,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Time Waits for No Mantis\""
+     },
+     {
+      "name": "Guzel Gwl",
+      "bites": {
+       "Ragworm": "3 - 4",
+       "Krill": "3 - 4",
+       "Plump Worm": "3 - 4",
+       "Rat Tail": "3 - 4"
+      },
+      "points": 70,
+      "dh": 2,
+      "th": 3,
+      "tug": 2,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Darpana",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Rat Tail": ""
+      },
+      "points": 92,
+      "dh": 2,
+      "th": 3,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Satrapsaurus",
+      "bites": {
+       "Ragworm": "2 - 3",
+       "Krill": "2 - 3",
+       "Plump Worm": "2 - 3",
+       "Rat Tail": "5.5+"
+      },
+      "points": 70,
+      "dh": 3,
+      "th": 5,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     },
+     {
+      "name": "Mehi-mahi",
+      "bites": {
+       "Ragworm": "4 - 5",
+       "Krill": "4 - 5",
+       "Plump Worm": "4 - 5",
+       "Rat Tail": "4 - 5"
+      },
+      "points": 70,
+      "dh": 2,
+      "th": 3,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": ""
+     },
+     {
+      "name": "Junior Jinbei",
+      "bites": {
+       "Ragworm": "10 - 11",
+       "Krill": "10 - 11",
+       "Plump Worm": "10 - 11",
+       "Rat Tail": ""
+      },
+      "points": 300,
+      "dh": 1,
+      "th": 1,
+      "tug": 1,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Minion; Cannot IC"
+     },
+     {
+      "name": "Pliosaurus",
+      "bites": {
+       "Ragworm": "",
+       "Krill": "",
+       "Plump Worm": "6 - 7",
+       "Rat Tail": ""
+      },
+      "points": 204,
+      "dh": 4,
+      "th": 7,
+      "tug": 3,
+      "hookset": "",
+      "avail": [],
+      "stars": 4,
+      "notes": "Counts for \"Prehistoric Professionals\""
+     }
+    ]
+   }
+  ]
+ }
+]

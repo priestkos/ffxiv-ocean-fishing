@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Notes · Ocean Fishing</title>
+<meta name="description" content="Method, verification and pitfalls behind this Ocean Fishing reference.">
+<link rel="stylesheet" href="assets/theme.css">
+</head>
+<body>
+<header class="top"><div class="bar">
+  <a class="brand" href="index.html"><span class="mark"></span><span>Ocean Fishing<small>FFXIV reference</small></span></a>
+  <nav class="main"><a href="index.html">Home</a><a href="schedules.html">Schedule</a><a href="fish.html">Fish</a><a href="rewards.html">Rewards</a><a href="planner.html">Planner</a><a href="notes.html" class='on'>Notes</a></nav>
+  <span class="live"><span class="dot"></span><span data-clock>—</span></span>
+</div></header>
+<div class="wrap">
+
+<h1>Notes &amp; method</h1>
+<p class="muted">How this reference was built, what is verified, and the traps to avoid.</p>
+
+<h2>Schedule</h2>
+<div class="card">
+<p>Voyages leave every 2 hours on odd JST hours = even UTC hours, and the destination/time sequence is fully deterministic, so the route can be computed from a Unix timestamp:</p>
+<p><code>vn = floor(unix_ms / 7200000)</code><br>
+<code>Indigo: INDIGO[(88 + vn) % 144]</code><br>
+<code>Ruby:   RUBY[vn % 144]</code></p>
+<p class="small muted">Both cycles are 144 voyages = 12 days. Indigo's day-blocks rotate one left each day; Ruby is a flat 144-entry table of 9 routes.</p>
+</div>
+
+<h2>Bite times</h2>
+<div class="card">
+<p>Bite times are the <b>whiskers of a boxplot</b> over Teamcraft's sample data: compute quartiles with R's <b>type-7</b> quantile algorithm, then discard samples more than <b>1.5 × IQR</b> from the median. That makes them a stable “normal range”, not a hard limit — player-tested timings can be tighter.</p>
+<p class="small muted">Ranges are per fish <i>per bait</i>; the underlined bait is the sheet's recommended pick (usually the fish's desynthesis bait, preferring ocean-fishing baits unless the goal is Fisher's Intuition).</p>
+</div>
+
+<h2>Availability</h2>
+<div class="card"><p>☀️🌅🌙 mark the times of day a fish can be caught. Indigo stops are labelled by time; on Ruby the time varies by route, so the availability column tells you what still bites when a stop lands on a different hour.</p></div>
+
+<h2>Traps &amp; corrections</h2>
+<div class="notice"><b>Timezone.</b> The tracker's own example schedule renders in the <i>viewer's</i> timezone. Always compute from UTC milliseconds — never hard-code a local time.</div>
+<div class="notice" style="margin-top:10px"><b>Pre-7.5 data is a trap.</b> The older community site predates Patch 7.5 (2026-04-28), which added the <b>Thavnairian coast</b> Ruby route. Its dataset has 23 fishing spots and none of the Unnamed Island / Thavnair fish. Its 6-route Ruby model still describes the One River and Ruby Price paths correctly, but it is incomplete: Ruby is <b>9 routes</b>.</div>
+<div class="notice sea" style="margin-top:10px"><b>Point values vs. real score.</b> “Points” here are the base per-fish value; your voyage total is those points multiplied by the content bonuses on the <a href="rewards.html">Rewards</a> page.</div>
+
+<h2>What is in this site</h2>
+<div class="card"><ul>
+<li><b>220 Indigo fish</b> across 11 waters, each with a normal and a Spectral Current list.</li>
+<li><b>442 Ruby fish rows</b> across all 9 routes and their stops.</li>
+<li><b>22 Indigo Intuition chains</b> with trigger fish and window length.</li>
+<li><b>54 content bonuses</b> and <b>40 achievements</b>.</li>
+<li>Both 144-voyage patterns, the route tables, and the live planner.</li>
+</ul>
+<p class="small muted">Scope: built for private use — English names only, no localised strings.</p></div>
+
+</div>
+<footer><div class="bar">
+  <span>Ocean Fishing reference &amp; planner — private use. Schedule verified against the live tracker; fish data from the community spreadsheet.</span>
+  <span style="margin-left:auto">Next voyage in <b data-next>—</b></span>
+</div></footer>
+<script src="assets/data.js"></script>
+<script src="assets/site.js"></script>
+</body>
+</html>

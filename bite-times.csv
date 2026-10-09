@@ -1,0 +1,861 @@
+fish,ja,bait,bite_min_s,bite_max_s,is_best,usable,intuition,stars,points,tug,hookset
+Galadion Goby,ガラディオンゴビー,Ragworm,4,8,True,True,False,1,10,1,Precision
+Galadion Goby,ガラディオンゴビー,Krill,4,8,False,True,False,1,10,1,Precision
+Galadion Goby,ガラディオンゴビー,Plump Worm,4,8,False,True,False,1,10,1,Precision
+Galadion Goby,ガラディオンゴビー,Versatile Lure,7,11,False,True,False,1,10,1,Precision
+Galadion Chovy,ガラディオンアンチョビ,Ragworm,7,11,False,True,False,1,11,1,Precision
+Galadion Chovy,ガラディオンアンチョビ,Krill,7,11,True,True,False,1,11,1,Precision
+Galadion Chovy,ガラディオンアンチョビ,Plump Worm,7,11,False,True,False,1,11,1,Precision
+Galadion Chovy,ガラディオンアンチョビ,Versatile Lure,9,14,False,True,False,1,11,1,Precision
+Rosy Bream,ローズブリーム,Ragworm,12,19,False,True,False,2,34,1,Precision
+Rosy Bream,ローズブリーム,Krill,7,13,True,True,False,2,34,1,Precision
+Rosy Bream,ローズブリーム,Plump Worm,12,18,False,True,False,2,34,1,Precision
+Rosy Bream,ローズブリーム,Versatile Lure,12,19,False,True,False,2,34,1,Precision
+Tripod Fish,トライポッド,Ragworm,15,24,False,True,False,2,43,1,Precision
+Tripod Fish,トライポッド,Krill,10,19,True,True,False,2,43,1,Precision
+Tripod Fish,トライポッド,Plump Worm,15,24,False,True,False,2,43,1,Precision
+Tripod Fish,トライポッド,Versatile Lure,15,24,False,True,False,2,43,1,Precision
+Sunfly,サニーバタフライ,Ragworm,5,9,True,True,False,1,10,1,Precision
+Sunfly,サニーバタフライ,Krill,5,9,False,True,False,1,10,1,Precision
+Sunfly,サニーバタフライ,Plump Worm,5,9,False,True,False,1,10,1,Precision
+Sunfly,サニーバタフライ,Versatile Lure,8,12,False,True,False,1,10,1,Precision
+Tarnished Shark,ターニッシュシャーク,Ragworm,19,37,False,True,False,2,34,3,Powerful
+Tarnished Shark,ターニッシュシャーク,Krill,15,37,False,True,False,2,34,3,Powerful
+Tarnished Shark,ターニッシュシャーク,Plump Worm,15,33,True,True,False,2,34,3,Powerful
+Tarnished Shark,ターニッシュシャーク,Versatile Lure,22,37,False,True,False,2,34,3,Powerful
+Tossed Dagger,スロウンダガー,Ragworm,7,13,True,True,False,2,27,1,Precision
+Tossed Dagger,スロウンダガー,Krill,11,18,False,True,False,2,27,1,Precision
+Tossed Dagger,スロウンダガー,Plump Worm,11,18,False,True,False,2,27,1,Precision
+Tossed Dagger,スロウンダガー,Versatile Lure,11,16,False,True,False,2,27,1,Precision
+Jasperhead,ジャスパーヘッド,Ragworm,16,24,False,True,False,2,40,2,Powerful
+Jasperhead,ジャスパーヘッド,Krill,12,19,True,True,False,2,40,2,Powerful
+Jasperhead,ジャスパーヘッド,Plump Worm,12,24,False,True,False,2,40,2,Powerful
+Jasperhead,ジャスパーヘッド,Versatile Lure,15,25,False,True,False,2,40,2,Powerful
+Merlthor Lobster,メルトールロブスター,Ragworm,17,28,False,True,False,3,45,1,Precision
+Merlthor Lobster,メルトールロブスター,Krill,16,27,True,True,False,3,45,1,Precision
+Merlthor Lobster,メルトールロブスター,Plump Worm,17,28,False,True,False,3,45,1,Precision
+Merlthor Lobster,メルトールロブスター,Versatile Lure,18,28,False,True,False,3,45,1,Precision
+Heavenswimmer,ヘヴンリーフィッシュ,Ragworm,15,25,True,True,False,3,50,1,Precision
+Heavenswimmer,ヘヴンリーフィッシュ,Krill,15,25,False,True,False,3,50,1,Precision
+Heavenswimmer,ヘヴンリーフィッシュ,Plump Worm,15,25,False,True,False,3,50,1,Precision
+Heavenswimmer,ヘヴンリーフィッシュ,Versatile Lure,16,26,False,True,False,3,50,1,Precision
+Ghoul Barracuda,グールバラクーダ,Ragworm,5,9,False,True,False,1,10,2,Powerful
+Ghoul Barracuda,グールバラクーダ,Krill,5,9,True,True,False,1,10,2,Powerful
+Ghoul Barracuda,グールバラクーダ,Plump Worm,5,9,False,True,False,1,10,2,Powerful
+Ghoul Barracuda,グールバラクーダ,Versatile Lure,7,11,False,True,False,1,10,2,Powerful
+Leopard Eel,レオパードイール,Ragworm,10,16,False,True,False,1,14,2,Powerful
+Leopard Eel,レオパードイール,Krill,10,16,False,True,False,1,14,2,Powerful
+Leopard Eel,レオパードイール,Plump Worm,8,16,True,True,False,1,14,2,Powerful
+Leopard Eel,レオパードイール,Versatile Lure,12,20,False,True,False,1,14,2,Powerful
+Marine Bomb,マリンボム,Ragworm,5,9,False,True,False,2,27,1,Precision
+Marine Bomb,マリンボム,Krill,5,9,True,True,False,2,27,1,Precision
+Marine Bomb,マリンボム,Plump Worm,9,14,False,True,False,2,27,1,Precision
+Marine Bomb,マリンボム,Versatile Lure,10,14,False,True,False,2,27,1,Precision
+Momora Mora,モモラ・モラ,Ragworm,13,20,False,True,False,2,22,3,Powerful
+Momora Mora,モモラ・モラ,Krill,13,20,False,True,False,2,22,3,Powerful
+Momora Mora,モモラ・モラ,Plump Worm,8,16,True,True,False,2,22,3,Powerful
+Momora Mora,モモラ・モラ,Versatile Lure,14,22,False,True,False,2,22,3,Powerful
+Merlthor Butterfly,メルトールバタフライ,Ragworm,17,27,True,True,False,3,51,1,Precision
+Merlthor Butterfly,メルトールバタフライ,Krill,17,28,False,True,False,3,51,1,Precision
+Merlthor Butterfly,メルトールバタフライ,Plump Worm,18,28,False,True,False,3,51,1,Precision
+Merlthor Butterfly,メルトールバタフライ,Versatile Lure,18,28,False,True,False,3,51,1,Precision
+Gladius,グラディウス,Ragworm,,,False,False,False,3,49,2,Powerful
+Gladius,グラディウス,Krill,,,False,False,False,3,49,2,Powerful
+Gladius,グラディウス,Plump Worm,,,False,False,False,3,49,2,Powerful
+Gladius,グラディウス,Versatile Lure,,,False,False,False,3,49,2,Powerful
+Rhotano Wahoo,ロータノワフー,Ragworm,6,10,False,True,False,1,13,2,Powerful
+Rhotano Wahoo,ロータノワフー,Krill,6,10,True,True,False,1,13,2,Powerful
+Rhotano Wahoo,ロータノワフー,Plump Worm,6,10,False,True,False,1,13,2,Powerful
+Rhotano Wahoo,ロータノワフー,Versatile Lure,9,14,False,True,False,1,13,2,Powerful
+Rhotano Sardine,ロータノサーディン,Ragworm,6,10,True,True,False,1,10,1,Precision
+Rhotano Sardine,ロータノサーディン,Krill,6,10,False,True,False,1,10,1,Precision
+Rhotano Sardine,ロータノサーディン,Plump Worm,6,10,False,True,False,1,10,1,Precision
+Rhotano Sardine,ロータノサーディン,Versatile Lure,9,14,False,True,False,1,10,1,Precision
+Deep Plaice,ディープシー・プレイス,Ragworm,8,12,False,True,False,1,15,2,Powerful
+Deep Plaice,ディープシー・プレイス,Krill,8,12,True,True,False,1,15,2,Powerful
+Deep Plaice,ディープシー・プレイス,Plump Worm,8,12,False,True,False,1,15,2,Powerful
+Deep Plaice,ディープシー・プレイス,Versatile Lure,9,15,False,True,False,1,15,2,Powerful
+Crimson Monkfish,クリムゾンモンクフィッシュ,Ragworm,12,18,False,True,False,2,32,2,Powerful
+Crimson Monkfish,クリムゾンモンクフィッシュ,Krill,9,18,False,True,False,2,32,2,Powerful
+Crimson Monkfish,クリムゾンモンクフィッシュ,Plump Worm,9,15,True,True,False,2,32,2,Powerful
+Crimson Monkfish,クリムゾンモンクフィッシュ,Versatile Lure,12,19,False,True,False,2,32,2,Powerful
+Lampfish,ランプフィッシュ,Ragworm,12,16,True,True,False,3,47,1,Precision
+Lampfish,ランプフィッシュ,Krill,12,16,False,True,False,3,47,1,Precision
+Lampfish,ランプフィッシュ,Plump Worm,12,16,False,True,False,3,47,1,Precision
+Lampfish,ランプフィッシュ,Versatile Lure,13,17,False,True,False,3,47,1,Precision
+Ogre Eel,オーガイール,Ragworm,12,20,False,True,False,2,38,2,Powerful
+Ogre Eel,オーガイール,Krill,12,20,False,True,False,2,38,2,Powerful
+Ogre Eel,オーガイール,Plump Worm,9,15,True,True,False,2,38,2,Powerful
+Ogre Eel,オーガイール,Versatile Lure,13,20,False,True,False,2,38,2,Powerful
+Cyan Octopus,シアンオクトパス,Ragworm,18,29,False,True,False,3,59,2,Powerful
+Cyan Octopus,シアンオクトパス,Krill,17,28,True,True,False,3,59,2,Powerful
+Cyan Octopus,シアンオクトパス,Plump Worm,18,28,False,True,False,3,59,2,Powerful
+Cyan Octopus,シアンオクトパス,Versatile Lure,18,29,False,True,False,3,59,2,Powerful
+Chrome Hammerhead,クロムハンマーヘッド,Ragworm,19,33,False,True,False,2,32,3,Powerful
+Chrome Hammerhead,クロムハンマーヘッド,Krill,19,33,False,True,False,2,32,3,Powerful
+Chrome Hammerhead,クロムハンマーヘッド,Plump Worm,15,29,True,True,False,2,32,3,Powerful
+Chrome Hammerhead,クロムハンマーヘッド,Versatile Lure,20,34,False,True,False,2,32,3,Powerful
+Floefish,ドリフトアイスフィッシュ,Ragworm,4,8,True,True,False,1,13,1,Precision
+Floefish,ドリフトアイスフィッシュ,Krill,4,8,False,True,False,1,13,1,Precision
+Floefish,ドリフトアイスフィッシュ,Plump Worm,4,8,False,True,False,1,13,1,Precision
+Floefish,ドリフトアイスフィッシュ,Versatile Lure,7,11,False,True,False,1,13,1,Precision
+Megasquid,メガスキッド,Ragworm,6,10,False,True,False,1,11,2,Powerful
+Megasquid,メガスキッド,Krill,6,10,False,True,False,1,11,2,Powerful
+Megasquid,メガスキッド,Plump Worm,6,10,True,True,False,1,11,2,Powerful
+Megasquid,メガスキッド,Versatile Lure,8,14,False,True,False,1,11,2,Powerful
+Oschon's Stone,オシュオンズストーン,Ragworm,12,22,False,True,False,1,11,2,Powerful
+Oschon's Stone,オシュオンズストーン,Krill,12,22,False,True,False,1,11,2,Powerful
+Oschon's Stone,オシュオンズストーン,Plump Worm,10,22,True,True,False,1,11,2,Powerful
+Oschon's Stone,オシュオンズストーン,Versatile Lure,15,26,False,True,False,1,11,2,Powerful
+La Noscean Jelly,ラノシアンジェリー,Ragworm,2,5,True,True,False,1,10,1,Precision
+La Noscean Jelly,ラノシアンジェリー,Krill,2,5,False,True,False,1,10,1,Precision
+La Noscean Jelly,ラノシアンジェリー,Plump Worm,2,5,False,True,False,1,10,1,Precision
+La Noscean Jelly,ラノシアンジェリー,Versatile Lure,5,8,False,True,False,1,10,1,Precision
+Shaggy Seadragon,シャギーシードラゴン,Ragworm,9,16,True,True,False,2,35,1,Precision
+Shaggy Seadragon,シャギーシードラゴン,Krill,14,22,False,True,False,2,35,1,Precision
+Shaggy Seadragon,シャギーシードラゴン,Plump Worm,14,22,False,True,False,2,35,1,Precision
+Shaggy Seadragon,シャギーシードラゴン,Versatile Lure,14,22,False,True,False,2,35,1,Precision
+Net Crawler,スパイダークラブ,Ragworm,13,21,False,True,False,2,36,2,Powerful
+Net Crawler,スパイダークラブ,Krill,10,16,True,True,False,2,36,2,Powerful
+Net Crawler,スパイダークラブ,Plump Worm,13,21,False,True,False,2,36,2,Powerful
+Net Crawler,スパイダークラブ,Versatile Lure,13,22,False,True,False,2,36,2,Powerful
+Dark Nautilus,ダークノーチラス,Ragworm,17,27,False,True,False,3,46,1,Precision
+Dark Nautilus,ダークノーチラス,Krill,15,26,True,True,False,3,46,1,Precision
+Dark Nautilus,ダークノーチラス,Plump Worm,17,27,False,True,False,3,46,1,Precision
+Dark Nautilus,ダークノーチラス,Versatile Lure,17,27,False,True,False,3,46,1,Precision
+Elder Dinichthys,エルダー・ディニクティス,Ragworm,,,False,False,False,3,52,2,Powerful
+Elder Dinichthys,エルダー・ディニクティス,Krill,,,False,False,False,3,52,2,Powerful
+Elder Dinichthys,エルダー・ディニクティス,Plump Worm,,,False,False,False,3,52,2,Powerful
+Elder Dinichthys,エルダー・ディニクティス,Versatile Lure,,,False,False,False,3,52,2,Powerful
+Drunkfish,ドランカードフィッシュ,Ragworm,,,False,False,True,4,253,3,Powerful
+Drunkfish,ドランカードフィッシュ,Krill,17,28,True,True,True,4,253,3,Powerful
+Drunkfish,ドランカードフィッシュ,Plump Worm,,,False,False,True,4,253,3,Powerful
+Drunkfish,ドランカードフィッシュ,Versatile Lure,,,False,False,True,4,253,3,Powerful
+Little Leviathan,リトルリヴァイアサン,Ragworm,,,False,False,True,4,204,3,Powerful
+Little Leviathan,リトルリヴァイアサン,Krill,,,False,False,True,4,204,3,Powerful
+Little Leviathan,リトルリヴァイアサン,Plump Worm,18,28,True,True,True,4,204,3,Powerful
+Little Leviathan,リトルリヴァイアサン,Versatile Lure,,,False,False,True,4,204,3,Powerful
+Sabaton,シーサバトン,Ragworm,,,False,False,True,4,204,3,Powerful
+Sabaton,シーサバトン,Krill,14,19,True,True,True,4,204,3,Powerful
+Sabaton,シーサバトン,Plump Worm,,,False,False,True,4,204,3,Powerful
+Sabaton,シーサバトン,Versatile Lure,,,False,False,True,4,204,3,Powerful
+Shooting Star,海の流星,Ragworm,20,28,True,True,True,4,226,3,Precision
+Shooting Star,海の流星,Krill,,,False,False,True,4,226,3,Precision
+Shooting Star,海の流星,Plump Worm,,,False,False,True,4,226,3,Precision
+Shooting Star,海の流星,Versatile Lure,,,False,False,True,4,226,3,Precision
+Hammerclaw,ハンマーロブスター,Heavy Steel Jig,3,5,False,True,False,4,69,1,Precision
+Hammerclaw,ハンマーロブスター,Ragworm,2,3,False,True,False,4,69,1,Precision
+Hammerclaw,ハンマーロブスター,Krill,2,3,True,True,False,4,69,1,Precision
+Hammerclaw,ハンマーロブスター,Plump Worm,2,3,False,True,False,4,69,1,Precision
+Heavenskey,キー・オブ・ヘヴン,Glowworm,2,3,True,True,False,4,67,1,Precision
+Heavenskey,キー・オブ・ヘヴン,Ragworm,2,3,True,True,False,4,67,1,Precision
+Heavenskey,キー・オブ・ヘヴン,Krill,2,3,False,True,False,4,67,1,Precision
+Heavenskey,キー・オブ・ヘヴン,Plump Worm,2,3,False,True,False,4,67,1,Precision
+Ghost Shark,ゴーストシャーク,Glowworm,5,7,False,True,False,4,78,2,Powerful
+Ghost Shark,ゴーストシャーク,Ragworm,3,4,False,True,False,4,78,2,Powerful
+Ghost Shark,ゴーストシャーク,Krill,3,4,False,True,False,4,78,2,Powerful
+Ghost Shark,ゴーストシャーク,Plump Worm,3,4,True,True,False,4,78,2,Powerful
+Quicksilver Blade,クイックシルバーブレード,Glowworm,,,False,False,False,4,213,2,Powerful
+Quicksilver Blade,クイックシルバーブレード,Ragworm,,,False,False,False,4,213,2,Powerful
+Quicksilver Blade,クイックシルバーブレード,Krill,,,False,False,False,4,213,2,Powerful
+Quicksilver Blade,クイックシルバーブレード,Plump Worm,5,7,True,True,False,4,213,2,Powerful
+Navigator's Print,リムレーンプリント,Glowworm,3,4,False,True,False,4,71,1,Precision
+Navigator's Print,リムレーンプリント,Ragworm,3,4,False,True,False,4,71,1,Precision
+Navigator's Print,リムレーンプリント,Krill,3,4,True,True,False,4,71,1,Precision
+Navigator's Print,リムレーンプリント,Plump Worm,3,4,False,True,False,4,71,1,Precision
+Casket Oyster,ネイルドオイスター,Glowworm,,,False,False,False,4,222,1,Precision
+Casket Oyster,ネイルドオイスター,Ragworm,7,11,True,True,False,4,222,1,Precision
+Casket Oyster,ネイルドオイスター,Krill,,,False,False,False,4,222,1,Precision
+Casket Oyster,ネイルドオイスター,Plump Worm,,,False,False,False,4,222,1,Precision
+Fishmonger,フィッシュモンガー,Glowworm,5,8,False,True,False,4,78,2,Powerful
+Fishmonger,フィッシュモンガー,Ragworm,5,8,False,True,False,4,78,2,Powerful
+Fishmonger,フィッシュモンガー,Krill,5,8,False,True,False,4,78,2,Powerful
+Fishmonger,フィッシュモンガー,Plump Worm,5,8,True,True,False,4,78,2,Powerful
+Mythril Sovereign,ミスリルソブリン,Shrimp Cage Feeder,,,False,False,False,4,196,2,Powerful
+Mythril Sovereign,ミスリルソブリン,Ragworm,,,False,False,False,4,196,2,Powerful
+Mythril Sovereign,ミスリルソブリン,Krill,5,6,True,True,False,4,196,2,Powerful
+Mythril Sovereign,ミスリルソブリン,Plump Worm,,,False,False,False,4,196,2,Powerful
+Nimble Dancer,ニンブルダンサー,Glowworm,,,False,False,False,4,444,1,Precision
+Nimble Dancer,ニンブルダンサー,Ragworm,12,16,True,True,False,4,444,1,Precision
+Nimble Dancer,ニンブルダンサー,Krill,,,False,False,False,4,444,1,Precision
+Nimble Dancer,ニンブルダンサー,Plump Worm,,,False,False,False,4,444,1,Precision
+Sea Nettle,シーネトル,Shrimp Cage Feeder,,,False,False,False,4,156,1,Precision
+Sea Nettle,シーネトル,Ragworm,6.5,8,True,True,False,4,156,1,Precision
+Sea Nettle,シーネトル,Krill,,,False,False,False,4,156,1,Precision
+Sea Nettle,シーネトル,Plump Worm,,,False,False,False,4,156,1,Precision
+Great Grandmarlin,グランドマーリン,Shrimp Cage Feeder,,,False,False,False,4,127,2,Powerful
+Great Grandmarlin,グランドマーリン,Ragworm,,,False,False,False,4,127,2,Powerful
+Great Grandmarlin,グランドマーリン,Krill,,,False,False,False,4,127,2,Powerful
+Great Grandmarlin,グランドマーリン,Plump Worm,,,False,False,False,4,127,2,Powerful
+Shipwreck's Sail,レックドクロス,Shrimp Cage Feeder,2,3,False,True,False,4,59,2,Powerful
+Shipwreck's Sail,レックドクロス,Ragworm,2,3,False,True,False,4,59,2,Powerful
+Shipwreck's Sail,レックドクロス,Krill,2,3,False,True,False,4,59,2,Powerful
+Shipwreck's Sail,レックドクロス,Plump Worm,2,3,True,True,False,4,59,2,Powerful
+Azeyma's Sleeve,アーゼマの垂衣,Shrimp Cage Feeder,3,6,False,True,False,4,69,1,Precision
+Azeyma's Sleeve,アーゼマの垂衣,Ragworm,4,6,False,True,False,4,69,1,Precision
+Azeyma's Sleeve,アーゼマの垂衣,Krill,4,6,True,True,False,4,69,1,Precision
+Azeyma's Sleeve,アーゼマの垂衣,Plump Worm,4,6,False,True,False,4,69,1,Precision
+Hi-aetherlouse,ハイエーテルラウス,Shrimp Cage Feeder,3,4,False,True,False,4,65,1,Precision
+Hi-aetherlouse,ハイエーテルラウス,Ragworm,3,4,True,True,False,4,65,1,Precision
+Hi-aetherlouse,ハイエーテルラウス,Krill,3,4,False,True,False,4,65,1,Precision
+Hi-aetherlouse,ハイエーテルラウス,Plump Worm,3,4,False,True,False,4,65,1,Precision
+Floating Saucer,フローティングソーサー,Rat Tail,,,False,False,False,4,222,1,Precision
+Floating Saucer,フローティングソーサー,Ragworm,,,False,False,False,4,222,1,Precision
+Floating Saucer,フローティングソーサー,Krill,7,11,True,True,False,4,222,1,Precision
+Floating Saucer,フローティングソーサー,Plump Worm,,,False,False,False,4,222,1,Precision
+Aetheric Seadragon,エーテリックシードラゴン,Shrimp Cage Feeder,,,False,False,False,4,245,2,Powerful
+Aetheric Seadragon,エーテリックシードラゴン,Ragworm,,,False,False,False,4,245,2,Powerful
+Aetheric Seadragon,エーテリックシードラゴン,Krill,,,False,False,False,4,245,2,Powerful
+Aetheric Seadragon,エーテリックシードラゴン,Plump Worm,,,False,False,False,4,245,2,Powerful
+Coral Seadragon,コーラルシードラゴン,Heavy Steel Jig,,,False,False,False,4,189,1,Precision
+Coral Seadragon,コーラルシードラゴン,Ragworm,7,11,True,True,False,4,189,1,Precision
+Coral Seadragon,コーラルシードラゴン,Krill,,,False,False,False,4,189,1,Precision
+Coral Seadragon,コーラルシードラゴン,Plump Worm,,,False,False,False,4,189,1,Precision
+Roguesaurus,ロガサウルス,Shrimp Cage Feeder,,,False,False,False,4,345,3,Powerful
+Roguesaurus,ロガサウルス,Ragworm,,,False,False,False,4,345,3,Powerful
+Roguesaurus,ロガサウルス,Krill,,,False,False,False,4,345,3,Powerful
+Roguesaurus,ロガサウルス,Plump Worm,,,False,False,False,4,345,3,Powerful
+Merman's Mane,マーマンヘアー,Glowworm,4,6,False,True,False,4,94,2,Powerful
+Merman's Mane,マーマンヘアー,Ragworm,2,3,False,True,False,4,94,2,Powerful
+Merman's Mane,マーマンヘアー,Krill,2,3,True,True,False,4,94,2,Powerful
+Merman's Mane,マーマンヘアー,Plump Worm,2,3,False,True,False,4,94,2,Powerful
+Sweeper,フラッフィー,Rat Tail,,,False,False,False,4,216,2,Powerful
+Sweeper,フラッフィー,Ragworm,,,False,False,False,4,216,2,Powerful
+Sweeper,フラッフィー,Krill,,,False,False,False,4,216,2,Powerful
+Sweeper,フラッフィー,Plump Worm,5,7,True,True,False,4,216,2,Powerful
+Silencer,サイレンサー,Rat Tail,5,7,False,True,False,4,89,1,Precision
+Silencer,サイレンサー,Ragworm,3,4,True,True,False,4,89,1,Precision
+Silencer,サイレンサー,Krill,3,4,False,True,False,4,89,1,Precision
+Silencer,サイレンサー,Plump Worm,3,4,False,True,False,4,89,1,Precision
+Deep-sea Eel,ディープシーイール,Rat Tail,5,8,True,True,False,4,81,2,Powerful
+Deep-sea Eel,ディープシーイール,Ragworm,7,9,False,True,False,4,81,2,Powerful
+Deep-sea Eel,ディープシーイール,Krill,7,9,False,True,False,4,81,2,Powerful
+Deep-sea Eel,ディープシーイール,Plump Worm,7,9,True,True,False,4,81,2,Powerful
+Executioner,エクスキューショナー,Rat Tail,,,False,False,False,4,216,3,Powerful
+Executioner,エクスキューショナー,Ragworm,,,False,False,False,4,216,3,Powerful
+Executioner,エクスキューショナー,Krill,,,False,False,False,4,216,3,Powerful
+Executioner,エクスキューショナー,Plump Worm,6,9,True,True,False,4,216,3,Powerful
+Wild Urchin,ワイルドアーチン,Heavy Steel Jig,6,9,False,True,False,4,79,1,Precision
+Wild Urchin,ワイルドアーチン,Ragworm,5,7,True,True,False,4,79,1,Precision
+Wild Urchin,ワイルドアーチン,Krill,5,7,False,True,False,4,79,1,Precision
+Wild Urchin,ワイルドアーチン,Plump Worm,5,7,False,True,False,4,79,1,Precision
+True Barramundi,バラマンディ,Rat Tail,4,6,False,True,False,4,95,2,Powerful
+True Barramundi,バラマンディ,Ragworm,4,6,False,True,False,4,95,2,Powerful
+True Barramundi,バラマンディ,Krill,4,6,True,True,False,4,95,2,Powerful
+True Barramundi,バラマンディ,Plump Worm,4,6,False,True,False,4,95,2,Powerful
+Mopbeard,モッピィビアード,Heavy Steel Jig,,,False,False,False,4,198,2,Powerful
+Mopbeard,モッピィビアード,Ragworm,,,False,False,False,4,198,2,Powerful
+Mopbeard,モッピィビアード,Krill,5,8,True,True,False,4,198,2,Powerful
+Mopbeard,モッピィビアード,Plump Worm,,,False,False,False,4,198,2,Powerful
+Slipsnail,スネイルフィッシュ,Rat Tail,,,False,False,False,4,246,1,Precision
+Slipsnail,スネイルフィッシュ,Ragworm,5,,True,True,False,4,246,1,Precision
+Slipsnail,スネイルフィッシュ,Krill,,,False,False,False,4,246,1,Precision
+Slipsnail,スネイルフィッシュ,Plump Worm,,,False,False,False,4,246,1,Precision
+Aronnax,アロナクス,Rat Tail,2,3,False,True,False,4,95,1,Precision
+Aronnax,アロナクス,Ragworm,2,3,False,True,False,4,95,1,Precision
+Aronnax,アロナクス,Krill,2,3,True,True,False,4,95,1,Precision
+Aronnax,アロナクス,Plump Worm,2,3,False,True,False,4,95,1,Precision
+Coccosteus,コッコステウス,Heavy Steel Jig,2,3,False,True,False,4,79,2,Powerful
+Coccosteus,コッコステウス,Ragworm,2,3,False,True,False,4,79,2,Powerful
+Coccosteus,コッコステウス,Krill,2,3,False,True,False,4,79,2,Powerful
+Coccosteus,コッコステウス,Plump Worm,2,3,True,True,False,4,79,2,Powerful
+Bartholomew the Chopper,ザ・チョッパー,Heavy Steel Jig,,,False,False,False,4,221,1,Precision
+Bartholomew the Chopper,ザ・チョッパー,Ragworm,5,6,True,True,False,4,221,1,Precision
+Bartholomew the Chopper,ザ・チョッパー,Krill,,,False,False,False,4,221,1,Precision
+Bartholomew the Chopper,ザ・チョッパー,Plump Worm,,,False,False,False,4,221,1,Precision
+Prowler,タイガーキャットコッド,Heavy Steel Jig,3,4,False,True,False,4,79,1,Precision
+Prowler,タイガーキャットコッド,Ragworm,3,4,True,True,False,4,79,1,Precision
+Prowler,タイガーキャットコッド,Krill,3,4,False,True,False,4,79,1,Precision
+Prowler,タイガーキャットコッド,Plump Worm,3,4,False,True,False,4,79,1,Precision
+Charlatan Survivor,シャーラタンサバイバー,Shrimp Cage Feeder,3,4,False,True,False,4,69,1,Precision
+Charlatan Survivor,シャーラタンサバイバー,Ragworm,3,4,False,True,False,4,69,1,Precision
+Charlatan Survivor,シャーラタンサバイバー,Krill,3,4,True,True,False,4,69,1,Precision
+Charlatan Survivor,シャーラタンサバイバー,Plump Worm,3,4,False,True,False,4,69,1,Precision
+Prodigal Son,プロディガルサン,Rat Tail,5,8,False,True,False,4,95,2,Powerful
+Prodigal Son,プロディガルサン,Ragworm,4,6,False,True,False,4,95,2,Powerful
+Prodigal Son,プロディガルサン,Krill,4,6,True,True,False,4,95,2,Powerful
+Prodigal Son,プロディガルサン,Plump Worm,4,6,False,True,False,4,95,2,Powerful
+Gugrusaurus,ググリューサウルス,Heavy Steel Jig,5,7,False,True,False,4,79,3,Powerful
+Gugrusaurus,ググリューサウルス,Ragworm,5,8,False,True,False,4,79,3,Powerful
+Gugrusaurus,ググリューサウルス,Krill,5,8,False,True,False,4,79,3,Powerful
+Gugrusaurus,ググリューサウルス,Plump Worm,5,8,True,True,False,4,79,3,Powerful
+Funnel Shark,ファンネルシャーク,Glowworm,,,False,False,False,4,213,3,Powerful
+Funnel Shark,ファンネルシャーク,Ragworm,,,False,False,False,4,213,3,Powerful
+Funnel Shark,ファンネルシャーク,Krill,,,False,False,False,4,213,3,Powerful
+Funnel Shark,ファンネルシャーク,Plump Worm,7,11,True,True,False,4,213,3,Powerful
+The Fallen One,フォーレンワン,Heavy Steel Jig,,,False,False,False,4,374,2,Powerful
+The Fallen One,フォーレンワン,Ragworm,,,False,False,False,4,374,2,Powerful
+The Fallen One,フォーレンワン,Krill,7,,True,True,False,4,374,2,Powerful
+The Fallen One,フォーレンワン,Plump Worm,,,False,False,False,4,374,2,Powerful
+Spectral Megalodon,スペクトラルメガロドン,Ragworm,21,37,False,True,False,4,100,3,Powerful
+Spectral Megalodon,スペクトラルメガロドン,Krill,19,35,True,True,False,4,100,3,Powerful
+Spectral Megalodon,スペクトラルメガロドン,Plump Worm,20,36,False,True,False,4,100,3,Powerful
+Spectral Megalodon,スペクトラルメガロドン,Versatile Lure,23,37,False,True,False,4,100,3,Powerful
+Spectral Discus,スペクトラルディスカス,Ragworm,21,36,False,True,False,4,100,3,Precision
+Spectral Discus,スペクトラルディスカス,Krill,21,36,True,True,False,4,100,3,Precision
+Spectral Discus,スペクトラルディスカス,Plump Worm,21,36,False,True,False,4,100,3,Precision
+Spectral Discus,スペクトラルディスカス,Versatile Lure,23,37,False,True,False,4,100,3,Precision
+Spectral Sea Bo,スペクトラルシーホース,Ragworm,21,36,True,True,False,4,100,3,Precision
+Spectral Sea Bo,スペクトラルシーホース,Krill,21,36,False,True,False,4,100,3,Precision
+Spectral Sea Bo,スペクトラルシーホース,Plump Worm,21,36,False,True,False,4,100,3,Precision
+Spectral Sea Bo,スペクトラルシーホース,Versatile Lure,25,39,False,True,False,4,100,3,Precision
+Spectral Bass,スペクトラルバス,Ragworm,21,36,False,True,False,4,100,3,Powerful
+Spectral Bass,スペクトラルバス,Krill,21,36,False,True,False,4,100,3,Powerful
+Spectral Bass,スペクトラルバス,Plump Worm,20,36,True,True,False,4,100,3,Powerful
+Spectral Bass,スペクトラルバス,Versatile Lure,23,37,False,True,False,4,100,3,Powerful
+Sothis,ソティス,Glowworm,9,,True,True,True,5,500,3,Powerful
+Sothis,ソティス,Ragworm,,,False,False,True,5,500,3,Powerful
+Sothis,ソティス,Krill,,,False,False,True,5,500,3,Powerful
+Sothis,ソティス,Plump Worm,,,False,False,True,5,500,3,Powerful
+Coral Manta,コーラルマンタ,Shrimp Cage Feeder,9,,True,True,True,5,500,3,Powerful
+Coral Manta,コーラルマンタ,Ragworm,,,False,False,True,5,500,3,Powerful
+Coral Manta,コーラルマンタ,Krill,,,False,False,True,5,500,3,Powerful
+Coral Manta,コーラルマンタ,Plump Worm,,,False,False,True,5,500,3,Powerful
+Stonescale,ロックスケイル,Rat Tail,9,,True,True,True,5,500,3,Powerful
+Stonescale,ロックスケイル,Ragworm,,,False,False,True,5,500,3,Powerful
+Stonescale,ロックスケイル,Krill,,,False,False,True,5,500,3,Powerful
+Stonescale,ロックスケイル,Plump Worm,,,False,False,True,5,500,3,Powerful
+Elasmosaurus,エラスモサウルス,Heavy Steel Jig,9,,True,True,True,5,500,3,Powerful
+Elasmosaurus,エラスモサウルス,Ragworm,,,False,False,True,5,500,3,Powerful
+Elasmosaurus,エラスモサウルス,Krill,,,False,False,True,5,500,3,Powerful
+Elasmosaurus,エラスモサウルス,Plump Worm,,,False,False,True,5,500,3,Powerful
+Tortoiseshell Crab,トータスシェルクラブ,Ragworm,6,12,False,True,False,1,10,2,Powerful
+Tortoiseshell Crab,トータスシェルクラブ,Krill,6,12,True,True,False,1,10,2,Powerful
+Tortoiseshell Crab,トータスシェルクラブ,Plump Worm,6,12,False,True,False,1,10,2,Powerful
+Tortoiseshell Crab,トータスシェルクラブ,Versatile Lure,8,15,False,True,False,1,10,2,Powerful
+Lady's Cameo,エドヴィアの指輪,Ragworm,12,22,True,True,False,1,15,1,Precision
+Lady's Cameo,エドヴィアの指輪,Krill,12,22,False,True,False,1,15,1,Precision
+Lady's Cameo,エドヴィアの指輪,Plump Worm,12,22,False,True,False,1,15,1,Precision
+Lady's Cameo,エドヴィアの指輪,Versatile Lure,14,26,False,True,False,1,15,1,Precision
+Metallic Boxfish,メタルボックス,Ragworm,5,11,True,True,False,1,9,1,Precision
+Metallic Boxfish,メタルボックス,Krill,5,11,False,True,False,1,9,1,Precision
+Metallic Boxfish,メタルボックス,Plump Worm,5,11,False,True,False,1,9,1,Precision
+Metallic Boxfish,メタルボックス,Versatile Lure,9,14,False,True,False,1,9,1,Precision
+Goobbue Ray,グゥーブーレイ,Ragworm,18,27,False,True,False,2,33,2,Powerful
+Goobbue Ray,グゥーブーレイ,Krill,18,27,False,True,False,2,33,2,Powerful
+Goobbue Ray,グゥーブーレイ,Plump Worm,13,22,True,True,False,2,33,2,Powerful
+Goobbue Ray,グゥーブーレイ,Versatile Lure,18,27,False,True,False,2,33,2,Powerful
+Watermoura,シーワモーラ,Ragworm,14,22,False,True,False,2,41,1,Precision
+Watermoura,シーワモーラ,Krill,10,18,True,True,False,2,41,1,Precision
+Watermoura,シーワモーラ,Plump Worm,14,22,False,True,False,2,41,1,Precision
+Watermoura,シーワモーラ,Versatile Lure,14,22,False,True,False,2,41,1,Precision
+King Cobrafish,キングコブラフィッシュ,Ragworm,6,12,False,True,False,2,39,3,Powerful
+King Cobrafish,キングコブラフィッシュ,Krill,6,12,False,True,False,2,39,3,Powerful
+King Cobrafish,キングコブラフィッシュ,Plump Worm,6,12,True,True,False,2,39,3,Powerful
+King Cobrafish,キングコブラフィッシュ,Versatile Lure,9,13,False,True,False,2,39,3,Powerful
+Mamahi-mahi,ママヒマヒ,Ragworm,20,30,False,True,False,3,58,3,Powerful
+Mamahi-mahi,ママヒマヒ,Krill,20,30,False,True,False,3,58,3,Powerful
+Mamahi-mahi,ママヒマヒ,Plump Worm,17,28,True,True,False,3,58,3,Powerful
+Mamahi-mahi,ママヒマヒ,Versatile Lure,20,30,False,True,False,3,58,3,Powerful
+Lavandin Remora,ラバンジンレモラ,Ragworm,17,26,False,True,False,3,52,1,Precision
+Lavandin Remora,ラバンジンレモラ,Krill,15,24,True,True,False,3,52,1,Precision
+Lavandin Remora,ラバンジンレモラ,Plump Worm,16,26,False,True,False,3,52,1,Precision
+Lavandin Remora,ラバンジンレモラ,Versatile Lure,16,25,False,True,False,3,52,1,Precision
+Spectral Butterfly,スペクトラルバタフライ,Ragworm,13,18,True,True,False,4,100,3,Precision
+Spectral Butterfly,スペクトラルバタフライ,Krill,13,18,False,True,False,4,100,3,Precision
+Spectral Butterfly,スペクトラルバタフライ,Plump Worm,13,18,False,True,False,4,100,3,Precision
+Spectral Butterfly,スペクトラルバタフライ,Versatile Lure,13,20,False,True,False,4,100,3,Precision
+Cieldalaes Geode,シェルダレージオード,Ragworm,,,False,False,True,4,246,3,Powerful
+Cieldalaes Geode,シェルダレージオード,Krill,13,26,True,True,True,4,246,3,Powerful
+Cieldalaes Geode,シェルダレージオード,Plump Worm,,,False,False,True,4,246,3,Powerful
+Cieldalaes Geode,シェルダレージオード,Versatile Lure,,,False,False,True,4,246,3,Powerful
+Titanshell Crab,タイタンシェルクラブ,Squid Strip,4,6,False,True,False,4,84,2,Powerful
+Titanshell Crab,タイタンシェルクラブ,Ragworm,2,3,False,True,False,4,84,2,Powerful
+Titanshell Crab,タイタンシェルクラブ,Krill,2,3,True,True,False,4,84,2,Powerful
+Titanshell Crab,タイタンシェルクラブ,Plump Worm,2,3,False,True,False,4,84,2,Powerful
+Mythril Boxfish,ミスリルボックス,Squid Strip,4,6,False,True,False,4,64,1,Precision
+Mythril Boxfish,ミスリルボックス,Ragworm,2,3,True,True,False,4,64,1,Precision
+Mythril Boxfish,ミスリルボックス,Krill,2,3,False,True,False,4,64,1,Precision
+Mythril Boxfish,ミスリルボックス,Plump Worm,2,3,False,True,False,4,64,1,Precision
+Mistbeard's Cup,霧髭の盃,Squid Strip,3,4,True,True,False,4,84,2,Powerful
+Mistbeard's Cup,霧髭の盃,Ragworm,3,4,False,True,False,4,84,2,Powerful
+Mistbeard's Cup,霧髭の盃,Krill,3,4,True,True,False,4,84,2,Powerful
+Mistbeard's Cup,霧髭の盃,Plump Worm,3,4,False,True,False,4,84,2,Powerful
+Anomalocaris Saron,アノマロカリス・サロン,Squid Strip,3,5,True,True,False,4,84,1,Precision
+Anomalocaris Saron,アノマロカリス・サロン,Ragworm,4,6,False,True,False,4,84,1,Precision
+Anomalocaris Saron,アノマロカリス・サロン,Krill,4,6,False,True,False,4,84,1,Precision
+Anomalocaris Saron,アノマロカリス・サロン,Plump Worm,4,6,False,True,False,4,84,1,Precision
+Flaming Eel,フレイミングイール,Squid Strip,6,9,False,True,False,4,198,2,Powerful
+Flaming Eel,フレイミングイール,Ragworm,,,False,False,False,4,198,2,Powerful
+Flaming Eel,フレイミングイール,Krill,6,9,True,True,False,4,198,2,Powerful
+Flaming Eel,フレイミングイール,Plump Worm,,,False,False,False,4,198,2,Powerful
+Jetborne Manta,ジェットフライマンタ,Squid Strip,4,6,False,True,False,4,75,3,Powerful
+Jetborne Manta,ジェットフライマンタ,Ragworm,2,3,False,True,False,4,75,3,Powerful
+Jetborne Manta,ジェットフライマンタ,Krill,2,3,False,True,False,4,75,3,Powerful
+Jetborne Manta,ジェットフライマンタ,Plump Worm,2,3,True,True,False,4,75,3,Powerful
+Devil's Sting,デビルスティンガー,Squid Strip,7,,False,True,False,4,201,2,Powerful
+Devil's Sting,デビルスティンガー,Ragworm,,,False,False,False,4,201,2,Powerful
+Devil's Sting,デビルスティンガー,Krill,7,,True,True,False,4,201,2,Powerful
+Devil's Sting,デビルスティンガー,Plump Worm,,,False,False,False,4,201,2,Powerful
+Callichthyid,カリクティス,Squid Strip,,,False,False,False,4,178,3,Powerful
+Callichthyid,カリクティス,Ragworm,,,False,False,False,4,178,3,Powerful
+Callichthyid,カリクティス,Krill,,,False,False,False,4,178,3,Powerful
+Callichthyid,カリクティス,Plump Worm,6,8,True,True,False,4,178,3,Powerful
+Meandering Mora,フローティング・モラ,Squid Strip,,,False,False,False,4,283,2,Powerful
+Meandering Mora,フローティング・モラ,Ragworm,,,False,False,False,4,283,2,Powerful
+Meandering Mora,フローティング・モラ,Krill,,,False,False,False,4,283,2,Powerful
+Meandering Mora,フローティング・モラ,Plump Worm,7,,True,True,False,4,283,2,Powerful
+Hafgufa,ハーヴグーヴァ,Squid Strip,9,,True,True,True,5,500,3,Powerful
+Hafgufa,ハーヴグーヴァ,Ragworm,,,False,False,True,5,500,3,Powerful
+Hafgufa,ハーヴグーヴァ,Krill,,,False,False,True,5,500,3,Powerful
+Hafgufa,ハーヴグーヴァ,Plump Worm,,,False,False,True,5,500,3,Powerful
+Thaliak Crab,サリャクリバークラブ,Ragworm,3,7,True,True,False,1,9,1,Precision
+Thaliak Crab,サリャクリバークラブ,Krill,3,7,False,True,False,1,9,1,Precision
+Thaliak Crab,サリャクリバークラブ,Plump Worm,3,7,False,True,False,1,9,1,Precision
+Thaliak Crab,サリャクリバークラブ,Versatile Lure,7,11,False,True,False,1,9,1,Precision
+Star of the Destroyer,ラールガーの星屑,Ragworm,7,12,True,True,False,1,14,1,Precision
+Star of the Destroyer,ラールガーの星屑,Krill,8,14,False,True,False,1,14,1,Precision
+Star of the Destroyer,ラールガーの星屑,Plump Worm,8,14,False,True,False,1,14,1,Precision
+Star of the Destroyer,ラールガーの星屑,Versatile Lure,10,17,False,True,False,1,14,1,Precision
+True Scad,トゥルースキャッド,Ragworm,6,11,False,True,False,1,8,2,Powerful
+True Scad,トゥルースキャッド,Krill,6,11,True,True,False,1,8,2,Powerful
+True Scad,トゥルースキャッド,Plump Worm,7,12,False,True,False,1,8,2,Powerful
+True Scad,トゥルースキャッド,Versatile Lure,9,14,False,True,False,1,8,2,Powerful
+Blooded Wrasse,ブラッディハンプヘッド,Ragworm,11,17,False,True,False,2,35,2,Powerful
+Blooded Wrasse,ブラッディハンプヘッド,Krill,11,17,False,True,False,2,35,2,Powerful
+Blooded Wrasse,ブラッディハンプヘッド,Plump Worm,7,12,True,True,False,2,35,2,Powerful
+Blooded Wrasse,ブラッディハンプヘッド,Versatile Lure,13,18,False,True,False,2,35,2,Powerful
+Bloodpolish Crab,ブラッディポリッシュ,Ragworm,16,26,True,True,False,2,28,1,Precision
+Bloodpolish Crab,ブラッディポリッシュ,Krill,16,31,False,True,False,2,28,1,Precision
+Bloodpolish Crab,ブラッディポリッシュ,Plump Worm,16,31,False,True,False,2,28,1,Precision
+Bloodpolish Crab,ブラッディポリッシュ,Versatile Lure,19,32,False,True,False,2,28,1,Precision
+Blue Stitcher,ブルーニードル,Ragworm,8,11,False,True,False,2,30,1,Precision
+Blue Stitcher,ブルーニードル,Krill,3,7,True,True,False,2,30,1,Precision
+Blue Stitcher,ブルーニードル,Plump Worm,8,11,False,True,False,2,30,1,Precision
+Blue Stitcher,ブルーニードル,Versatile Lure,8,11,False,True,False,2,30,1,Precision
+Bloodfresh Tuna,ブラッディトゥーナ,Ragworm,13,21,False,True,False,3,43,2,Powerful
+Bloodfresh Tuna,ブラッディトゥーナ,Krill,13,17,False,True,False,3,43,2,Powerful
+Bloodfresh Tuna,ブラッディトゥーナ,Plump Worm,12,20,True,True,False,3,43,2,Powerful
+Bloodfresh Tuna,ブラッディトゥーナ,Versatile Lure,15,21,False,True,False,3,43,2,Powerful
+Sunken Mask,サンクンマスク,Ragworm,12,22,True,True,False,3,49,3,Powerful
+Sunken Mask,サンクンマスク,Krill,14,23,False,True,False,3,49,3,Powerful
+Sunken Mask,サンクンマスク,Plump Worm,14,22,False,True,False,3,49,3,Powerful
+Sunken Mask,サンクンマスク,Versatile Lure,15,22,False,True,False,3,49,3,Powerful
+Spectral Eel,スペクトラルイール,Ragworm,14,21,False,True,False,4,100,3,Powerful
+Spectral Eel,スペクトラルイール,Krill,14,21,True,True,False,4,100,3,Powerful
+Spectral Eel,スペクトラルイール,Plump Worm,14,21,False,True,False,4,100,3,Powerful
+Spectral Eel,スペクトラルイール,Versatile Lure,15,22,False,True,False,4,100,3,Powerful
+Bareface,ベアフェイス,Ragworm,,,False,False,True,4,326,3,Powerful
+Bareface,ベアフェイス,Krill,8,14,True,True,True,4,326,3,Powerful
+Bareface,ベアフェイス,Plump Worm,,,False,False,True,4,326,3,Powerful
+Bareface,ベアフェイス,Versatile Lure,,,False,False,True,4,326,3,Powerful
+Oracular Crab,オラクルクラブ,Pill Bug,,,False,False,False,4,102,1,Precision
+Oracular Crab,オラクルクラブ,Ragworm,2,3,True,True,False,4,102,1,Precision
+Oracular Crab,オラクルクラブ,Krill,2,3,False,True,False,4,102,1,Precision
+Oracular Crab,オラクルクラブ,Plump Worm,2,3,False,True,False,4,102,1,Precision
+Dravanian Bream,ドラヴァニアンブリーム,Pill Bug,,,False,False,False,4,77,1,Precision
+Dravanian Bream,ドラヴァニアンブリーム,Ragworm,3,4,False,True,False,4,77,1,Precision
+Dravanian Bream,ドラヴァニアンブリーム,Krill,3,4,True,True,False,4,77,1,Precision
+Dravanian Bream,ドラヴァニアンブリーム,Plump Worm,3,4,False,True,False,4,77,1,Precision
+Skaldminni,スコルドミンニー,Pill Bug,,,False,False,False,4,102,2,Powerful
+Skaldminni,スコルドミンニー,Ragworm,,,False,False,False,4,102,2,Powerful
+Skaldminni,スコルドミンニー,Krill,5,8,True,True,False,4,102,2,Powerful
+Skaldminni,スコルドミンニー,Plump Worm,,,False,False,False,4,102,2,Powerful
+Serrated Clam,セレーテッドクラム,Pill Bug,3,4,False,True,False,4,74,1,Precision
+Serrated Clam,セレーテッドクラム,Ragworm,3,4,True,True,False,4,74,1,Precision
+Serrated Clam,セレーテッドクラム,Krill,3,4,False,True,False,4,74,1,Precision
+Serrated Clam,セレーテッドクラム,Plump Worm,3,4,False,True,False,4,74,1,Precision
+Beatific Vision,ビティフィックビジョン,Pill Bug,2,3,True,True,False,4,77,2,Powerful
+Beatific Vision,ビティフィックビジョン,Ragworm,2,3,False,True,False,4,77,2,Powerful
+Beatific Vision,ビティフィックビジョン,Krill,2,3,True,True,False,4,77,2,Powerful
+Beatific Vision,ビティフィックビジョン,Plump Worm,2,3,False,True,False,4,77,2,Powerful
+Exterminator,エクスターミネーター,Pill Bug,,,False,False,False,4,255,1,Precision
+Exterminator,エクスターミネーター,Ragworm,5,8,True,True,False,4,255,1,Precision
+Exterminator,エクスターミネーター,Krill,,,False,False,False,4,255,1,Precision
+Exterminator,エクスターミネーター,Plump Worm,,,False,False,False,4,255,1,Precision
+Gory Tuna,ゴーリィトゥーナ,Pill Bug,3,4,False,True,False,4,92,2,Powerful
+Gory Tuna,ゴーリィトゥーナ,Ragworm,3,4,False,True,False,4,92,2,Powerful
+Gory Tuna,ゴーリィトゥーナ,Krill,3,4,False,True,False,4,92,2,Powerful
+Gory Tuna,ゴーリィトゥーナ,Plump Worm,3,4,True,True,False,4,92,2,Powerful
+Ticinepomis,ティキネポミス,Pill Bug,3,4,False,True,False,4,92,3,Powerful
+Ticinepomis,ティキネポミス,Ragworm,3,4,False,True,False,4,92,3,Powerful
+Ticinepomis,ティキネポミス,Krill,3,4,False,True,False,4,92,3,Powerful
+Ticinepomis,ティキネポミス,Plump Worm,3,4,True,True,False,4,92,3,Powerful
+Quartz Hammerhead,クォーツハンマーヘッド,Pill Bug,,,False,False,False,4,460,3,Powerful
+Quartz Hammerhead,クォーツハンマーヘッド,Ragworm,,,False,False,False,4,460,3,Powerful
+Quartz Hammerhead,クォーツハンマーヘッド,Krill,,,False,False,False,4,460,3,Powerful
+Quartz Hammerhead,クォーツハンマーヘッド,Plump Worm,7,10,True,True,False,4,460,3,Powerful
+Seafaring Toad,オーシャントード,Pill Bug,9,,True,True,True,5,500,3,Precision
+Seafaring Toad,オーシャントード,Ragworm,,,False,False,True,5,500,3,Precision
+Seafaring Toad,オーシャントード,Krill,,,False,False,True,5,500,3,Precision
+Seafaring Toad,オーシャントード,Plump Worm,,,False,False,True,5,500,3,Precision
+Crow Puffer,パフィークロウ,Ragworm,3,6,True,True,False,1,10,1,Precision
+Crow Puffer,パフィークロウ,Krill,3,6,False,True,False,1,10,1,Precision
+Crow Puffer,パフィークロウ,Plump Worm,3,6,False,True,False,1,10,1,Precision
+Crow Puffer,パフィークロウ,Versatile Lure,5,9,False,True,False,1,10,1,Precision
+Rothlyt Kelp,ロズリトケルプ,Ragworm,7,11,True,True,False,1,10,1,Precision
+Rothlyt Kelp,ロズリトケルプ,Krill,7,11,False,True,False,1,10,1,Precision
+Rothlyt Kelp,ロズリトケルプ,Plump Worm,7,11,False,True,False,1,10,1,Precision
+Rothlyt Kelp,ロズリトケルプ,Versatile Lure,8,14,False,True,False,1,10,1,Precision
+Living Lantern,ホオズキクラゲ,Ragworm,7,11,False,True,False,1,13,2,Powerful
+Living Lantern,ホオズキクラゲ,Krill,7,11,True,True,False,1,13,2,Powerful
+Living Lantern,ホオズキクラゲ,Plump Worm,7,11,False,True,False,1,13,2,Powerful
+Living Lantern,ホオズキクラゲ,Versatile Lure,9,13,False,True,False,1,13,2,Powerful
+Honeycomb Fish,ハニカムフィッシュ,Ragworm,14,23,True,True,False,2,29,1,Precision
+Honeycomb Fish,ハニカムフィッシュ,Krill,14,27,False,True,False,2,29,1,Precision
+Honeycomb Fish,ハニカムフィッシュ,Plump Worm,14,27,False,True,False,2,29,1,Precision
+Honeycomb Fish,ハニカムフィッシュ,Versatile Lure,17,27,False,True,False,2,29,1,Precision
+Godsbed,海神の寝台,Ragworm,16,27,False,True,False,2,29,2,Powerful
+Godsbed,海神の寝台,Krill,16,27,False,True,False,2,29,2,Powerful
+Godsbed,海神の寝台,Plump Worm,13,23,True,True,False,2,29,2,Powerful
+Godsbed,海神の寝台,Versatile Lure,17,27,False,True,False,2,29,2,Powerful
+Lansquenet,ランスケネット,Ragworm,12,24,False,True,False,2,36,2,Powerful
+Lansquenet,ランスケネット,Krill,15,25,False,True,False,2,36,2,Powerful
+Lansquenet,ランスケネット,Plump Worm,12,20,True,True,False,2,36,2,Powerful
+Lansquenet,ランスケネット,Versatile Lure,15,24,False,True,False,2,36,2,Powerful
+Thavnairian Shark,サベネアンシャーク,Ragworm,11,17,False,True,False,3,44,3,Powerful
+Thavnairian Shark,サベネアンシャーク,Krill,10,15,True,True,False,3,44,3,Powerful
+Thavnairian Shark,サベネアンシャーク,Plump Worm,12,17,False,True,False,3,44,3,Powerful
+Thavnairian Shark,サベネアンシャーク,Versatile Lure,12,16,False,True,False,3,44,3,Powerful
+Nephrite Eel,ネフライトイール,Ragworm,16,24,False,True,False,3,44,2,Powerful
+Nephrite Eel,ネフライトイール,Krill,14,23,True,True,False,3,44,2,Powerful
+Nephrite Eel,ネフライトイール,Plump Worm,15,24,False,True,False,3,44,2,Powerful
+Nephrite Eel,ネフライトイール,Versatile Lure,16,23,False,True,False,3,44,2,Powerful
+Spectresaur,スペクトラルザウルス,Ragworm,16,24,False,True,False,4,100,3,Powerful
+Spectresaur,スペクトラルザウルス,Krill,16,24,False,True,False,4,100,3,Powerful
+Spectresaur,スペクトラルザウルス,Plump Worm,16,24,True,True,False,4,100,3,Powerful
+Spectresaur,スペクトラルザウルス,Versatile Lure,16,24,False,True,False,4,100,3,Powerful
+Ginkgo Fin,ギンコフィッシュ,Ragworm,12,18,True,True,True,4,238,3,Precision
+Ginkgo Fin,ギンコフィッシュ,Krill,,,False,False,True,4,238,3,Precision
+Ginkgo Fin,ギンコフィッシュ,Plump Worm,,,False,False,True,4,238,3,Precision
+Ginkgo Fin,ギンコフィッシュ,Versatile Lure,,,False,False,True,4,238,3,Precision
+Garum Jug,ガルームポット,Ragworm,2,3,True,True,False,4,107,1,Precision
+Garum Jug,ガルームポット,Krill,2,3,False,True,False,4,107,1,Precision
+Garum Jug,ガルームポット,Plump Worm,2,3,False,True,False,4,107,1,Precision
+Smooth Jaguar,シーパンサー,Ragworm,3,4,False,True,False,4,70,2,Powerful
+Smooth Jaguar,シーパンサー,Krill,3,4,False,True,False,4,70,2,Powerful
+Smooth Jaguar,シーパンサー,Plump Worm,3,4,True,True,False,4,70,2,Powerful
+Rothlyt Mussel,ロズリトムール,Ragworm,3,4,True,True,False,4,72,1,Precision
+Rothlyt Mussel,ロズリトムール,Krill,3,4,False,True,False,4,72,1,Precision
+Rothlyt Mussel,ロズリトムール,Plump Worm,3,4,False,True,False,4,72,1,Precision
+Levi Elver,ジュヴナイル・リヴィ,Ragworm,2,3,False,True,False,4,75,2,Powerful
+Levi Elver,ジュヴナイル・リヴィ,Krill,2,3,True,True,False,4,75,2,Powerful
+Levi Elver,ジュヴナイル・リヴィ,Plump Worm,2,3,False,True,False,4,75,2,Powerful
+Pearl Bombfish,パールボム,Ragworm,,,False,False,False,4,237,2,Powerful
+Pearl Bombfish,パールボム,Krill,5,6,True,True,False,4,237,2,Powerful
+Pearl Bombfish,パールボム,Plump Worm,,,False,False,False,4,237,2,Powerful
+Trollfish,バシバシ,Ragworm,,,False,False,False,4,202,1,Precision
+Trollfish,バシバシ,Krill,,,False,False,False,4,202,1,Precision
+Trollfish,バシバシ,Plump Worm,,,False,False,False,4,202,1,Precision
+Panoptes,パノプテス,Ragworm,,,False,False,False,4,125,2,Powerful
+Panoptes,パノプテス,Krill,,,False,False,False,4,125,2,Powerful
+Panoptes,パノプテス,Plump Worm,5,7,True,True,False,4,125,2,Powerful
+Crepe Sole,ゴールデンソール,Ragworm,5,7,True,True,False,4,72,1,Precision
+Crepe Sole,ゴールデンソール,Krill,5,7,False,True,False,4,72,1,Precision
+Crepe Sole,ゴールデンソール,Plump Worm,5,7,False,True,False,4,72,1,Precision
+Knifejaw,ナイフジョー,Ragworm,,,False,False,False,4,465,2,Powerful
+Knifejaw,ナイフジョー,Krill,7,10,True,True,False,4,465,2,Powerful
+Knifejaw,ナイフジョー,Plump Worm,,,False,False,False,4,465,2,Powerful
+Placodus,プラコドゥス,Ragworm,,,False,False,True,5,500,3,Powerful
+Placodus,プラコドゥス,Krill,,,False,False,True,5,500,3,Powerful
+Placodus,プラコドゥス,Plump Worm,,,False,False,True,5,500,3,Powerful
+Pink Shrimp,ピンクシュリンプ,Ragworm,13,20,False,True,False,2,31,1,Precision
+Pink Shrimp,ピンクシュリンプ,Krill,8,15,True,True,False,2,31,1,Precision
+Pink Shrimp,ピンクシュリンプ,Plump Worm,13,20,False,True,False,2,31,1,Precision
+Pink Shrimp,ピンクシュリンプ,Versatile Lure,,,False,True,False,2,31,1,Precision
+Sirensong Mussel,セイレーンムセル,Ragworm,5,7,True,True,False,1,11,1,Precision
+Sirensong Mussel,セイレーンムセル,Krill,5,7,False,True,False,1,11,1,Precision
+Sirensong Mussel,セイレーンムセル,Plump Worm,5,7,False,True,False,1,11,1,Precision
+Sirensong Mussel,セイレーンムセル,Versatile Lure,,,False,True,False,1,11,1,Precision
+Arrowhead,アロウヘッド,Ragworm,10,18,False,True,False,1,10,2,Powerful
+Arrowhead,アロウヘッド,Krill,10,18,True,True,False,1,10,2,Powerful
+Arrowhead,アロウヘッド,Plump Worm,10,18,False,True,False,1,10,2,Powerful
+Arrowhead,アロウヘッド,Versatile Lure,,,False,True,False,1,10,2,Powerful
+Deepshade Sardine,ディープサーディン,Ragworm,5,9,False,True,False,1,15,2,Powerful
+Deepshade Sardine,ディープサーディン,Krill,5,9,False,True,False,1,15,2,Powerful
+Deepshade Sardine,ディープサーディン,Plump Worm,5,9,True,True,False,1,15,2,Powerful
+Deepshade Sardine,ディープサーディン,Versatile Lure,,,False,True,False,1,15,2,Powerful
+Sirensong Mullet,シンギングマレ,Ragworm,9,14,False,True,False,2,42,2,Powerful
+Sirensong Mullet,シンギングマレ,Krill,4,8,True,True,False,2,42,2,Powerful
+Sirensong Mullet,シンギングマレ,Plump Worm,9,14,False,True,False,2,42,2,Powerful
+Sirensong Mullet,シンギングマレ,Versatile Lure,,,False,True,False,2,42,2,Powerful
+Selkie Puffer,セルキーパファー,Ragworm,11,20,True,True,False,2,38,1,Precision
+Selkie Puffer,セルキーパファー,Krill,16,24,False,True,False,2,38,1,Precision
+Selkie Puffer,セルキーパファー,Plump Worm,16,24,False,True,False,2,38,1,Precision
+Selkie Puffer,セルキーパファー,Versatile Lure,,,False,True,False,2,38,1,Precision
+Poet's Pipe,詩人のオカリナ,Ragworm,18,29,True,True,False,3,56,1,Precision
+Poet's Pipe,詩人のオカリナ,Krill,19,30,False,True,False,3,56,1,Precision
+Poet's Pipe,詩人のオカリナ,Plump Worm,19,30,False,True,False,3,56,1,Precision
+Poet's Pipe,詩人のオカリナ,Versatile Lure,,,False,True,False,3,56,1,Precision
+Marine Matanga,マタンガスイマー,Ragworm,17,27,False,True,False,3,47,3,Powerful
+Marine Matanga,マタンガスイマー,Krill,17,27,False,True,False,3,47,3,Powerful
+Marine Matanga,マタンガスイマー,Plump Worm,16,26,True,True,False,3,47,3,Powerful
+Marine Matanga,マタンガスイマー,Versatile Lure,,,False,True,False,3,47,3,Powerful
+Spectral Coelacanth,スペクトラルシーラカンス,Ragworm,15,24,False,True,False,4,100,3,Powerful
+Spectral Coelacanth,スペクトラルシーラカンス,Krill,15,24,False,True,False,4,100,3,Powerful
+Spectral Coelacanth,スペクトラルシーラカンス,Plump Worm,15,24,True,True,False,4,100,3,Powerful
+Spectral Coelacanth,スペクトラルシーラカンス,Versatile Lure,,,False,True,False,4,100,3,Powerful
+Dusk Shark,ダスキーシャーク,Ragworm,,,False,False,True,4,263,3,Powerful
+Dusk Shark,ダスキーシャーク,Krill,,,False,False,True,4,263,3,Powerful
+Dusk Shark,ダスキーシャーク,Plump Worm,13,23,True,True,True,4,263,3,Powerful
+Dusk Shark,ダスキーシャーク,Versatile Lure,,,False,False,True,4,263,3,Powerful
+Mermaid Scale,人魚の鱗,Ragworm,3,4,True,True,False,4,51,1,Precision
+Mermaid Scale,人魚の鱗,Krill,3,4,False,True,False,4,51,1,Precision
+Mermaid Scale,人魚の鱗,Plump Worm,3,4,False,True,False,4,51,1,Precision
+Mermaid Scale,人魚の鱗,Mackerel Strip,6,8,False,True,False,4,51,1,Precision
+Broadhead,ブロードヘッド,Ragworm,3,4,False,True,False,4,68,2,Powerful
+Broadhead,ブロードヘッド,Krill,3,4,False,True,False,4,68,2,Powerful
+Broadhead,ブロードヘッド,Plump Worm,3,4,True,True,False,4,68,2,Powerful
+Broadhead,ブロードヘッド,Mackerel Strip,3,4,False,True,False,4,68,2,Powerful
+Vivid Pink Shrimp,ビビッドピンクシュリンプ,Ragworm,,,False,False,False,4,144,1,Precision
+Vivid Pink Shrimp,ビビッドピンクシュリンプ,Krill,6,8,True,True,False,4,144,1,Precision
+Vivid Pink Shrimp,ビビッドピンクシュリンプ,Plump Worm,,,False,False,False,4,144,1,Precision
+Vivid Pink Shrimp,ビビッドピンクシュリンプ,Mackerel Strip,6,7,False,True,False,4,144,1,Precision
+Sunken Coelacanth,ディープシーラカンス,Ragworm,4,6,False,True,False,4,51,3,Powerful
+Sunken Coelacanth,ディープシーラカンス,Krill,4,6,False,True,False,4,51,3,Powerful
+Sunken Coelacanth,ディープシーラカンス,Plump Worm,4,6,True,True,False,4,51,3,Powerful
+Sunken Coelacanth,ディープシーラカンス,Mackerel Strip,4,6,False,True,False,4,51,3,Powerful
+Siren's Sigh,セイレーンの吐息,Ragworm,5,6,True,True,False,4,101,1,Precision
+Siren's Sigh,セイレーンの吐息,Krill,,,False,False,False,4,101,1,Precision
+Siren's Sigh,セイレーンの吐息,Plump Worm,,,False,False,False,4,101,1,Precision
+Siren's Sigh,セイレーンの吐息,Mackerel Strip,5,6,False,True,False,4,101,1,Precision
+Black-jawed Helicoprion,ブラックヘリコプリオン,Ragworm,,,False,False,False,4,102,3,Powerful
+Black-jawed Helicoprion,ブラックヘリコプリオン,Krill,,,False,False,False,4,102,3,Powerful
+Black-jawed Helicoprion,ブラックヘリコプリオン,Plump Worm,5,6,True,True,False,4,102,3,Powerful
+Black-jawed Helicoprion,ブラックヘリコプリオン,Mackerel Strip,5,6,False,True,False,4,102,3,Powerful
+Impostopus,オクトパスインポスター,Ragworm,,,False,False,False,4,144,1,Precision
+Impostopus,オクトパスインポスター,Krill,5,6,True,True,False,4,144,1,Precision
+Impostopus,オクトパスインポスター,Plump Worm,,,False,False,False,4,144,1,Precision
+Impostopus,オクトパスインポスター,Mackerel Strip,5,6,False,True,False,4,144,1,Precision
+Jade Shrimp,ジェイドマンティス,Ragworm,,,False,False,False,4,72,1,Precision
+Jade Shrimp,ジェイドマンティス,Krill,3,4,True,True,False,4,72,1,Precision
+Jade Shrimp,ジェイドマンティス,Plump Worm,,,False,False,False,4,72,1,Precision
+Jade Shrimp,ジェイドマンティス,Mackerel Strip,,,False,False,False,4,72,1,Precision
+Nymeia's Wheel,ニメーヤの紡車,Ragworm,,,False,False,False,4,289,2,Powerful
+Nymeia's Wheel,ニメーヤの紡車,Krill,7,8,True,True,False,4,289,2,Powerful
+Nymeia's Wheel,ニメーヤの紡車,Plump Worm,,,False,False,False,4,289,2,Powerful
+Nymeia's Wheel,ニメーヤの紡車,Mackerel Strip,,,False,False,False,4,289,2,Powerful
+Taniwha,タニファ,Ragworm,,,False,False,True,5,500,3,Powerful
+Taniwha,タニファ,Krill,,,False,False,True,5,500,3,Powerful
+Taniwha,タニファ,Plump Worm,,,False,False,True,5,500,3,Powerful
+Taniwha,タニファ,Mackerel Strip,9,11,True,True,True,5,500,3,Powerful
+Ruby Herring,クガネニシン,Ragworm,5,9,False,True,False,1,14,2,Powerful
+Ruby Herring,クガネニシン,Krill,5,9,True,True,False,1,14,2,Powerful
+Ruby Herring,クガネニシン,Plump Worm,5,9,False,True,False,1,14,2,Powerful
+Ruby Herring,クガネニシン,Versatile Lure,,,False,True,False,1,14,2,Powerful
+Whirlpool Turban,ウズマキサザエ,Ragworm,15,29,True,True,False,1,10,1,Precision
+Whirlpool Turban,ウズマキサザエ,Krill,15,29,False,True,False,1,10,1,Precision
+Whirlpool Turban,ウズマキサザエ,Plump Worm,15,29,False,True,False,1,10,1,Precision
+Whirlpool Turban,ウズマキサザエ,Versatile Lure,,,False,True,False,1,10,1,Precision
+Leopard Prawn,斑海老,Ragworm,5,9,True,True,False,1,10,1,Precision
+Leopard Prawn,斑海老,Krill,5,9,False,True,False,1,10,1,Precision
+Leopard Prawn,斑海老,Plump Worm,5,9,True,True,False,1,10,1,Precision
+Leopard Prawn,斑海老,Versatile Lure,,,False,True,False,1,10,1,Precision
+Spear Squid,ヤリイカ,Ragworm,18,29,False,True,False,2,26,2,Powerful
+Spear Squid,ヤリイカ,Krill,18,29,False,True,False,2,26,2,Powerful
+Spear Squid,ヤリイカ,Plump Worm,13,24,True,True,False,2,26,2,Powerful
+Spear Squid,ヤリイカ,Versatile Lure,,,False,True,False,2,26,2,Powerful
+Floating Lantern,火袋海月,Ragworm,12,17,False,True,False,2,37,2,Powerful
+Floating Lantern,火袋海月,Krill,12,17,False,True,False,2,37,2,Powerful
+Floating Lantern,火袋海月,Plump Worm,7,12,True,True,False,2,37,2,Powerful
+Floating Lantern,火袋海月,Versatile Lure,,,False,True,False,2,37,2,Powerful
+Rubescent Tatsunoko,マダラタツ,Ragworm,10,14,False,True,False,2,33,1,Precision
+Rubescent Tatsunoko,マダラタツ,Krill,5,9,True,True,False,2,33,1,Precision
+Rubescent Tatsunoko,マダラタツ,Plump Worm,10,14,False,True,False,2,33,1,Precision
+Rubescent Tatsunoko,マダラタツ,Versatile Lure,,,False,True,False,2,33,1,Precision
+Hatatate,ハタタテハゼ,Ragworm,10,14,True,True,False,3,53,1,Precision
+Hatatate,ハタタテハゼ,Krill,11,15,False,True,False,3,53,1,Precision
+Hatatate,ハタタテハゼ,Plump Worm,11,15,False,True,False,3,53,1,Precision
+Hatatate,ハタタテハゼ,Versatile Lure,,,False,True,False,3,53,1,Precision
+Silent Shark,ネズミザメ,Ragworm,,,False,False,False,3,35,3,Powerful
+Silent Shark,ネズミザメ,Krill,,,False,False,False,3,35,3,Powerful
+Silent Shark,ネズミザメ,Plump Worm,,,False,False,False,3,35,3,Powerful
+Silent Shark,ネズミザメ,Versatile Lure,,,False,False,False,3,35,3,Powerful
+Spectral Wrasse,幻海求仙,Ragworm,17,29,True,True,False,4,100,3,Precision
+Spectral Wrasse,幻海求仙,Krill,17,29,True,True,False,4,100,3,Precision
+Spectral Wrasse,幻海求仙,Plump Worm,18,29,False,True,False,4,100,3,Precision
+Spectral Wrasse,幻海求仙,Versatile Lure,,,False,True,False,4,100,3,Precision
+Mizuhiki,水引魚,Ragworm,15,24,True,True,True,4,263,3,Precision
+Mizuhiki,水引魚,Krill,,,False,False,True,4,263,3,Precision
+Mizuhiki,水引魚,Plump Worm,,,False,False,True,4,263,3,Precision
+Mizuhiki,水引魚,Versatile Lure,,,False,False,True,4,263,3,Precision
+Snapping Koban,コバンウツボ,Ragworm,2,3,False,True,False,4,62,2,Powerful
+Snapping Koban,コバンウツボ,Krill,2,3,True,True,False,4,62,2,Powerful
+Snapping Koban,コバンウツボ,Plump Worm,2,3,False,True,False,4,62,2,Powerful
+Silkweft Prawn,宝彩海老,Ragworm,2,3,True,True,False,4,58,1,Precision
+Silkweft Prawn,宝彩海老,Krill,2,3,False,True,False,4,58,1,Precision
+Silkweft Prawn,宝彩海老,Plump Worm,2,3,False,True,False,4,58,1,Precision
+Stingfin Trevally,ドクヒラアジ,Ragworm,,,False,False,False,4,191,2,Powerful
+Stingfin Trevally,ドクヒラアジ,Krill,6,8,True,True,False,4,191,2,Powerful
+Stingfin Trevally,ドクヒラアジ,Plump Worm,,,False,False,False,4,191,2,Powerful
+Swordtip Squid,ケンサキイカ,Ragworm,8,12,False,True,False,4,115,2,Powerful
+Swordtip Squid,ケンサキイカ,Krill,8,12,False,True,False,4,115,2,Powerful
+Swordtip Squid,ケンサキイカ,Plump Worm,4,6,True,True,False,4,115,2,Powerful
+Mailfish,ヨロイウオ,Ragworm,8,11,True,True,False,4,198,1,Precision
+Mailfish,ヨロイウオ,Krill,,,False,False,False,4,198,1,Precision
+Mailfish,ヨロイウオ,Plump Worm,,,False,False,False,4,198,1,Precision
+Idaten's Bolt,イダテントビウオ,Ragworm,3,4,False,True,False,4,62,1,Precision
+Idaten's Bolt,イダテントビウオ,Krill,3,4,True,True,False,4,62,1,Precision
+Idaten's Bolt,イダテントビウオ,Plump Worm,3,4,False,True,False,4,62,1,Precision
+Maelstrom Turban,タツマキサザエ,Ragworm,5,7,True,True,False,4,83,1,Precision
+Maelstrom Turban,タツマキサザエ,Krill,5,7,False,True,False,4,83,1,Precision
+Maelstrom Turban,タツマキサザエ,Plump Worm,5,7,False,True,False,4,83,1,Precision
+Shoshitsuki,ショウシツキ,Ragworm,,,False,False,False,4,92,3,Powerful
+Shoshitsuki,ショウシツキ,Krill,,,False,False,False,4,92,3,Powerful
+Shoshitsuki,ショウシツキ,Plump Worm,3,4,True,True,False,4,92,3,Powerful
+Spadefish,サカタザメ,Ragworm,,,False,False,False,4,191,2,Powerful
+Spadefish,サカタザメ,Krill,6,8,True,True,False,4,191,2,Powerful
+Spadefish,サカタザメ,Plump Worm,,,False,False,False,4,191,2,Powerful
+Glass Dragon,瑠璃龍,Ragworm,,,False,False,True,5,500,3,Powerful
+Glass Dragon,瑠璃龍,Krill,,,False,False,True,5,500,3,Powerful
+Glass Dragon,瑠璃龍,Plump Worm,,,False,False,True,5,500,3,Powerful
+Crimson Kelp,ベニコンブ,Ragworm,5,7,True,True,False,1,11,1,Precision
+Crimson Kelp,ベニコンブ,Krill,5,7,False,True,False,1,11,1,Precision
+Crimson Kelp,ベニコンブ,Plump Worm,5,7,False,True,False,1,11,1,Precision
+Crimson Kelp,ベニコンブ,Versatile Lure,,,False,True,False,1,11,1,Precision
+Reef Squid,アオリイカ,Ragworm,10,18,False,True,False,1,10,2,Powerful
+Reef Squid,アオリイカ,Krill,10,18,True,True,False,1,10,2,Powerful
+Reef Squid,アオリイカ,Plump Worm,10,18,False,True,False,1,10,2,Powerful
+Reef Squid,アオリイカ,Versatile Lure,,,False,True,False,1,10,2,Powerful
+Pinebark Flounder,マツカワガレイ,Ragworm,5,9,True,True,False,1,15,1,Precision
+Pinebark Flounder,マツカワガレイ,Krill,5,9,False,True,False,1,15,1,Precision
+Pinebark Flounder,マツカワガレイ,Plump Worm,5,9,False,True,False,1,15,1,Precision
+Pinebark Flounder,マツカワガレイ,Versatile Lure,,,False,True,False,1,15,1,Precision
+Mantle Moray,ハゴロモウツボ,Ragworm,10,14,False,True,False,2,41,2,Powerful
+Mantle Moray,ハゴロモウツボ,Krill,5,9,True,True,False,2,41,2,Powerful
+Mantle Moray,ハゴロモウツボ,Plump Worm,10,14,False,True,False,2,41,2,Powerful
+Mantle Moray,ハゴロモウツボ,Versatile Lure,,,False,True,False,2,41,2,Powerful
+Shisui Goby,シスイハゼ,Ragworm,19,30,True,True,False,2,57,1,Precision
+Shisui Goby,シスイハゼ,Krill,20,32,False,True,False,2,57,1,Precision
+Shisui Goby,シスイハゼ,Plump Worm,20,32,False,True,False,2,57,1,Precision
+Shisui Goby,シスイハゼ,Versatile Lure,,,False,True,False,2,57,1,Precision
+Sanbaso,サンバソウ,Ragworm,19,30,False,True,False,3,38,2,Powerful
+Sanbaso,サンバソウ,Krill,19,31,False,True,False,3,38,2,Powerful
+Sanbaso,サンバソウ,Plump Worm,14,25,True,True,False,3,38,2,Powerful
+Sanbaso,サンバソウ,Versatile Lure,,,False,True,False,3,38,2,Powerful
+Barded Lobster,馬海老,Ragworm,10,18,True,True,False,2,33,1,Precision
+Barded Lobster,馬海老,Krill,15,22,False,True,False,2,33,1,Precision
+Barded Lobster,馬海老,Plump Worm,15,22,False,True,False,2,33,1,Precision
+Barded Lobster,馬海老,Versatile Lure,,,False,True,False,2,33,1,Precision
+Violet Sentry,蒼の仁王,Ragworm,14,21,False,True,False,3,55,3,Powerful
+Violet Sentry,蒼の仁王,Krill,14,21,False,True,False,3,55,3,Powerful
+Violet Sentry,蒼の仁王,Plump Worm,13,20,True,True,False,3,55,3,Powerful
+Violet Sentry,蒼の仁王,Versatile Lure,,,False,True,False,3,55,3,Powerful
+Spectral Snake Eel,幻海大蛇,Ragworm,16,23,False,True,False,4,100,3,Powerful
+Spectral Snake Eel,幻海大蛇,Krill,15,24,True,True,False,4,100,3,Powerful
+Spectral Snake Eel,幻海大蛇,Plump Worm,16,23,True,True,False,4,100,3,Powerful
+Spectral Snake Eel,幻海大蛇,Versatile Lure,,,False,True,False,4,100,3,Powerful
+Heavensent Shark,アメノトラ,Ragworm,,,False,False,True,4,227,3,Powerful
+Heavensent Shark,アメノトラ,Krill,16,26,True,True,True,4,227,3,Powerful
+Heavensent Shark,アメノトラ,Plump Worm,,,False,False,True,4,227,3,Powerful
+Heavensent Shark,アメノトラ,Versatile Lure,,,False,False,True,4,227,3,Powerful
+Fleeting Squid,バショウイカ,Squid Strip,6,8,False,True,False,4,81,2,Powerful
+Fleeting Squid,バショウイカ,Ragworm,3,4,False,True,False,4,81,2,Powerful
+Fleeting Squid,バショウイカ,Krill,3,4,True,True,False,4,81,2,Powerful
+Fleeting Squid,バショウイカ,Plump Worm,3,4,True,True,False,4,81,2,Powerful
+Bowbarb Lobster,弓馬海老,Squid Strip,6,8,False,True,False,4,83,1,Precision
+Bowbarb Lobster,弓馬海老,Ragworm,3,4,True,True,False,4,83,1,Precision
+Bowbarb Lobster,弓馬海老,Krill,3,4,False,True,False,4,83,1,Precision
+Bowbarb Lobster,弓馬海老,Plump Worm,3,4,False,True,False,4,83,1,Precision
+Pitch Pickle,オハグロナマコ,Squid Strip,,,False,False,False,4,218,1,Precision
+Pitch Pickle,オハグロナマコ,Ragworm,5,6,True,True,False,4,218,1,Precision
+Pitch Pickle,オハグロナマコ,Krill,,,False,False,False,4,218,1,Precision
+Pitch Pickle,オハグロナマコ,Plump Worm,,,False,False,False,4,218,1,Precision
+Senbei Octopus,センベイダコ,Squid Strip,5,8,False,True,False,4,83,1,Precision
+Senbei Octopus,センベイダコ,Ragworm,5,7.5,True,True,False,4,83,1,Precision
+Senbei Octopus,センベイダコ,Krill,5,7.5,False,True,False,4,83,1,Precision
+Senbei Octopus,センベイダコ,Plump Worm,5,7.5,False,True,False,4,83,1,Precision
+Tentacle Thresher,タコクイ,Squid Strip,5,6,False,True,False,4,76,2,Powerful
+Tentacle Thresher,タコクイ,Ragworm,2,3,False,True,False,4,76,2,Powerful
+Tentacle Thresher,タコクイ,Krill,2,3,False,True,False,4,76,2,Powerful
+Tentacle Thresher,タコクイ,Plump Worm,2,3,True,True,False,4,76,2,Powerful
+Bekko Rockhugger,ベッコウダンゴウオ,Squid Strip,,,False,False,False,4,187,2,Powerful
+Bekko Rockhugger,ベッコウダンゴウオ,Ragworm,,,False,False,False,4,187,2,Powerful
+Bekko Rockhugger,ベッコウダンゴウオ,Krill,5,6,True,True,False,4,187,2,Powerful
+Bekko Rockhugger,ベッコウダンゴウオ,Plump Worm,,,False,False,False,4,187,2,Powerful
+Yellow Iris,黄菖蒲,Squid Strip,,,False,False,False,4,218,1,Precision
+Yellow Iris,黄菖蒲,Ragworm,6,8,True,True,False,4,218,1,Precision
+Yellow Iris,黄菖蒲,Krill,,,False,False,False,4,218,1,Precision
+Yellow Iris,黄菖蒲,Plump Worm,,,False,False,False,4,218,1,Precision
+Crimson Sentry,紅の仁王,Squid Strip,,,False,False,False,4,178,3,Powerful
+Crimson Sentry,紅の仁王,Ragworm,,,False,False,False,4,178,3,Powerful
+Crimson Sentry,紅の仁王,Krill,,,False,False,False,4,178,3,Powerful
+Crimson Sentry,紅の仁王,Plump Worm,6,8,True,True,False,4,178,3,Powerful
+Flying Squid,オオスルメイカ,Squid Strip,7,10,False,True,False,4,126,2,Powerful
+Flying Squid,オオスルメイカ,Ragworm,9,12,False,True,False,4,126,2,Powerful
+Flying Squid,オオスルメイカ,Krill,9,12,False,True,False,4,126,2,Powerful
+Flying Squid,オオスルメイカ,Plump Worm,5,8,True,True,False,4,126,2,Powerful
+Hells' Claw,獄之蟹,Squid Strip,9,11,True,True,True,5,500,3,Powerful
+Hells' Claw,獄之蟹,Ragworm,,,False,False,True,5,500,3,Powerful
+Hells' Claw,獄之蟹,Krill,,,False,False,True,5,500,3,Powerful
+Hells' Claw,獄之蟹,Plump Worm,,,False,False,True,5,500,3,Powerful
+Catching Carp,ヘラブナ,Ragworm,6,10,True,True,False,1,10,1,Precision
+Catching Carp,ヘラブナ,Krill,6,9,False,True,False,1,10,1,Precision
+Catching Carp,ヘラブナ,Plump Worm,6,10,False,True,False,1,10,1,Precision
+Catching Carp,ヘラブナ,Versatile Lure,,,False,True,False,1,10,1,Precision
+Garlean Bluegill,ガレアンギル,Ragworm,7,12,False,True,False,1,14,1,Precision
+Garlean Bluegill,ガレアンギル,Krill,7,12,True,True,False,1,14,1,Precision
+Garlean Bluegill,ガレアンギル,Plump Worm,7,12,False,True,False,1,14,1,Precision
+Garlean Bluegill,ガレアンギル,Versatile Lure,,,False,True,False,1,14,1,Precision
+Yanxian Softshell,ヤンサスッポン,Ragworm,9,15,False,True,False,1,10,2,Powerful
+Yanxian Softshell,ヤンサスッポン,Krill,8,15,True,True,False,1,10,2,Powerful
+Yanxian Softshell,ヤンサスッポン,Plump Worm,9,15,False,True,False,1,10,2,Powerful
+Yanxian Softshell,ヤンサスッポン,Versatile Lure,,,False,True,False,1,10,2,Powerful
+Princess Salmon,ヒメマス,Ragworm,5,9,True,True,False,2,37,1,Precision
+Princess Salmon,ヒメマス,Krill,10,14,False,True,False,2,37,1,Precision
+Princess Salmon,ヒメマス,Plump Worm,10,14,False,True,False,2,37,1,Precision
+Princess Salmon,ヒメマス,Versatile Lure,,,False,True,False,2,37,1,Precision
+Calligraph,墨鱗魚,Ragworm,13,19,False,True,False,2,40,2,Powerful
+Calligraph,墨鱗魚,Krill,13,19,False,True,False,2,40,2,Powerful
+Calligraph,墨鱗魚,Plump Worm,8,14,True,True,False,2,40,2,Powerful
+Calligraph,墨鱗魚,Versatile Lure,,,False,True,False,2,40,2,Powerful
+Singular Shrimp,無二海老,Ragworm,13,24,True,True,False,2,31,1,Precision
+Singular Shrimp,無二海老,Krill,18,29,False,True,False,2,31,1,Precision
+Singular Shrimp,無二海老,Plump Worm,18,29,False,True,False,2,31,1,Precision
+Singular Shrimp,無二海老,Versatile Lure,,,False,True,False,2,31,1,Precision
+Brocade Carp,錦鯉,Ragworm,15,23,False,True,False,3,52,2,Powerful
+Brocade Carp,錦鯉,Krill,14,22,True,True,False,3,52,2,Powerful
+Brocade Carp,錦鯉,Plump Worm,15,23,False,True,False,3,52,2,Powerful
+Brocade Carp,錦鯉,Versatile Lure,,,False,True,False,3,52,2,Powerful
+Yanxian Sturgeon,ヤンサチョウザメ,Ragworm,12,16,False,True,False,3,49,3,Powerful
+Yanxian Sturgeon,ヤンサチョウザメ,Krill,12,16,False,True,False,3,49,3,Powerful
+Yanxian Sturgeon,ヤンサチョウザメ,Plump Worm,11,16,True,True,False,3,49,3,Powerful
+Yanxian Sturgeon,ヤンサチョウザメ,Versatile Lure,,,False,True,False,3,49,3,Powerful
+Spectral Kotsu Zetsu,幻海骨舌,Ragworm,16,27,False,True,False,4,100,3,Powerful
+Spectral Kotsu Zetsu,幻海骨舌,Krill,16,27,True,True,False,4,100,3,Powerful
+Spectral Kotsu Zetsu,幻海骨舌,Plump Worm,16,27,True,True,False,4,100,3,Powerful
+Spectral Kotsu Zetsu,幻海骨舌,Versatile Lure,,,False,True,False,4,100,3,Powerful
+Fishy Shark,茂鮫,Ragworm,,,False,False,True,4,223,3,Powerful
+Fishy Shark,茂鮫,Krill,,,False,False,True,4,223,3,Powerful
+Fishy Shark,茂鮫,Plump Worm,17,27,True,True,True,4,223,3,Powerful
+Fishy Shark,茂鮫,Versatile Lure,,,False,False,True,4,223,3,Powerful
+Gensui Shrimp,玄水海老,Stonefly Nymph,3,4,False,True,False,4,85,1,Precision
+Gensui Shrimp,玄水海老,Ragworm,3,4,True,True,False,4,85,1,Precision
+Gensui Shrimp,玄水海老,Krill,3,4,False,True,False,4,85,1,Precision
+Gensui Shrimp,玄水海老,Plump Worm,3,4,False,True,False,4,85,1,Precision
+Yato-no-kami,ヤトノカミ,Stonefly Nymph,5,6,False,True,False,4,79,2,Powerful
+Yato-no-kami,ヤトノカミ,Ragworm,2,3,False,True,False,4,79,2,Powerful
+Yato-no-kami,ヤトノカミ,Krill,2,3,False,True,False,4,79,2,Powerful
+Yato-no-kami,ヤトノカミ,Plump Worm,2,3,True,True,False,4,79,2,Powerful
+Heron's Eel,アオサギウナギ,Stonefly Nymph,3,4,False,True,False,4,79,2,Powerful
+Heron's Eel,アオサギウナギ,Ragworm,3,4,False,True,False,4,79,2,Powerful
+Heron's Eel,アオサギウナギ,Krill,3,4,False,True,False,4,79,2,Powerful
+Heron's Eel,アオサギウナギ,Plump Worm,3,4,True,True,False,4,79,2,Powerful
+Crowshadow Mussel,烏貝,Stonefly Nymph,8,11,False,True,False,4,85,1,Precision
+Crowshadow Mussel,烏貝,Ragworm,5,7,True,True,False,4,85,1,Precision
+Crowshadow Mussel,烏貝,Krill,5,7,False,True,False,4,85,1,Precision
+Crowshadow Mussel,烏貝,Plump Worm,5,7,False,True,False,4,85,1,Precision
+Yanxian Goby,ムニゴビー,Stonefly Nymph,2,3,False,True,False,4,85,1,Precision
+Yanxian Goby,ムニゴビー,Ragworm,2,3,True,True,False,4,85,1,Precision
+Yanxian Goby,ムニゴビー,Krill,2,3,False,True,False,4,85,1,Precision
+Yanxian Goby,ムニゴビー,Plump Worm,2,3,False,True,False,4,85,1,Precision
+Iridescent Trout,ニジマス,Stonefly Nymph,,,False,False,False,4,184,1,Precision
+Iridescent Trout,ニジマス,Ragworm,,,False,False,False,4,184,1,Precision
+Iridescent Trout,ニジマス,Krill,5,6,True,True,False,4,184,1,Precision
+Iridescent Trout,ニジマス,Plump Worm,,,False,False,False,4,184,1,Precision
+Un-Namazu,モドリナマズオ,Stonefly Nymph,,,False,False,False,4,209,2,Powerful
+Un-Namazu,モドリナマズオ,Ragworm,,,False,False,False,4,209,2,Powerful
+Un-Namazu,モドリナマズオ,Krill,5,6,True,True,False,4,209,2,Powerful
+Un-Namazu,モドリナマズオ,Plump Worm,,,False,False,False,4,209,2,Powerful
+Gakugyo,鰐魚,Stonefly Nymph,,,False,False,False,4,185,3,Powerful
+Gakugyo,鰐魚,Ragworm,,,False,False,False,4,185,3,Powerful
+Gakugyo,鰐魚,Krill,,,False,False,False,4,185,3,Powerful
+Gakugyo,鰐魚,Plump Worm,6,8,True,True,False,4,185,3,Powerful
+Ginrin Goshiki,銀鱗五色,Stonefly Nymph,,,False,False,False,4,209,2,Powerful
+Ginrin Goshiki,銀鱗五色,Ragworm,,,False,False,False,4,209,2,Powerful
+Ginrin Goshiki,銀鱗五色,Krill,5,6,True,True,False,4,209,2,Powerful
+Ginrin Goshiki,銀鱗五色,Plump Worm,,,False,False,False,4,209,2,Powerful
+Jewel of Plum Spring,梅泉宝亀,Stonefly Nymph,5,7,True,True,True,5,500,3,Precision
+Jewel of Plum Spring,梅泉宝亀,Ragworm,,,False,False,True,5,500,3,Precision
+Jewel of Plum Spring,梅泉宝亀,Krill,,,False,False,True,5,500,3,Precision
+Jewel of Plum Spring,梅泉宝亀,Plump Worm,,,False,False,True,5,500,3,Precision

@@ -1,0 +1,279 @@
+{
+ "route": "ruby",
+ "period_voyages": 144,
+ "anchor_vn": 248781,
+ "routes": {
+  "Shellfish/Shrimp": [
+   [
+    "The Sirensong Sea",
+    "Night"
+   ],
+   [
+    "Kugane",
+    "Day"
+   ],
+   [
+    "The One River",
+    "Sunset"
+   ]
+  ],
+  "Shrimp/Hells' Claw": [
+   [
+    "The Sirensong Sea",
+    "Night"
+   ],
+   [
+    "Kugane",
+    "Day"
+   ],
+   [
+    "The Ruby Sea",
+    "Sunset"
+   ]
+  ],
+  "Shellfish/Taniwha": [
+   [
+    "The Sirensong Sea",
+    "Day"
+   ],
+   [
+    "Kugane",
+    "Sunset"
+   ],
+   [
+    "The One River",
+    "Night"
+   ]
+  ],
+  "Squid/Taniwha": [
+   [
+    "The Sirensong Sea",
+    "Day"
+   ],
+   [
+    "Kugane",
+    "Sunset"
+   ],
+   [
+    "The Ruby Sea",
+    "Night"
+   ]
+  ],
+  "Squid/Glass Dragon": [
+   [
+    "The Sirensong Sea",
+    "Sunset"
+   ],
+   [
+    "Kugane",
+    "Night"
+   ],
+   [
+    "The Ruby Sea",
+    "Day"
+   ]
+  ],
+  "Glass Dragon & Jewel": [
+   [
+    "The Sirensong Sea",
+    "Sunset"
+   ],
+   [
+    "Kugane",
+    "Night"
+   ],
+   [
+    "The One River",
+    "Day"
+   ]
+  ],
+  "Mantis/Taniwha": [
+   [
+    "Unnamed Island",
+    "Night"
+   ],
+   [
+    "The Sirensong Sea",
+    "Day"
+   ],
+   [
+    "Thavnair",
+    "Sunset"
+   ]
+  ],
+  "Mantis/Manasvin": [
+   [
+    "Unnamed Island",
+    "Day"
+   ],
+   [
+    "The Sirensong Sea",
+    "Sunset"
+   ],
+   [
+    "Thavnair",
+    "Night"
+   ]
+  ],
+  "Prehistoric/Akupara": [
+   [
+    "Unnamed Island",
+    "Sunset"
+   ],
+   [
+    "The Sirensong Sea",
+    "Night"
+   ],
+   [
+    "Thavnair",
+    "Day"
+   ]
+  ]
+ },
+ "pattern": [
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Shellfish/Shrimp",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Mantis/Taniwha",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin",
+  "Squid/Taniwha",
+  "Prehistoric/Akupara",
+  "Glass Dragon & Jewel",
+  "Prehistoric/Akupara",
+  "Squid/Glass Dragon",
+  "Mantis/Taniwha",
+  "Shellfish/Shrimp",
+  "Shrimp/Hells' Claw",
+  "Mantis/Manasvin",
+  "Shellfish/Taniwha",
+  "Mantis/Manasvin"
+ ]
+}

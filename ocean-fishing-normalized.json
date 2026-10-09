@@ -1,0 +1,2353 @@
+{
+ "baits": [
+  {
+   "id": 0,
+   "en": "Diadochos Sword",
+   "ja": ""
+  },
+  {
+   "id": 2587,
+   "en": "Pill Bug",
+   "ja": "ピルバグ"
+  },
+  {
+   "id": 2591,
+   "en": "Rat Tail",
+   "ja": "ラットの尾"
+  },
+  {
+   "id": 2603,
+   "en": "Glowworm",
+   "ja": "グロウワーム"
+  },
+  {
+   "id": 2613,
+   "en": "Shrimp Cage Feeder",
+   "ja": "シュリンプフィーダー"
+  },
+  {
+   "id": 2619,
+   "en": "Heavy Steel Jig",
+   "ja": "ヘヴィメタルジグ"
+  },
+  {
+   "id": 12704,
+   "en": "Stonefly Nymph",
+   "ja": "ストーンラーヴァ"
+  },
+  {
+   "id": 27590,
+   "en": "Squid Strip",
+   "ja": "イカの切り身"
+  },
+  {
+   "id": 29714,
+   "en": "Ragworm",
+   "ja": "イワイソメ"
+  },
+  {
+   "id": 29715,
+   "en": "Krill",
+   "ja": "クリル"
+  },
+  {
+   "id": 29716,
+   "en": "Plump Worm",
+   "ja": "ファットワーム"
+  },
+  {
+   "id": 29717,
+   "en": "Versatile Lure",
+   "ja": "万能ルアー"
+  },
+  {
+   "id": 36593,
+   "en": "Mackerel Strip",
+   "ja": "サバの切り身"
+  }
+ ],
+ "spots": [
+  {
+   "id": 0,
+   "en": "Undiscovered Fishing Hole",
+   "ja": "未知の釣り場",
+   "fish": []
+  },
+  {
+   "id": 237,
+   "en": "Outer Galadion Bay",
+   "ja": "ガラディオン湾沖合",
+   "fish": [
+    {
+     "id": 28937,
+     "en": "Galadion Goby",
+     "ja": "ガラディオンゴビー",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 28938,
+     "en": "Galadion Chovy",
+     "ja": "ガラディオンアンチョビ",
+     "stars": 1,
+     "points": 11
+    },
+    {
+     "id": 29723,
+     "en": "Leopard Eel",
+     "ja": "レオパードイール",
+     "stars": 1,
+     "points": 14
+    },
+    {
+     "id": 29719,
+     "en": "Jasperhead",
+     "ja": "ジャスパーヘッド",
+     "stars": 2,
+     "points": 40
+    },
+    {
+     "id": 28942,
+     "en": "Tarnished Shark",
+     "ja": "ターニッシュシャーク",
+     "stars": 2,
+     "points": 34
+    },
+    {
+     "id": 28939,
+     "en": "Rosy Bream",
+     "ja": "ローズブリーム",
+     "stars": 2,
+     "points": 34
+    },
+    {
+     "id": 29734,
+     "en": "Cyan Octopus",
+     "ja": "シアンオクトパス",
+     "stars": 3,
+     "points": 59
+    },
+    {
+     "id": 29721,
+     "en": "Heavenswimmer",
+     "ja": "ヘヴンリーフィッシュ",
+     "stars": 3,
+     "points": 50
+    },
+    {
+     "id": 29784,
+     "en": "Spectral Megalodon",
+     "ja": "スペクトラルメガロドン",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 29744,
+     "en": "Drunkfish",
+     "ja": "ドランカードフィッシュ",
+     "stars": 4,
+     "points": 253
+    }
+   ]
+  },
+  {
+   "id": 238,
+   "en": "Galadion Spectral Current",
+   "ja": "ガラディオン湾沖合：幻海流",
+   "fish": [
+    {
+     "id": 29766,
+     "en": "Merman's Mane",
+     "ja": "マーマンヘアー",
+     "stars": 4,
+     "points": 94
+    },
+    {
+     "id": 29749,
+     "en": "Heavenskey",
+     "ja": "キー・オブ・ヘヴン",
+     "stars": 4,
+     "points": 67
+    },
+    {
+     "id": 29750,
+     "en": "Ghost Shark",
+     "ja": "ゴーストシャーク",
+     "stars": 4,
+     "points": 78
+    },
+    {
+     "id": 29754,
+     "en": "Fishmonger",
+     "ja": "フィッシュモンガー",
+     "stars": 4,
+     "points": 78
+    },
+    {
+     "id": 29752,
+     "en": "Navigator's Print",
+     "ja": "リムレーンプリント",
+     "stars": 4,
+     "points": 71
+    },
+    {
+     "id": 29753,
+     "en": "Casket Oyster",
+     "ja": "ネイルドオイスター",
+     "stars": 4,
+     "points": 222
+    },
+    {
+     "id": 29751,
+     "en": "Quicksilver Blade",
+     "ja": "クイックシルバーブレード",
+     "stars": 4,
+     "points": 213
+    },
+    {
+     "id": 29782,
+     "en": "Funnel Shark",
+     "ja": "ファンネルシャーク",
+     "stars": 4,
+     "points": 213
+    },
+    {
+     "id": 29756,
+     "en": "Nimble Dancer",
+     "ja": "ニンブルダンサー",
+     "stars": 4,
+     "points": 444
+    },
+    {
+     "id": 29788,
+     "en": "Sothis",
+     "ja": "ソティス",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "en": "The Southern Strait of Merlthor",
+   "ja": "メルトール海峡南",
+   "fish": [
+    {
+     "id": 29722,
+     "en": "Ghoul Barracuda",
+     "ja": "グールバラクーダ",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 29739,
+     "en": "La Noscean Jelly",
+     "ja": "ラノシアンジェリー",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 28941,
+     "en": "Sunfly",
+     "ja": "サニーバタフライ",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 29724,
+     "en": "Marine Bomb",
+     "ja": "マリンボム",
+     "stars": 2,
+     "points": 27
+    },
+    {
+     "id": 29740,
+     "en": "Shaggy Seadragon",
+     "ja": "シャギーシードラゴン",
+     "stars": 2,
+     "points": 35
+    },
+    {
+     "id": 29725,
+     "en": "Momora Mora",
+     "ja": "モモラ・モラ",
+     "stars": 2,
+     "points": 22
+    },
+    {
+     "id": 29726,
+     "en": "Merlthor Butterfly",
+     "ja": "メルトールバタフライ",
+     "stars": 3,
+     "points": 51
+    },
+    {
+     "id": 29727,
+     "en": "Gladius",
+     "ja": "グラディウス",
+     "stars": 3,
+     "points": 49
+    },
+    {
+     "id": 29785,
+     "en": "Spectral Discus",
+     "ja": "スペクトラルディスカス",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 29745,
+     "en": "Little Leviathan",
+     "ja": "リトルリヴァイアサン",
+     "stars": 4,
+     "points": 204
+    }
+   ]
+  },
+  {
+   "id": 240,
+   "en": "Southern Merlthor Spectral Current",
+   "ja": "メルトール海峡南：幻海流",
+   "fish": [
+    {
+     "id": 29757,
+     "en": "Sea Nettle",
+     "ja": "シーネトル",
+     "stars": 4,
+     "points": 156
+    },
+    {
+     "id": 29758,
+     "en": "Great Grandmarlin",
+     "ja": "グランドマーリン",
+     "stars": 4,
+     "points": 127
+    },
+    {
+     "id": 29759,
+     "en": "Shipwreck's Sail",
+     "ja": "レックドクロス",
+     "stars": 4,
+     "points": 59
+    },
+    {
+     "id": 29779,
+     "en": "Charlatan Survivor",
+     "ja": "シャーラタンサバイバー",
+     "stars": 4,
+     "points": 69
+    },
+    {
+     "id": 29761,
+     "en": "Hi-aetherlouse",
+     "ja": "ハイエーテルラウス",
+     "stars": 4,
+     "points": 65
+    },
+    {
+     "id": 29760,
+     "en": "Azeyma's Sleeve",
+     "ja": "アーゼマの垂衣",
+     "stars": 4,
+     "points": 69
+    },
+    {
+     "id": 29763,
+     "en": "Aetheric Seadragon",
+     "ja": "エーテリックシードラゴン",
+     "stars": 4,
+     "points": 245
+    },
+    {
+     "id": 29755,
+     "en": "Mythril Sovereign",
+     "ja": "ミスリルソブリン",
+     "stars": 4,
+     "points": 196
+    },
+    {
+     "id": 29765,
+     "en": "Roguesaurus",
+     "ja": "ロガサウルス",
+     "stars": 4,
+     "points": 345
+    },
+    {
+     "id": 29789,
+     "en": "Coral Manta",
+     "ja": "コーラルマンタ",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "en": "Open Rhotano Sea",
+   "ja": "ロータノ海沖合",
+   "fish": [
+    {
+     "id": 29728,
+     "en": "Rhotano Wahoo",
+     "ja": "ロータノワフー",
+     "stars": 1,
+     "points": 13
+    },
+    {
+     "id": 29729,
+     "en": "Rhotano Sardine",
+     "ja": "ロータノサーディン",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 29730,
+     "en": "Deep Plaice",
+     "ja": "ディープシー・プレイス",
+     "stars": 1,
+     "points": 15
+    },
+    {
+     "id": 29731,
+     "en": "Crimson Monkfish",
+     "ja": "クリムゾンモンクフィッシュ",
+     "stars": 2,
+     "points": 32
+    },
+    {
+     "id": 29735,
+     "en": "Chrome Hammerhead",
+     "ja": "クロムハンマーヘッド",
+     "stars": 2,
+     "points": 32
+    },
+    {
+     "id": 29733,
+     "en": "Ogre Eel",
+     "ja": "オーガイール",
+     "stars": 2,
+     "points": 38
+    },
+    {
+     "id": 29742,
+     "en": "Dark Nautilus",
+     "ja": "ダークノーチラス",
+     "stars": 3,
+     "points": 46
+    },
+    {
+     "id": 29732,
+     "en": "Lampfish",
+     "ja": "ランプフィッシュ",
+     "stars": 3,
+     "points": 47
+    },
+    {
+     "id": 29787,
+     "en": "Spectral Bass",
+     "ja": "スペクトラルバス",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 29746,
+     "en": "Sabaton",
+     "ja": "シーサバトン",
+     "stars": 4,
+     "points": 204
+    }
+   ]
+  },
+  {
+   "id": 242,
+   "en": "Rhotano Spectral Current",
+   "ja": "ロータノ海沖合：幻海流",
+   "fish": [
+    {
+     "id": 29775,
+     "en": "Aronnax",
+     "ja": "アロナクス",
+     "stars": 4,
+     "points": 95
+    },
+    {
+     "id": 29767,
+     "en": "Sweeper",
+     "ja": "フラッフィー",
+     "stars": 4,
+     "points": 216
+    },
+    {
+     "id": 29768,
+     "en": "Silencer",
+     "ja": "サイレンサー",
+     "stars": 4,
+     "points": 89
+    },
+    {
+     "id": 29769,
+     "en": "Deep-sea Eel",
+     "ja": "ディープシーイール",
+     "stars": 4,
+     "points": 81
+    },
+    {
+     "id": 29770,
+     "en": "Executioner",
+     "ja": "エクスキューショナー",
+     "stars": 4,
+     "points": 216
+    },
+    {
+     "id": 29762,
+     "en": "Floating Saucer",
+     "ja": "フローティングソーサー",
+     "stars": 4,
+     "points": 222
+    },
+    {
+     "id": 29772,
+     "en": "True Barramundi",
+     "ja": "バラマンディ",
+     "stars": 4,
+     "points": 95
+    },
+    {
+     "id": 29780,
+     "en": "Prodigal Son",
+     "ja": "プロディガルサン",
+     "stars": 4,
+     "points": 95
+    },
+    {
+     "id": 29774,
+     "en": "Slipsnail",
+     "ja": "スネイルフィッシュ",
+     "stars": 4,
+     "points": 246
+    },
+    {
+     "id": 29790,
+     "en": "Stonescale",
+     "ja": "ロックスケイル",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "en": "The Northern Strait of Merlthor",
+   "ja": "メルトール海峡北",
+   "fish": [
+    {
+     "id": 29736,
+     "en": "Floefish",
+     "ja": "ドリフトアイスフィッシュ",
+     "stars": 1,
+     "points": 13
+    },
+    {
+     "id": 29737,
+     "en": "Megasquid",
+     "ja": "メガスキッド",
+     "stars": 1,
+     "points": 11
+    },
+    {
+     "id": 29738,
+     "en": "Oschon's Stone",
+     "ja": "オシュオンズストーン",
+     "stars": 1,
+     "points": 11
+    },
+    {
+     "id": 29718,
+     "en": "Tossed Dagger",
+     "ja": "スロウンダガー",
+     "stars": 2,
+     "points": 27
+    },
+    {
+     "id": 28940,
+     "en": "Tripod Fish",
+     "ja": "トライポッド",
+     "stars": 2,
+     "points": 43
+    },
+    {
+     "id": 29741,
+     "en": "Net Crawler",
+     "ja": "スパイダークラブ",
+     "stars": 2,
+     "points": 36
+    },
+    {
+     "id": 29720,
+     "en": "Merlthor Lobster",
+     "ja": "メルトールロブスター",
+     "stars": 3,
+     "points": 45
+    },
+    {
+     "id": 29743,
+     "en": "Elder Dinichthys",
+     "ja": "エルダー・ディニクティス",
+     "stars": 3,
+     "points": 52
+    },
+    {
+     "id": 29786,
+     "en": "Spectral Sea Bo",
+     "ja": "スペクトラルシーホース",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 29747,
+     "en": "Shooting Star",
+     "ja": "海の流星",
+     "stars": 4,
+     "points": 226
+    }
+   ]
+  },
+  {
+   "id": 244,
+   "en": "Northern Merlthor Spectral Current",
+   "ja": "メルトール海峡北：幻海流",
+   "fish": [
+    {
+     "id": 29748,
+     "en": "Hammerclaw",
+     "ja": "ハンマーロブスター",
+     "stars": 4,
+     "points": 69
+    },
+    {
+     "id": 29776,
+     "en": "Coccosteus",
+     "ja": "コッコステウス",
+     "stars": 4,
+     "points": 79
+    },
+    {
+     "id": 29777,
+     "en": "Bartholomew the Chopper",
+     "ja": "ザ・チョッパー",
+     "stars": 4,
+     "points": 221
+    },
+    {
+     "id": 29778,
+     "en": "Prowler",
+     "ja": "タイガーキャットコッド",
+     "stars": 4,
+     "points": 79
+    },
+    {
+     "id": 29773,
+     "en": "Mopbeard",
+     "ja": "モッピィビアード",
+     "stars": 4,
+     "points": 198
+    },
+    {
+     "id": 29771,
+     "en": "Wild Urchin",
+     "ja": "ワイルドアーチン",
+     "stars": 4,
+     "points": 79
+    },
+    {
+     "id": 29781,
+     "en": "Gugrusaurus",
+     "ja": "ググリューサウルス",
+     "stars": 4,
+     "points": 79
+    },
+    {
+     "id": 29764,
+     "en": "Coral Seadragon",
+     "ja": "コーラルシードラゴン",
+     "stars": 4,
+     "points": 189
+    },
+    {
+     "id": 29783,
+     "en": "The Fallen One",
+     "ja": "フォーレンワン",
+     "stars": 4,
+     "points": 374
+    },
+    {
+     "id": 29791,
+     "en": "Elasmosaurus",
+     "ja": "エラスモサウルス",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 246,
+   "en": "Cieldalaes Margin",
+   "ja": "シェルダレー諸島沖合",
+   "fish": [
+    {
+     "id": 32055,
+     "en": "Tortoiseshell Crab",
+     "ja": "トータスシェルクラブ",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 32056,
+     "en": "Lady's Cameo",
+     "ja": "エドヴィアの指輪",
+     "stars": 1,
+     "points": 15
+    },
+    {
+     "id": 32057,
+     "en": "Metallic Boxfish",
+     "ja": "メタルボックス",
+     "stars": 1,
+     "points": 9
+    },
+    {
+     "id": 32058,
+     "en": "Goobbue Ray",
+     "ja": "グゥーブーレイ",
+     "stars": 2,
+     "points": 33
+    },
+    {
+     "id": 32059,
+     "en": "Watermoura",
+     "ja": "シーワモーラ",
+     "stars": 2,
+     "points": 41
+    },
+    {
+     "id": 32060,
+     "en": "King Cobrafish",
+     "ja": "キングコブラフィッシュ",
+     "stars": 2,
+     "points": 39
+    },
+    {
+     "id": 32061,
+     "en": "Mamahi-mahi",
+     "ja": "ママヒマヒ",
+     "stars": 3,
+     "points": 58
+    },
+    {
+     "id": 32062,
+     "en": "Lavandin Remora",
+     "ja": "ラバンジンレモラ",
+     "stars": 3,
+     "points": 52
+    },
+    {
+     "id": 32063,
+     "en": "Spectral Butterfly",
+     "ja": "スペクトラルバタフライ",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 32064,
+     "en": "Cieldalaes Geode",
+     "ja": "シェルダレージオード",
+     "stars": 4,
+     "points": 246
+    }
+   ]
+  },
+  {
+   "id": 247,
+   "en": "Cieldalaes Spectral Current",
+   "ja": "シェルダレー諸島沖合：幻海流",
+   "fish": [
+    {
+     "id": 32065,
+     "en": "Titanshell Crab",
+     "ja": "タイタンシェルクラブ",
+     "stars": 4,
+     "points": 84
+    },
+    {
+     "id": 32066,
+     "en": "Mythril Boxfish",
+     "ja": "ミスリルボックス",
+     "stars": 4,
+     "points": 64
+    },
+    {
+     "id": 32067,
+     "en": "Mistbeard's Cup",
+     "ja": "霧髭の盃",
+     "stars": 4,
+     "points": 84
+    },
+    {
+     "id": 32068,
+     "en": "Anomalocaris Saron",
+     "ja": "アノマロカリス・サロン",
+     "stars": 4,
+     "points": 84
+    },
+    {
+     "id": 32069,
+     "en": "Flaming Eel",
+     "ja": "フレイミングイール",
+     "stars": 4,
+     "points": 198
+    },
+    {
+     "id": 32070,
+     "en": "Jetborne Manta",
+     "ja": "ジェットフライマンタ",
+     "stars": 4,
+     "points": 75
+    },
+    {
+     "id": 32071,
+     "en": "Devil's Sting",
+     "ja": "デビルスティンガー",
+     "stars": 4,
+     "points": 201
+    },
+    {
+     "id": 32072,
+     "en": "Callichthyid",
+     "ja": "カリクティス",
+     "stars": 4,
+     "points": 178
+    },
+    {
+     "id": 32073,
+     "en": "Meandering Mora",
+     "ja": "フローティング・モラ",
+     "stars": 4,
+     "points": 283
+    },
+    {
+     "id": 32074,
+     "en": "Hafgufa",
+     "ja": "ハーヴグーヴァ",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 248,
+   "en": "Open Bloodbrine Sea",
+   "ja": "緋汐海沖合",
+   "fish": [
+    {
+     "id": 32075,
+     "en": "Thaliak Crab",
+     "ja": "サリャクリバークラブ",
+     "stars": 1,
+     "points": 9
+    },
+    {
+     "id": 32076,
+     "en": "Star of the Destroyer",
+     "ja": "ラールガーの星屑",
+     "stars": 1,
+     "points": 14
+    },
+    {
+     "id": 32077,
+     "en": "True Scad",
+     "ja": "トゥルースキャッド",
+     "stars": 1,
+     "points": 8
+    },
+    {
+     "id": 32078,
+     "en": "Blooded Wrasse",
+     "ja": "ブラッディハンプヘッド",
+     "stars": 2,
+     "points": 35
+    },
+    {
+     "id": 32079,
+     "en": "Bloodpolish Crab",
+     "ja": "ブラッディポリッシュ",
+     "stars": 2,
+     "points": 28
+    },
+    {
+     "id": 32080,
+     "en": "Blue Stitcher",
+     "ja": "ブルーニードル",
+     "stars": 2,
+     "points": 30
+    },
+    {
+     "id": 32081,
+     "en": "Bloodfresh Tuna",
+     "ja": "ブラッディトゥーナ",
+     "stars": 3,
+     "points": 43
+    },
+    {
+     "id": 32082,
+     "en": "Sunken Mask",
+     "ja": "サンクンマスク",
+     "stars": 3,
+     "points": 49
+    },
+    {
+     "id": 32083,
+     "en": "Spectral Eel",
+     "ja": "スペクトラルイール",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 32084,
+     "en": "Bareface",
+     "ja": "ベアフェイス",
+     "stars": 4,
+     "points": 326
+    }
+   ]
+  },
+  {
+   "id": 249,
+   "en": "Bloodbrine Spectral Current",
+   "ja": "緋汐海沖合：幻海流",
+   "fish": [
+    {
+     "id": 32085,
+     "en": "Oracular Crab",
+     "ja": "オラクルクラブ",
+     "stars": 4,
+     "points": 102
+    },
+    {
+     "id": 32086,
+     "en": "Dravanian Bream",
+     "ja": "ドラヴァニアンブリーム",
+     "stars": 4,
+     "points": 77
+    },
+    {
+     "id": 32087,
+     "en": "Skaldminni",
+     "ja": "スコルドミンニー",
+     "stars": 4,
+     "points": 102
+    },
+    {
+     "id": 32088,
+     "en": "Serrated Clam",
+     "ja": "セレーテッドクラム",
+     "stars": 4,
+     "points": 74
+    },
+    {
+     "id": 32089,
+     "en": "Beatific Vision",
+     "ja": "ビティフィックビジョン",
+     "stars": 4,
+     "points": 77
+    },
+    {
+     "id": 32090,
+     "en": "Exterminator",
+     "ja": "エクスターミネーター",
+     "stars": 4,
+     "points": 255
+    },
+    {
+     "id": 32091,
+     "en": "Gory Tuna",
+     "ja": "ゴーリィトゥーナ",
+     "stars": 4,
+     "points": 92
+    },
+    {
+     "id": 32092,
+     "en": "Ticinepomis",
+     "ja": "ティキネポミス",
+     "stars": 4,
+     "points": 92
+    },
+    {
+     "id": 32093,
+     "en": "Quartz Hammerhead",
+     "ja": "クォーツハンマーヘッド",
+     "stars": 4,
+     "points": 460
+    },
+    {
+     "id": 32094,
+     "en": "Seafaring Toad",
+     "ja": "オーシャントード",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 250,
+   "en": "Outer Rothlyt Sound",
+   "ja": "ロズリト湾沖合",
+   "fish": [
+    {
+     "id": 32095,
+     "en": "Crow Puffer",
+     "ja": "パフィークロウ",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 32096,
+     "en": "Rothlyt Kelp",
+     "ja": "ロズリトケルプ",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 32097,
+     "en": "Living Lantern",
+     "ja": "ホオズキクラゲ",
+     "stars": 1,
+     "points": 13
+    },
+    {
+     "id": 32098,
+     "en": "Honeycomb Fish",
+     "ja": "ハニカムフィッシュ",
+     "stars": 2,
+     "points": 29
+    },
+    {
+     "id": 32099,
+     "en": "Godsbed",
+     "ja": "海神の寝台",
+     "stars": 2,
+     "points": 29
+    },
+    {
+     "id": 32100,
+     "en": "Lansquenet",
+     "ja": "ランスケネット",
+     "stars": 2,
+     "points": 36
+    },
+    {
+     "id": 32101,
+     "en": "Thavnairian Shark",
+     "ja": "サベネアンシャーク",
+     "stars": 3,
+     "points": 44
+    },
+    {
+     "id": 32102,
+     "en": "Nephrite Eel",
+     "ja": "ネフライトイール",
+     "stars": 3,
+     "points": 44
+    },
+    {
+     "id": 32103,
+     "en": "Spectresaur",
+     "ja": "スペクトラルザウルス",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 32104,
+     "en": "Ginkgo Fin",
+     "ja": "ギンコフィッシュ",
+     "stars": 4,
+     "points": 238
+    }
+   ]
+  },
+  {
+   "id": 251,
+   "en": "Rothlyt Spectral Current",
+   "ja": "ロズリト湾沖合：幻海流",
+   "fish": [
+    {
+     "id": 32105,
+     "en": "Garum Jug",
+     "ja": "ガルームポット",
+     "stars": 4,
+     "points": 107
+    },
+    {
+     "id": 32106,
+     "en": "Smooth Jaguar",
+     "ja": "シーパンサー",
+     "stars": 4,
+     "points": 70
+    },
+    {
+     "id": 32107,
+     "en": "Rothlyt Mussel",
+     "ja": "ロズリトムール",
+     "stars": 4,
+     "points": 72
+    },
+    {
+     "id": 32108,
+     "en": "Levi Elver",
+     "ja": "ジュヴナイル・リヴィ",
+     "stars": 4,
+     "points": 75
+    },
+    {
+     "id": 32109,
+     "en": "Pearl Bombfish",
+     "ja": "パールボム",
+     "stars": 4,
+     "points": 237
+    },
+    {
+     "id": 32110,
+     "en": "Trollfish",
+     "ja": "バシバシ",
+     "stars": 4,
+     "points": 202
+    },
+    {
+     "id": 32111,
+     "en": "Panoptes",
+     "ja": "パノプテス",
+     "stars": 4,
+     "points": 125
+    },
+    {
+     "id": 32112,
+     "en": "Crepe Sole",
+     "ja": "ゴールデンソール",
+     "stars": 4,
+     "points": 72
+    },
+    {
+     "id": 32113,
+     "en": "Knifejaw",
+     "ja": "ナイフジョー",
+     "stars": 4,
+     "points": 465
+    },
+    {
+     "id": 32114,
+     "en": "Placodus",
+     "ja": "プラコドゥス",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 286,
+   "en": "Open Sirensong Sea",
+   "ja": "セイレーン海沖合",
+   "fish": [
+    {
+     "id": 40524,
+     "en": "Deepshade Sardine",
+     "ja": "ディープサーディン",
+     "stars": 1,
+     "points": 15
+    },
+    {
+     "id": 40522,
+     "en": "Sirensong Mussel",
+     "ja": "セイレーンムセル",
+     "stars": 1,
+     "points": 11
+    },
+    {
+     "id": 40523,
+     "en": "Arrowhead",
+     "ja": "アロウヘッド",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 40521,
+     "en": "Pink Shrimp",
+     "ja": "ピンクシュリンプ",
+     "stars": 2,
+     "points": 31
+    },
+    {
+     "id": 40525,
+     "en": "Sirensong Mullet",
+     "ja": "シンギングマレ",
+     "stars": 2,
+     "points": 42
+    },
+    {
+     "id": 40526,
+     "en": "Selkie Puffer",
+     "ja": "セルキーパファー",
+     "stars": 2,
+     "points": 38
+    },
+    {
+     "id": 40527,
+     "en": "Poet's Pipe",
+     "ja": "詩人のオカリナ",
+     "stars": 3,
+     "points": 56
+    },
+    {
+     "id": 40528,
+     "en": "Marine Matanga",
+     "ja": "マタンガスイマー",
+     "stars": 3,
+     "points": 47
+    },
+    {
+     "id": 40529,
+     "en": "Spectral Coelacanth",
+     "ja": "スペクトラルシーラカンス",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 40530,
+     "en": "Dusk Shark",
+     "ja": "ダスキーシャーク",
+     "stars": 4,
+     "points": 263
+    }
+   ]
+  },
+  {
+   "id": 287,
+   "en": "Sirensong Spectral Current",
+   "ja": "セイレーン海沖合：幻海流",
+   "fish": [
+    {
+     "id": 40531,
+     "en": "Mermaid Scale",
+     "ja": "人魚の鱗",
+     "stars": 4,
+     "points": 51
+    },
+    {
+     "id": 40532,
+     "en": "Broadhead",
+     "ja": "ブロードヘッド",
+     "stars": 4,
+     "points": 68
+    },
+    {
+     "id": 40533,
+     "en": "Vivid Pink Shrimp",
+     "ja": "ビビッドピンクシュリンプ",
+     "stars": 4,
+     "points": 144
+    },
+    {
+     "id": 40534,
+     "en": "Sunken Coelacanth",
+     "ja": "ディープシーラカンス",
+     "stars": 4,
+     "points": 51
+    },
+    {
+     "id": 40535,
+     "en": "Siren's Sigh",
+     "ja": "セイレーンの吐息",
+     "stars": 4,
+     "points": 101
+    },
+    {
+     "id": 40536,
+     "en": "Black-jawed Helicoprion",
+     "ja": "ブラックヘリコプリオン",
+     "stars": 4,
+     "points": 102
+    },
+    {
+     "id": 40537,
+     "en": "Impostopus",
+     "ja": "オクトパスインポスター",
+     "stars": 4,
+     "points": 144
+    },
+    {
+     "id": 40538,
+     "en": "Jade Shrimp",
+     "ja": "ジェイドマンティス",
+     "stars": 4,
+     "points": 72
+    },
+    {
+     "id": 40539,
+     "en": "Nymeia's Wheel",
+     "ja": "ニメーヤの紡車",
+     "stars": 4,
+     "points": 289
+    },
+    {
+     "id": 40540,
+     "en": "Taniwha",
+     "ja": "タニファ",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 288,
+   "en": "Kugane Coast",
+   "ja": "クガネ沖合",
+   "fish": [
+    {
+     "id": 40541,
+     "en": "Ruby Herring",
+     "ja": "クガネニシン",
+     "stars": 1,
+     "points": 14
+    },
+    {
+     "id": 40542,
+     "en": "Whirlpool Turban",
+     "ja": "ウズマキサザエ",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 40543,
+     "en": "Leopard Prawn",
+     "ja": "斑海老",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 40544,
+     "en": "Spear Squid",
+     "ja": "ヤリイカ",
+     "stars": 2,
+     "points": 26
+    },
+    {
+     "id": 40545,
+     "en": "Floating Lantern",
+     "ja": "火袋海月",
+     "stars": 2,
+     "points": 37
+    },
+    {
+     "id": 40546,
+     "en": "Rubescent Tatsunoko",
+     "ja": "マダラタツ",
+     "stars": 2,
+     "points": 33
+    },
+    {
+     "id": 40547,
+     "en": "Hatatate",
+     "ja": "ハタタテハゼ",
+     "stars": 3,
+     "points": 53
+    },
+    {
+     "id": 40548,
+     "en": "Silent Shark",
+     "ja": "ネズミザメ",
+     "stars": 3,
+     "points": 35
+    },
+    {
+     "id": 40549,
+     "en": "Spectral Wrasse",
+     "ja": "幻海求仙",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 40550,
+     "en": "Mizuhiki",
+     "ja": "水引魚",
+     "stars": 4,
+     "points": 263
+    }
+   ]
+  },
+  {
+   "id": 289,
+   "en": "Kugane Spectral Current",
+   "ja": "クガネ沖合：幻海流",
+   "fish": [
+    {
+     "id": 40551,
+     "en": "Snapping Koban",
+     "ja": "コバンウツボ",
+     "stars": 4,
+     "points": 62
+    },
+    {
+     "id": 40552,
+     "en": "Silkweft Prawn",
+     "ja": "宝彩海老",
+     "stars": 4,
+     "points": 58
+    },
+    {
+     "id": 40553,
+     "en": "Stingfin Trevally",
+     "ja": "ドクヒラアジ",
+     "stars": 4,
+     "points": 191
+    },
+    {
+     "id": 40554,
+     "en": "Swordtip Squid",
+     "ja": "ケンサキイカ",
+     "stars": 4,
+     "points": 115
+    },
+    {
+     "id": 40555,
+     "en": "Mailfish",
+     "ja": "ヨロイウオ",
+     "stars": 4,
+     "points": 198
+    },
+    {
+     "id": 40556,
+     "en": "Idaten's Bolt",
+     "ja": "イダテントビウオ",
+     "stars": 4,
+     "points": 62
+    },
+    {
+     "id": 40557,
+     "en": "Maelstrom Turban",
+     "ja": "タツマキサザエ",
+     "stars": 4,
+     "points": 83
+    },
+    {
+     "id": 40558,
+     "en": "Shoshitsuki",
+     "ja": "ショウシツキ",
+     "stars": 4,
+     "points": 92
+    },
+    {
+     "id": 40559,
+     "en": "Spadefish",
+     "ja": "サカタザメ",
+     "stars": 4,
+     "points": 191
+    },
+    {
+     "id": 40560,
+     "en": "Glass Dragon",
+     "ja": "瑠璃龍",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 290,
+   "en": "Open Ruby Sea",
+   "ja": "紅玉海沖合",
+   "fish": [
+    {
+     "id": 40561,
+     "en": "Crimson Kelp",
+     "ja": "ベニコンブ",
+     "stars": 1,
+     "points": 11
+    },
+    {
+     "id": 40562,
+     "en": "Reef Squid",
+     "ja": "アオリイカ",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 40563,
+     "en": "Pinebark Flounder",
+     "ja": "マツカワガレイ",
+     "stars": 1,
+     "points": 15
+    },
+    {
+     "id": 40564,
+     "en": "Mantle Moray",
+     "ja": "ハゴロモウツボ",
+     "stars": 2,
+     "points": 41
+    },
+    {
+     "id": 40567,
+     "en": "Barded Lobster",
+     "ja": "馬海老",
+     "stars": 2,
+     "points": 33
+    },
+    {
+     "id": 40565,
+     "en": "Shisui Goby",
+     "ja": "シスイハゼ",
+     "stars": 2,
+     "points": 57
+    },
+    {
+     "id": 40566,
+     "en": "Sanbaso",
+     "ja": "サンバソウ",
+     "stars": 3,
+     "points": 38
+    },
+    {
+     "id": 40568,
+     "en": "Violet Sentry",
+     "ja": "蒼の仁王",
+     "stars": 3,
+     "points": 55
+    },
+    {
+     "id": 40569,
+     "en": "Spectral Snake Eel",
+     "ja": "幻海大蛇",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 40570,
+     "en": "Heavensent Shark",
+     "ja": "アメノトラ",
+     "stars": 4,
+     "points": 227
+    }
+   ]
+  },
+  {
+   "id": 291,
+   "en": "Ruby Spectral Current",
+   "ja": "紅玉海沖合：幻海流",
+   "fish": [
+    {
+     "id": 40571,
+     "en": "Fleeting Squid",
+     "ja": "バショウイカ",
+     "stars": 4,
+     "points": 81
+    },
+    {
+     "id": 40572,
+     "en": "Bowbarb Lobster",
+     "ja": "弓馬海老",
+     "stars": 4,
+     "points": 83
+    },
+    {
+     "id": 40573,
+     "en": "Pitch Pickle",
+     "ja": "オハグロナマコ",
+     "stars": 4,
+     "points": 218
+    },
+    {
+     "id": 40574,
+     "en": "Senbei Octopus",
+     "ja": "センベイダコ",
+     "stars": 4,
+     "points": 83
+    },
+    {
+     "id": 40575,
+     "en": "Tentacle Thresher",
+     "ja": "タコクイ",
+     "stars": 4,
+     "points": 76
+    },
+    {
+     "id": 40576,
+     "en": "Bekko Rockhugger",
+     "ja": "ベッコウダンゴウオ",
+     "stars": 4,
+     "points": 187
+    },
+    {
+     "id": 40577,
+     "en": "Yellow Iris",
+     "ja": "黄菖蒲",
+     "stars": 4,
+     "points": 218
+    },
+    {
+     "id": 40578,
+     "en": "Crimson Sentry",
+     "ja": "紅の仁王",
+     "stars": 4,
+     "points": 178
+    },
+    {
+     "id": 40579,
+     "en": "Flying Squid",
+     "ja": "オオスルメイカ",
+     "stars": 4,
+     "points": 126
+    },
+    {
+     "id": 40580,
+     "en": "Hells' Claw",
+     "ja": "獄之蟹",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  },
+  {
+   "id": 292,
+   "en": "Lower One River",
+   "ja": "無二江下流",
+   "fish": [
+    {
+     "id": 40581,
+     "en": "Catching Carp",
+     "ja": "ヘラブナ",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 40582,
+     "en": "Garlean Bluegill",
+     "ja": "ガレアンギル",
+     "stars": 1,
+     "points": 14
+    },
+    {
+     "id": 40583,
+     "en": "Yanxian Softshell",
+     "ja": "ヤンサスッポン",
+     "stars": 1,
+     "points": 10
+    },
+    {
+     "id": 40584,
+     "en": "Princess Salmon",
+     "ja": "ヒメマス",
+     "stars": 2,
+     "points": 37
+    },
+    {
+     "id": 40585,
+     "en": "Calligraph",
+     "ja": "墨鱗魚",
+     "stars": 2,
+     "points": 40
+    },
+    {
+     "id": 40586,
+     "en": "Singular Shrimp",
+     "ja": "無二海老",
+     "stars": 2,
+     "points": 31
+    },
+    {
+     "id": 40587,
+     "en": "Brocade Carp",
+     "ja": "錦鯉",
+     "stars": 3,
+     "points": 52
+    },
+    {
+     "id": 40588,
+     "en": "Yanxian Sturgeon",
+     "ja": "ヤンサチョウザメ",
+     "stars": 3,
+     "points": 49
+    },
+    {
+     "id": 40589,
+     "en": "Spectral Kotsu Zetsu",
+     "ja": "幻海骨舌",
+     "stars": 4,
+     "points": 100
+    },
+    {
+     "id": 40590,
+     "en": "Fishy Shark",
+     "ja": "茂鮫",
+     "stars": 4,
+     "points": 223
+    }
+   ]
+  },
+  {
+   "id": 293,
+   "en": "One River Spectral Current",
+   "ja": "無二江下流：幻海流",
+   "fish": [
+    {
+     "id": 40591,
+     "en": "Gensui Shrimp",
+     "ja": "玄水海老",
+     "stars": 4,
+     "points": 85
+    },
+    {
+     "id": 40592,
+     "en": "Yato-no-kami",
+     "ja": "ヤトノカミ",
+     "stars": 4,
+     "points": 79
+    },
+    {
+     "id": 40593,
+     "en": "Heron's Eel",
+     "ja": "アオサギウナギ",
+     "stars": 4,
+     "points": 79
+    },
+    {
+     "id": 40594,
+     "en": "Crowshadow Mussel",
+     "ja": "烏貝",
+     "stars": 4,
+     "points": 85
+    },
+    {
+     "id": 40595,
+     "en": "Yanxian Goby",
+     "ja": "ムニゴビー",
+     "stars": 4,
+     "points": 85
+    },
+    {
+     "id": 40596,
+     "en": "Iridescent Trout",
+     "ja": "ニジマス",
+     "stars": 4,
+     "points": 184
+    },
+    {
+     "id": 40597,
+     "en": "Un-Namazu",
+     "ja": "モドリナマズオ",
+     "stars": 4,
+     "points": 209
+    },
+    {
+     "id": 40598,
+     "en": "Gakugyo",
+     "ja": "鰐魚",
+     "stars": 4,
+     "points": 185
+    },
+    {
+     "id": 40599,
+     "en": "Ginrin Goshiki",
+     "ja": "銀鱗五色",
+     "stars": 4,
+     "points": 209
+    },
+    {
+     "id": 40600,
+     "en": "Jewel of Plum Spring",
+     "ja": "梅泉宝亀",
+     "stars": 5,
+     "points": 500
+    }
+   ]
+  }
+ ],
+ "contentBonuses": [
+  {
+   "bonus": 110,
+   "en": "Small Fish in a Big Pond",
+   "ja": "千越し祝い",
+   "req_en": "Requirement: Score 2,500 points or higher.",
+   "req_ja": "達成条件：釣果ポイントを2500以上獲得する。"
+  },
+  {
+   "bonus": 120,
+   "en": "Big Fish in a Small Pond",
+   "ja": "万越し祝い",
+   "req_en": "Requirement: Score 5,000 points or higher.",
+   "req_ja": "達成条件：釣果ポイントを5000以上獲得する。"
+  },
+  {
+   "bonus": 110,
+   "en": "A Rare Catch",
+   "ja": "珍魚",
+   "req_en": "Requirement: Catch a ★★★★ fish.",
+   "req_ja": "達成条件：★★★★の魚を釣り上げる。"
+  },
+  {
+   "bonus": 120,
+   "en": "Catch of a Lifetime",
+   "ja": "伝説魚",
+   "req_en": "Requirement: Catch a ★★★★★ fish.",
+   "req_ja": "達成条件：★★★★★の魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Give a Man a Fish",
+   "ja": "入食",
+   "req_en": "Requirement: Catch 15 or more fish when a spectral current is present.",
+   "req_ja": "達成条件：幻海流中に15匹以上魚を釣り上げる。"
+  },
+  {
+   "bonus": 120,
+   "en": "Teach a Man to Fish",
+   "ja": "爆釣王",
+   "req_en": "Requirement: Catch 35 or more fish when a spectral current is present.",
+   "req_ja": "達成条件：幻海流中に35匹以上魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Galadion Bay",
+   "ja": "豊漁：ガラディオン湾",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in Galadion Bay.",
+   "req_ja": "達成条件：ガラディオン湾にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Southern Strait of Merlthor",
+   "ja": "豊漁：メルトール海峡南",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in the southern Strait of Merlthor.",
+   "req_ja": "達成条件：メルトール海峡南にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Northern Strait of Merlthor",
+   "ja": "豊漁：メルトール海峡北",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in the northern Strait of Merlthor.",
+   "req_ja": "達成条件：メルトール海峡北にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Rhotano Sea",
+   "ja": "豊漁：ロータノ海",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in the Rhotano Sea.",
+   "req_ja": "達成条件：ロータノ海にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 150,
+   "en": "Fabled Fishers",
+   "ja": "伝説の大漁旗",
+   "req_en": "Requirement: As a party, catch 3 or more ★★★★★ fish.",
+   "req_ja": "達成条件：パーティで合計3匹以上の★★★★★の魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Favored by Llymlaen",
+   "ja": "リムレーンの愛し子",
+   "req_en": "Requirement: Cause a spectral current to occur.",
+   "req_ja": "達成条件：自身で幻海流を発生させる。"
+  },
+  {
+   "bonus": 120,
+   "en": "Octopus Travelers",
+   "ja": "オクトパストラベラー",
+   "req_en": "Requirement: As a party, catch 150 or more octopodes.",
+   "req_ja": "達成条件：パーティ合計で150匹以上、タコを釣り上げる。"
+  },
+  {
+   "bonus": 130,
+   "en": "Certifiable Shark Hunters",
+   "ja": "シャークハンター",
+   "req_en": "Requirement: As a party, catch 200 or more sharks.",
+   "req_ja": "達成条件：パーティ合計で200匹以上、サメを釣り上げる。"
+  },
+  {
+   "bonus": 120,
+   "en": "Jelled Together",
+   "ja": "クラゲマニア",
+   "req_en": "Requirement: As a party, catch 150 or more jellyfish.",
+   "req_ja": "達成条件：パーティ合計で150匹以上、クラゲを釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Maritime Dragonslayers",
+   "ja": "シードラゴンキラー",
+   "req_en": "Requirement: As a party, catch 100 or more seahorses.",
+   "req_ja": "達成条件：パーティ合計で100匹以上、タツノオトシゴを釣り上げる。"
+  },
+  {
+   "bonus": 105,
+   "en": "Ocean Fishing Amateur",
+   "ja": "初級海釣り師",
+   "req_en": "Requirement: Complete one mission during an ocean fishing voyage.",
+   "req_ja": "達成条件：船上でのミッションを1つ達成する。"
+  },
+  {
+   "bonus": 110,
+   "en": "Ocean Fishing Enthusiast",
+   "ja": "中級海釣り師",
+   "req_en": "Requirement: Complete two missions during an ocean fishing voyage.",
+   "req_ja": "達成条件：船上でのミッションを2つ達成する。"
+  },
+  {
+   "bonus": 120,
+   "en": "Ocean Fishing Fanatic",
+   "ja": "上級海釣り師",
+   "req_en": "Requirement: Complete three missions during an ocean fishing voyage.",
+   "req_ja": "達成条件：船上でのミッションを3つ達成する。"
+  },
+  {
+   "bonus": 130,
+   "en": "Balloon Catchers",
+   "ja": "バルーンキャッチャー",
+   "req_en": "Requirement: As a party, catch 250 or more fugu.",
+   "req_ja": "達成条件：パーティ合計で250匹以上、フグを釣り上げる。"
+  },
+  {
+   "bonus": 130,
+   "en": "Crab Boat Crew",
+   "ja": "蟹工船",
+   "req_en": "Requirement: As a party, catch 250 or more crabs.",
+   "req_ja": "達成条件：パーティ合計で250匹以上、カニを釣り上げる。"
+  },
+  {
+   "bonus": 120,
+   "en": "Sticking it to the Manta",
+   "ja": "エイエイオー",
+   "req_en": "Requirement: As an individual, catch 25 or more mantas.",
+   "req_ja": "達成条件：個人合計で25匹以上、エイを釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Galadion Bay",
+   "ja": "豊漁：ガラディオン湾",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in Galadion Bay. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：ガラディオン湾にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Galadion Bay",
+   "ja": "豊漁：ガラディオン湾",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in Galadion Bay. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：ガラディオン湾にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Southern Strait of Merlthor",
+   "ja": "豊漁：メルトール海峡南",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in the southern Strait of Merlthor. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：メルトール海峡南にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Southern Strait of Merlthor",
+   "ja": "豊漁：メルトール海峡南",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in the southern Strait of Merlthor. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：メルトール海峡南にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Northern Strait of Merlthor",
+   "ja": "豊漁：メルトール海峡北",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in the northern Strait of Merlthor. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：メルトール海峡北にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Northern Strait of Merlthor",
+   "ja": "豊漁：メルトール海峡北",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in the northern Strait of Merlthor. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：メルトール海峡北にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Rhotano Sea",
+   "ja": "豊漁：ロータノ海",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in the Rhotano Sea. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：ロータノ海にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Rhotano Sea",
+   "ja": "豊漁：ロータノ海",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in the Rhotano Sea. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：ロータノ海にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Cieldalaes",
+   "ja": "豊漁：シェルダレー諸島",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in the Cieldalaes.",
+   "req_ja": "達成条件：シェルダレー諸島にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Cieldalaes",
+   "ja": "豊漁：シェルダレー諸島",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in the Cieldalaes. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：シェルダレー諸島にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Cieldalaes",
+   "ja": "豊漁：シェルダレー諸島",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in the Cieldalaes. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：シェルダレー諸島にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Bloodbrine Sea",
+   "ja": "豊漁：緋汐海",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in the Bloodbrine Sea.",
+   "req_ja": "達成条件：緋汐海にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Bloodbrine Sea",
+   "ja": "豊漁：緋汐海",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in the Bloodbrine Sea. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：緋汐海にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Bloodbrine Sea",
+   "ja": "豊漁：緋汐海",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in the Bloodbrine Sea. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：緋汐海にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Rothlyt Sound",
+   "ja": "豊漁：ロズリト湾",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in Rothlyt Sound.",
+   "req_ja": "達成条件：ロズリト湾にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Rothlyt Sound",
+   "ja": "豊漁：ロズリト湾",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in Rothlyt Sound. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：ロズリト湾にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Rothlyt Sound",
+   "ja": "豊漁：ロズリト湾",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in Rothlyt Sound. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：ロズリト湾にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 130,
+   "en": "Maximum Mussel",
+   "ja": "貝殻収集家",
+   "req_en": "Requirement: As a party, catch 350 or more shellfish.",
+   "req_ja": "達成条件：パーティ合計で350匹以上、貝を釣り上げる。"
+  },
+  {
+   "bonus": 130,
+   "en": "Squid Squadron",
+   "ja": "スルメドラグーン",
+   "req_en": "Requirement: As a party, catch 400 or more squid.",
+   "req_ja": "達成条件：パーティ合計で400匹以上、イカを釣り上げる。"
+  },
+  {
+   "bonus": 120,
+   "en": "Shrimp Smorgasbord",
+   "ja": "海老散らない",
+   "req_en": "Requirement: As an individual, catch 50 or more shrimp.",
+   "req_ja": "達成条件：個人合計で50匹以上、エビを釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Sirensong Sea",
+   "ja": "豊漁：セイレーン海",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in the Sirensong Sea.",
+   "req_ja": "達成条件：セイレーン海にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Sirensong Sea",
+   "ja": "豊漁：セイレーン海",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in the Sirensong Sea. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：セイレーン海にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Sirensong Sea",
+   "ja": "豊漁：セイレーン海",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in the Sirensong Sea. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：セイレーン海にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Kugane Coast",
+   "ja": "豊漁：クガネ",
+   "req_en": "Requirement: As a party, catch 10 or more different fish at the Kugane coast.",
+   "req_ja": "達成条件：クガネにてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Kugane Coast",
+   "ja": "豊漁：クガネ",
+   "req_en": "Requirement: As a party, catch 9 or more different fish at the Kugane coast. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：クガネにてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Kugane Coast",
+   "ja": "豊漁：クガネ",
+   "req_en": "Requirement: As a party, catch 8 or more different fish at the Kugane coast. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：クガネにてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Ruby Price",
+   "ja": "豊漁：紅玉海",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in the Ruby Price.",
+   "req_ja": "達成条件：紅玉海にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Ruby Price",
+   "ja": "豊漁：紅玉海",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in the Ruby Price. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：紅玉海にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Ruby Price",
+   "ja": "豊漁：紅玉海",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in the Ruby Price. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：紅玉海にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Lower One River",
+   "ja": "豊漁：無二江",
+   "req_en": "Requirement: As a party, catch 10 or more different fish in the lower One River.",
+   "req_ja": "達成条件：無二江にてパーティ合計で10種類以上、魚を釣り上げる。"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Lower One River",
+   "ja": "豊漁：無二江",
+   "req_en": "Requirement: As a party, catch 9 or more different fish in the lower One River. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：無二江にてパーティ合計で9種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  },
+  {
+   "bonus": 110,
+   "en": "Bream Team: Lower One River",
+   "ja": "豊漁：無二江",
+   "req_en": "Requirement: As a party, catch 8 or more different fish in the lower One River. (Target number adjusted for party size.)",
+   "req_ja": "達成条件：無二江にてパーティ合計で8種類以上、魚を釣り上げる。(パーティ人数による補正発動中)"
+  }
+ ],
+ "achievements": [
+  {
+   "en": "Denizens of Galadion",
+   "ja": "ガラディオン湾沖合の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Denizens of South Merlthor",
+   "ja": "メルトール海峡南の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Denizens of the Rhotano",
+   "ja": "ロータノ海沖合の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Denizens of North Merlthor",
+   "ja": "メルトール海峡北の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "On a Boat I",
+   "ja": "世界を釣る者：ランク1",
+   "reward": ""
+  },
+  {
+   "en": "On a Boat II",
+   "ja": "世界を釣る者：ランク2",
+   "reward": ""
+  },
+  {
+   "en": "On a Boat III",
+   "ja": "世界を釣る者：ランク3",
+   "reward": ""
+  },
+  {
+   "en": "No More Fish in the Sea I",
+   "ja": "オーシャンフィッシャー：ランク1",
+   "reward": "The Major-General"
+  },
+  {
+   "en": "No More Fish in the Sea II",
+   "ja": "オーシャンフィッシャー：ランク2",
+   "reward": "Hybodus Horn"
+  },
+  {
+   "en": "No More Fish in the Sea III",
+   "ja": "オーシャンフィッシャー：ランク3",
+   "reward": "Ocean Fisher"
+  },
+  {
+   "en": "What Did Octopodes Do to You?",
+   "ja": "オクトパストラベラー",
+   "reward": "Octopus Traveler"
+  },
+  {
+   "en": "What Did Sharks Do to You?",
+   "ja": "シャークハンター",
+   "reward": "Shark Hunter"
+  },
+  {
+   "en": "What Did Jellyfish Do to You?",
+   "ja": "クラゲマニア",
+   "reward": "Jellyfish Fanatic"
+  },
+  {
+   "en": "What Did Seadragons Do to You?",
+   "ja": "シードラゴンキラー",
+   "reward": "Sea Dragoon"
+  },
+  {
+   "en": "Denizens of the Cieldalaes",
+   "ja": "シェルダレー諸島沖合の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Denizens of the Bloodbrine",
+   "ja": "緋汐海沖合の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Denizens of the Rothlyt Sound",
+   "ja": "ロズリト湾沖合の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Specters of the Cieldalaes",
+   "ja": "シェルダレー諸島沖合の幻海王",
+   "reward": ""
+  },
+  {
+   "en": "Specters of the Bloodbrine",
+   "ja": "緋汐海沖合の幻海王",
+   "reward": ""
+  },
+  {
+   "en": "Specters of the Rothlyt Sound",
+   "ja": "ロズリト湾沖合の幻海王",
+   "reward": ""
+  },
+  {
+   "en": "What Did Balloons Do to You?",
+   "ja": "バルーンキャッチャー",
+   "reward": "Balloon Catcher"
+  },
+  {
+   "en": "What Did Crabs Do to You?",
+   "ja": "蟹工船",
+   "reward": "Deadliest Catcher"
+  },
+  {
+   "en": "What Did Mantas Do to You?",
+   "ja": "エイエイオー",
+   "reward": "Manta Maniac"
+  },
+  {
+   "en": "On a Boat IV",
+   "ja": "世界を釣る者：ランク4",
+   "reward": "Much-coveted Mora"
+  },
+  {
+   "en": "On a Boat V",
+   "ja": "世界を釣る者：ランク5",
+   "reward": "World-class Troller"
+  },
+  {
+   "en": "No More Fish in the Sea IV",
+   "ja": "オーシャンフィッシャー：ランク4",
+   "reward": "Master of the Sea"
+  },
+  {
+   "en": "Denizens of the Sirensong Sea",
+   "ja": "セイレーン海沖合の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Denizens of the Kugane Coast",
+   "ja": "クガネ沖合の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Denizens of the Ruby Sea",
+   "ja": "紅玉海沖合の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Denizens of the One River",
+   "ja": "ヤンサ下流の魚拓王",
+   "reward": ""
+  },
+  {
+   "en": "Specters of the Sirensong Sea",
+   "ja": "セイレーン海沖合の幻海王",
+   "reward": ""
+  },
+  {
+   "en": "Specters of the Kugane Coast",
+   "ja": "クガネ沖合の幻海王",
+   "reward": ""
+  },
+  {
+   "en": "Specters of the Ruby Sea",
+   "ja": "紅玉海沖合の幻海王",
+   "reward": ""
+  },
+  {
+   "en": "Specters of the One River",
+   "ja": "ヤンサ下流の幻海王",
+   "reward": ""
+  },
+  {
+   "en": "Near, Far, Wherever Fish Are I",
+   "ja": "ビッグオーシャンフィッシャー：ランク1",
+   "reward": ""
+  },
+  {
+   "en": "Near, Far, Wherever Fish Are II",
+   "ja": "ビッグオーシャンフィッシャー：ランク2",
+   "reward": "Mossasaurus"
+  },
+  {
+   "en": "Near, Far, Wherever Fish Are III",
+   "ja": "ビッグオーシャンフィッシャー：ランク3",
+   "reward": "Doom of the Deep"
+  },
+  {
+   "en": "What Did Shellfish Do to You?",
+   "ja": "貝殻収集家",
+   "reward": "Sea Comber"
+  },
+  {
+   "en": "What Did Squid Do to You?",
+   "ja": "スルメドラグーン",
+   "reward": "Squidzure Dragoon"
+  },
+  {
+   "en": "What Did Shrimp Do to You?",
+   "ja": "海老散らない",
+   "reward": "Shrimp Mariner"
+  }
+ ]
+}
