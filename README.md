@@ -89,6 +89,25 @@ Smorgasbord / Prehistoric Professionals / Time Waits for No Mantis"); intuition 
 (e.g. Manasvin: 3× Satrapsaurus (15 s); Akupara: 2× Cieldalaes Roosterfish (20 s)); mooch chains
 (e.g. Akupara mooched from Cieldalaes Roosterfish; Tylosaurus from Captain's Pen / Cieldalaes Roosterfish).
 
+## Sources & credits
+
+Unofficial fan reference. **FINAL FANTASY XIV** and all game content — fish and item names, item
+descriptions, achievements, route and objective names — are © Square Enix. No data here was mined from
+the game client: everything is compiled from community work, and the credit for that work is theirs.
+
+| Source | What came from it |
+|---|---|
+| **Ocean Fishing Spreadsheet** — maintained by Tyo'to Tayuun ([sheet](https://docs.google.com/spreadsheets/d/1R0Nt8Ye7EAQtU8CXF1XRRj67iaFpUk1BXeDgt6abxsQ/edit?gid=1246028214)) | The richest source. It is organised as 9 Ruby route blocks, each with per-bait bite times, Points Average, DH/TH yields, hooking bite (tug), hookset, availability, stars and Notes (achievement membership, intuition chains, mooch routes). Parsed into `spreadsheet-routes.json` and `spreadsheet-fish.csv`, and it is where the Ruby stops, the availability column and the pre-7.5 route names come from. |
+| **ffxiv.oceanfishing.boats** — the current community tracker | The post-7.5 authority. Its own schedule calculator supplied every occurrence of the 9 Ruby routes that the 144-voyage pattern was derived from, and its data confirmed the Patch 7.5 **Thavnairian coast** route. |
+| **ffxiv.pf-n.co** — the legacy tracker (pre-7.5) | The `window.OceanFishingData` snapshot behind `site-data/OceanFishingData.json` (220 fish, 23 spots) — that is where the Indigo fish data comes from. It predates Patch 7.5, so it is used for Indigo only. Its about page also publishes the Indigo destination/time algorithm. |
+| **Teamcraft** — [ffxivteamcraft.com](https://ffxivteamcraft.com/) | The bite-time samples behind `bite-times.json` / `bite-times.csv`. Following the tracker, a range is defined as the whiskers of a boxplot: quartiles by R's type-7 algorithm, discarding samples more than 1.5 × IQR from the median. |
+| **pillowfication/ffxiv** on GitHub — [src/ocean-fishing](https://github.com/pillowfication/ffxiv/tree/master/src/ocean-fishing/ffxiv-ocean-fishing) | The open-source project both trackers are built from, and where the Indigo route `PATTERN`, its offset and the voyage algorithm are published. A 2023 snapshot (commit `afd0e175`) is kept in `data/`. |
+| **ffxiv-fieldcraft.com** | A current, 7.5-aware companion source, used to confirm the three Ruby voyage paths (One River, Ruby Price, Thavnairian coast) and post-7.5 content. |
+| **The Fisherman's Horizon Discord** — [discord.gg/AnFaDpN](https://discord.gg/AnFaDpN) | The community maintained by the spreadsheet and tracker authors, and where they direct data errors and the fish-specific bait/strategy cases. |
+
+Nothing in this repo is taken on trust: the schedules were recomputed from Unix time and checked against
+the live tracker, and `scripts/route.py` reproduces both families' current routes.
+
 ## Files
 
 | File | What |
