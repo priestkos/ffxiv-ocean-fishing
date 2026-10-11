@@ -35,6 +35,7 @@ def page(slug, title, body, blurb=""):
 </div></footer>
 <script src="assets/data.js"></script>
 <script src="assets/site.js"></script>
+<script src="assets/ocean.js"></script>
 </body>
 </html>
 """
